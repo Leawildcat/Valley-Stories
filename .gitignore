@@ -1,10 +1,6 @@
 # Ignore PDFs
 *.pdf
 
-# Ignore Word docs
-*.doc
-*.docx
-
 # Ignore backup files
 *.bak
 *.backup
@@ -42,7 +38,3 @@ build/
 *.jpeg
 *.gif
 *.webp
-
-# Ignore local-only HTML versions
-local/
-local_html/
