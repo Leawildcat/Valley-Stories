@@ -1,0 +1,40 @@
+# Ignore PDFs
+*.pdf
+
+# Ignore backup files
+*.bak
+*.backup
+*~ 
+
+# Ignore temporary editor files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Ignore VS Code workspace junk
+.vscode/
+
+# Ignore macOS junk
+.DS_Store
+
+# Ignore Windows junk
+Thumbs.db
+desktop.ini
+
+# Ignore HTML build artifacts (if any)
+dist/
+build/
+
+# Ignore zip archives
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Ignore images if you don’t want them in the repo
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
