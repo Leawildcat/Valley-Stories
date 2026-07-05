@@ -1,0 +1,27 @@
+Old paperback hex color code #F6EFDF
+
+Raven Feather Colors:
+very dark cyan #00372a
+midnight blue #191970
+deep indigo #2b0071
+dark violet #31008b
+
+Cinnamon Colors:
+Dark orange [Brown tone] #7b3f00
+Dark orange [Brown tone] Slightly lighter #A0522D
+
+Metallic Colors:
+COPPER
+HEX: #B87333  
+RGB: 184, 115, 51
+HSL: 29°, 58%, 46%
+
+GOLD
+HEX: #D4AF37  
+RGB: 212, 175, 55
+HSL: 46°, 68%, 52%
+
+SILVER
+HEX: #C0C0C0  
+RGB: 192, 192, 192
+HSL: 0°, 0%, 75%
