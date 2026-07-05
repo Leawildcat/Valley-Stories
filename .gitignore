@@ -4,7 +4,7 @@
 # Ignore backup files
 *.bak
 *.backup
-*~ 
+*~$
 
 # Ignore temporary editor files
 *.tmp
