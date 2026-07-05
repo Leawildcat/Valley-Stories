@@ -31,10 +31,3 @@ build/
 *.tar
 *.gz
 *.7z
-
-# Ignore images if you don’t want them in the repo
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.webp
