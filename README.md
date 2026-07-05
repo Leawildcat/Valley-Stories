@@ -11,5 +11,5 @@
 
 
 <p align="center">
-  <img src="image-url.jpg" width="400">
+  <img src="Valley Logo08.png" width="400">
 </p>
