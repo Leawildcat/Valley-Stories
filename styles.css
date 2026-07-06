@@ -46,7 +46,8 @@ a:visited {
 }
 
 ol {
-  margin-left: 4rem;
+  width: 60%;
+  margin-left: 10rem;
   padding-left: 0;
 }
 
