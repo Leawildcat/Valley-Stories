@@ -1,6 +1,6 @@
 
 <h1 align="center">The Valley-Stories</h1>
-<img src="Valley Logo08.png" align="right"; style="width:55%; float:right; margin-rightt:0.5rem;">
+<img src="Valley Logo08.png" align="right"; style="width:50%; float:right; margin-right:0.5rem;">
 
 [Read the Book](The%20Valley%20Stories%20-%20The%20Valley%20That%20Recalls01.html)
 
