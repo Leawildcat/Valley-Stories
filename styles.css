@@ -46,9 +46,9 @@ a:visited {
 }
 
 ol {
-  align-content: right;
+  align-self: right;
   margin: 0 auto;
-  padding-right: 4rem;
+  padding: 0 auto;
 }
 
 ol li {
