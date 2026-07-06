@@ -1,4 +1,5 @@
 Old paperback hex color code #F6EFDF
+    Touch darker #E8DCC0
 
 Raven Feather Colors:
 very dark cyan #00372a

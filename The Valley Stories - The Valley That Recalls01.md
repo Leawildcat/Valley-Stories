@@ -2,15 +2,15 @@ The Valley Stories
 
 Book 1: The Valley That Recalls
 
-1.  The Valley That Remembers 2
-2.  The Trickster and the Cougar 8
-3.  The Valley That Laughs 13
-4.  The Dog and the Cougar 21
-5.  The Valley That Awakens 30
-6.  Siblings: Round Two 37
-7.  The Valley That Steps Into the Light 44
-8.  Bears and Wolves, Oh My 54
-9.  The Valley That Dines 65
+1.  The Valley That Remembers 1
+2.  The Trickster and the Cougar 7
+3.  The Valley That Laughs 12
+4.  The Dog and the Cougar 20
+5.  The Valley That Awakens 29
+6.  Siblings: Round Two 36
+7.  The Valley That Steps Into the Light 43
+8.  Bears and Wolves, Oh My 53
+9.  The Valley That Dines 64
 
 # The Valley That Remembers
 
@@ -22,9 +22,7 @@ Aaron catches a glimpse of Davey’s wild hair as he disappears behind a large o
 
 Kevin gives Davey a slap to the back of his head as he rolls off him. They are finally separated, lying in a row, looking at clouds turning shades of red to purple as the sun starts to set. Davey rolls over onto his stomach still rubbing the back of his head after Aaron’s impact and the slap when he remembers what caused him to stop so suddenly. He raises himself on his elbows and looks up. The dog is sitting, poised like a statue guarding a door, in a ring of aspens with the leaves shimmering gold.
 
-Another chill runs down his spine. Davey realizes the dog is a painted dog belonging to the plains of Africa but seems, oddly enough, to belong here in the Rockies. He can read the mischief and see the smile on the dog’s face. At its feet is his prized rainbow trout. As he starts to crawl forward feeling a rock under his elbow, he realizes the dog is not alone. He catches his breath as he looks up and nudges Kevin beside him. Kevin rolls over and looks up, nudging
-
-Aaron who does the same. Breathing heavily from the collision, they all spot the lady behind the dog, catching and holding their collective breaths.
+Another chill runs down his spine. Davey realizes the dog is a painted dog belonging to the plains of Africa but seems, oddly enough, to belong here in the Rockies. He can read the mischief and see the smile on the dog’s face. At its feet is his prized rainbow trout. As he starts to crawl forward feeling a rock under his elbow, he realizes the dog is not alone. He catches his breath as he looks up and nudges Kevin beside him. Kevin rolls over and looks up, nudging Aaron who does the same. Breathing heavily from the collision, they all spot the lady behind the dog, catching and holding their collective breaths.
 
 She is almost as tall as and matching in size to the cinnamon bear next to her, who is resting her paw on the lady’s shoulder. Kevin is struck with a feeling of looking at a trick mirror showing the human reflection in the animal, or was it the other way around. The bear must be at least six feet tall and the woman only inches shorter. Both have wide, strong shoulders and large chests tapering down to the hips and sturdy powerful legs. They look at each other and smile. Then the bear nods to the lady, giving what looks like a playful wink. Her smile reaches her eyes as she covers the bear’s paw with her hand in a gesture of *I got this*. The bear pivots and drops with a soft thud the brothers feel through the ground into their bodies, disappearing into the forest behind her.
 
@@ -34,9 +32,7 @@ The painted dog gives a high yip with her tail going back and forth like a posse
 
 Another challenging grin appears across the dog’s face as it yips and drops into a crouch challenging one of them to reach for it. Davey cannot resist the challenge and glances at the lady for her disapproval. Finding none, he tries to quickly snatch the trout, but it slips out of Davey’s fingers. Kevin lunges, grabbing at it, but it slips through his palms and as Aaron reaches for the fish, the dog snatches it out of his grasp. The lady lets slip a soft laugh that reminds Kevin of the wind chimes on his grandmother’s porch. The ridiculousness of the moment hits Kevin square in the funny bone. He feels the laughter bubbling up inside of him. He glances toward his brothers, who are wearing identical strained expressions as they try to hold in their giggles. Eventually failing, everyone including the dog falls into laughter that echoes off the mountains filling the forest with a humor that even the trees respond to.
 
-As the laughter settles, the men realize that night is falling, and the lady senses the fear of the darkness descending on them along with the doubts about which direction their camp lies. She leans over, holding her hand out, and the dog places the fish in her hand, which she then offers to Davey. Davey stands and senses his brothers do the same. He suddenly feels very tiny in the group of taller adults. He timidly takes the fish from her and tries to thank her, but finds his voice
-
-fails him. Suddenly aware of the smell of fish and musky sweat, he blushes and tries to speak again, but Kevin, his love for dogs shining through, interrupts, asking simply, “Yours?”
+As the laughter settles, the men realize that night is falling, and the lady senses the fear of the darkness descending on them along with the doubts about which direction their camp lies. She leans over, holding her hand out, and the dog places the fish in her hand, which she then offers to Davey. Davey stands and senses his brothers do the same. He suddenly feels very tiny in the group of taller adults. He timidly takes the fish from her and tries to thank her, but finds his voice fails him. Suddenly aware of the smell of fish and musky sweat, he blushes and tries to speak again, but Kevin, his love for dogs shining through, interrupts, asking simply, “Yours?”
 
 She shifts her gaze to Kevin who is now scratching the dog between the ears. The lady replies, “She chose me.” At the sound of the lady’s voice, the dog steps back to sit next to the lady, tail wagging and head cocked with an air of wanting to continue to play. The lady smiles again and looks at the sky, the first few stars twinkling into life as the mountains glow from the sun setting for the night. She allows her gaze to settle on the brothers and says, “I’m Lea. Follow me.”
 
@@ -48,9 +44,7 @@ Kevin takes a deep breath, savoring the floral and honeysuckle scents the valley
 
 He stumbles as his mind catches up with the image of Davey at six, when his heart reminds him Davey has always been a kid at heart. Reaching out for Aaron, his big brother steadies him. At his brother’s touch, memories flood him of being eight and Aaron teaching him to skate. Aaron makes sure he’s stable before turning and catching up to Davey. He looks down at himself and then looks for Aaron and Davey. His heart fills with glee as they have all returned to a time when they were young and wild and free.
 
-Lea, with the dog and wolf to each side of her, enters the glow of the campfire. The canine pair go and settle in next to the lake, close enough to watch but not close enough to be in the way. She goes to some saddle bags, and the smell of old, oiled leather overpowers the food cooking on
-
-the fire as she loosens the buckles and flips the flaps back. She hands him a tightly woven grass mesh bag. Lea instructs him what to do with it. “Place your fish in this mesh bag. Then, secure it to the post there by the rocky outcrop. Lower it into the deeper, cooler water and it will stay fresh until the morning.”
+Lea, with the dog and wolf to each side of her, enters the glow of the campfire. The canine pair go and settle in next to the lake, close enough to watch but not close enough to be in the way. She goes to some saddle bags, and the smell of old, oiled leather overpowers the food cooking on the fire as she loosens the buckles and flips the flaps back. She hands him a tightly woven grass mesh bag. Lea instructs him what to do with it. “Place your fish in this mesh bag. Then, secure it to the post there by the rocky outcrop. Lower it into the deeper, cooler water and it will stay fresh until the morning.”
 
 Davey, still shy, squeaks out, “Thanks.” Davey turns only to run into his brothers again like a brick wall. He drops the bag and the fish. They are not the men he entered with but the boys who took him on his first camping and fishing trip at the tender age of six. All three bend over at once to reach down and pick up the bag and fish, heads knocking together. Davey glares at his brothers, irritated that no one got the bag. “Just let me get it,” he grumbles, picking up the bag and holding it open. Aaron dangles the fish for a few heartbeats over the open bag, before dropping the fish inside. Davey shoves Kevin roughly out of the way. Kevin responds by sticking his tongue out at his little brother. Aaron rolls his eyes and remembers why the Irish twins at six was not all that great for him.
 
@@ -60,9 +54,7 @@ Satisfied they are done and washing properly, Aaron waits patiently for his turn
 
 They look around, not sure where to go next. Without looking up from the pot she is dishing from, Lea calmly states, “Pull up some dirt boys, and have a seat.” They shrug and sit down cross-legged close to the fire like they have done so many times before. Kevin admires the beauty of the rocks arranged to create a cooking and containment area he had only seen in old westerns.
 
-Kevin looks up as Aaron returns, smelling of sage, and watches him hand the items back to Lea. He notices how there seems to be an ease between the two with no words spoken, but moving quietly in sync. She hands him two bowls, picks up two more from near the fire. She walks over,
-
-handing one of the bowls to him, gracefully folding herself down into the cross-legged posture across from them. Aaron hands Davey a bowl and takes his place between her and Davey.
+Kevin looks up as Aaron returns, smelling of sage, and watches him hand the items back to Lea. He notices how there seems to be an ease between the two with no words spoken, but moving quietly in sync. She hands him two bowls, picks up two more from near the fire. She walks over, handing one of the bowls to him, gracefully folding herself down into the cross-legged posture across from them. Aaron hands Davey a bowl and takes his place between her and Davey.
 
 She reaches around, grabs four tin cups, and fills them with the coffee pot, placing one in front of each of them. The bowls, still steaming, are filled with a spicy, sweet vegetable stew with cornbread wedges that remind each of them of sitting in their grandmother’s kitchen on a cool fall night. Davey’s is gone before the others are half finished, and he panics, wondering if he’s allowed seconds. He reaches for his cup, taking a big drink. He has swallowed half of it before it registers it’s not the coffee he was expecting. He’s drinking tea with a hint of mint, something soothing he can’t place, and sweetened with blackberries.
 
@@ -78,9 +70,7 @@ Aaron swallows hard and feels that tug in himself again. Mistaking it as a nudge
 
 Lea nods toward the wolf and dog. “You are most welcome. I’m sorry for the trouble with the fish today, but she is one to always play and be happy.” She and Aaron walk to the edge of the lake and make quick work of the washing. Aaron settles back next to Davey, and before Lea can make a move to reclaim her place, she looks up at the sky and quietly adds, “Another visitor tonight. The inn is full.”
 
-Full and sated, the brothers lean back and watch the sparks drift like fireflies as Lea adds another log to the fire. As the sparks fade out, the hawk slowly circles down just out of the reach of the flames. Lea moves back a few steps and reaches out her arm where the hawk lands. They seem to
-
-have a conversation, and she gently strokes his back and beak before helping him launch back into the air as he enters the canopy.
+Full and sated, the brothers lean back and watch the sparks drift like fireflies as Lea adds another log to the fire. As the sparks fade out, the hawk slowly circles down just out of the reach of the flames. Lea moves back a few steps and reaches out her arm where the hawk lands. They seem to have a conversation, and she gently strokes his back and beak before helping him launch back into the air as he enters the canopy.
 
 The dog and wolf take up their positions beside her as she pivots and moves toward the far end of the lake, where a willow is gently swaying in the breeze. She nods goodnight to the cinnamon bear as she enters the canopy of branches to lay her head for the night. Lea moves toward the fire with her sentries by her side. The brothers lose sight of her in the flames of the campfire and sit up in unison. They still cannot see her and rub their eyes. When their focus returns, Lea is gone, and a cougar sits between the wolf and dog.
 
@@ -136,7 +126,9 @@ The raven begins to shimmer and fade around the edges as the sunlight touches hi
 
 “Not my fault he was in the way and doesn’t know how to do a proper takeoff.”
 
-“He lives here and was giving me my morning report and that you were coming for a visit.” He counters with a smirk, “So do I, sometimes. Maybe I wanted it to be a surprise.”
+“He lives here and was giving me my morning report and that you were coming for a visit.”
+
+He counters with a smirk, “So do I, sometimes. Maybe I wanted it to be a surprise.”
 
 Throwing her hands up in the air in frustration, she says, “Jack, you can’t ever do surprises. I mean the heralding you entered with and changing into crow form. Gimme a break. What do you want?”
 
@@ -256,7 +248,9 @@ Lea bursts out laughing. “Maybe you just have enough charm to soothe all kinds
 
 Frank gives her his wildfire smile. “You know it, darlin’!” Frank’s color drains and in a panicked voice declares, “Wait! What the hell is that?” Frank feels something nibbling at his toes as he scrambles back away from the lake’s edge.
 
-Lea, with a serious and concerned face, says, “What the hell is what?” “Something…in the water there…was nibbling at my toes!”
+Lea, with a serious and concerned face, says, “What the hell is what?”
+
+“Something…in the water there…was nibbling at my toes!”
 
 Lea leans over and looks into the water. “I don’t see anything. Are you sure you didn’t hurt your foot chasing Jack?” She shrugs. “Maybe it’s just nerves after twisting your ankle.”
 
@@ -272,7 +266,9 @@ With a smug smile and a voice laced with the laughter underneath, Jack replies, 
 
 Frank shifts nervously and blushes. “I guess I did overreact just a little bit. It’s been a crazy day with the animals all around.” He studies Lea for a moment, replaying the conversation in his head, and is impressed she actually met him at his level of wit. Frank feels a sense of admiration when it dawns on him she was able to escalate and outperform him. He feels his spark returning and a new challenge.
 
-Jack disrupts Frank’s thoughts when he places a hand on his shoulder. “You okay, dude?” “Yeah, sorry, just lost in thought for a minute. Did I miss something?”
+Jack disrupts Frank’s thoughts when he places a hand on his shoulder. “You okay, dude?”
+
+“Yeah, sorry, just lost in thought for a minute. Did I miss something?”
 
 The smirk on Lea’s face has returned, and she shakes her head, causing a cascading wave of liquid metals. “I was saying if we are going to get you back to the campsite and to your car before dark, we had best be going. Do you think you can walk?”
 
@@ -280,7 +276,7 @@ The smirk on Lea’s face has returned, and she shakes her head, causing a casca
 
 “You two kids go on. I’m not dressed to wander the woods tonight. I’ll just stay here and prepare dinner. Nice to meet you Frank.” A pure devilish grin spreads over his face. “Sis, you might want to tether him so you can lead him proper through the forest since you don’t have tail feathers for him to follow.”
 
-Frank blushes again and is flustered. “Is he a big brother or a little brother? Nice to meet you too, I think, Jack."
+Frank blushes again and is flustered. “Is he a big brother or a little brother? Nice to meet you too, I think, Jack.”
 
 Lea shoots her brother an evil glare before shifting her gaze back to Frank and, with an edge of irritation, proclaims, “A big bother!” She walks over and gives him a hug. She whispers in his ear, “I think the cougar wants roasted crow for dinner.” All color beneath the tan drains from Jack’s face as she kisses his cheek. She pulls away, but before breaking the hug, lands a slap to the back of the head. He laughs and waves goodbye to her and Frank before rubbing the back of his head.
 
@@ -310,9 +306,7 @@ Lea heads back to the valley, head down, feet knowing the path by heart. Her hea
 
 She pauses just past the tree line at the entrance to the valley and takes a deep breath, inhaling the peace and serenity to calm the emotions churning inside of her. She catches an underlying smell of deep moisture and feels the wind pick up. Sensing the pressure drop, she scans the sky and catches the flashes of light to the northwest just beyond the swell of a mountain peak, indicating a storm is coming. It fits her mood as the emotions start to storm inside of her again, mixing memories with her inner voices mapping the pattern. She feels soft fur and a round ear against her knuckles as the dog nuzzles her hand and leans into her. Lea looks down and tells Kaya, “Lean on your own supper.” Kaya lets out a small whine, reminding Lea that there has been no dinner.
 
-Kaya jumps up and bounces behind Lea, making sure her tail thumps against her thigh twice. Kaya starts pushing Lea from behind towards the firepit, which has a faint glow from the last few embers still alive. Lea doesn’t budge. Kaya pushes harder towards the campsite by the lake, causing Lea to stumble forward, accidentally colliding with the wolf and stepping on her tail.
-
-The wolf lets out a small yip and a low growl, flattening her ears before nipping at Kaya. Kaya evades the nip and yips back. The wolf sighs and heads toward the dying fire. Kaya again plants her head on Lea’s backside, pushing hard. Lea deftly side steps, and Kaya goes tumbling forward colliding with the wolf. The wolf, ears flattened, snarls at Kaya, who immediately lowers her head in an attempt to apologize.
+Kaya jumps up and bounces behind Lea, making sure her tail thumps against her thigh twice. Kaya starts pushing Lea from behind towards the firepit, which has a faint glow from the last few embers still alive. Lea doesn’t budge. Kaya pushes harder towards the campsite by the lake, causing Lea to stumble forward, accidentally colliding with the wolf and stepping on her tail. The wolf lets out a small yip and a low growl, flattening her ears before nipping at Kaya. Kaya evades the nip and yips back. The wolf sighs and heads toward the dying fire. Kaya again plants her head on Lea’s backside, pushing hard. Lea deftly side steps, and Kaya goes tumbling forward colliding with the wolf. The wolf, ears flattened, snarls at Kaya, who immediately lowers her head in an attempt to apologize.
 
 Lea begrudgingly declares, “Alright. I’m going. *I’m going*. Before a fight ensues between you two!”
 
@@ -336,13 +330,11 @@ With her hunger satisfied, she settles onto the futon and leans her back against
 
 The fire pops and the memory flickers into view in the darkened movie theater behind her eyes, as Kaya’s ears and paws twitch from dreaming. The smells of the smoke and storm morph into dusty sage and hot earth at sunset on the south plains. The wall at her back transforms from the cool limestone into warm concrete baked in the sun all day. The sounds of the storm and crackling of the fire drop her into the hum of machinery, her radio crackling as she reports back to her boss, “Valve closed,” and he responds with “10-4.” She surveys the plant and notices the silhouette of a canid figure and wonders if another pet has been abandoned in the area or if it is a coyote. She shrugs and continues on her rounds checking equipment and taking readings.
 
-She drives across the plant and stops outside the door. She spends a few minutes glaring at the door before she kills the engine. She already knows what she’s going to find: the same thing she’s found for the last three months, a mess from the prior two shifts for her to clean up. It was just a continuation of the pattern she knew and sensed was coming six months earlier when accusations were flying, feelings were hurt, and pride was trampled on. Being around men was never an issue for Lea. Growing up on a ranch and spending time following her grandfather around as he went on reservation business, she had always seemed to be amongst men and boys. Then there was Jack, always dramatic, always with the eldest energy, and always the trickster.
+She drives across the plant and stops outside the door. She spends a few minutes glaring at the door before she kills the engine. She already knows what she’s going to find: the same thing she’s found for the last three months, a mess from the prior two shifts for her to clean up. It was just a continuation of the pattern she knew and sensed was coming six months earlier when accusations were flying, feelings were hurt, and pride was trampled on. Being around men was never an issue for Lea. Growing up on a ranch and spending time following her grandfather around as he went on reservation business, she had always seemed to be amongst men and boys.
 
-This was a whole new experience in men, one she had never encountered on such a level before. The competition, the slights on pride, the proving herself over and over again to earn trust, and the reluctant acknowledgment that she knew her job and knew it well despite being female were a different playground altogether. Her mentor, the one who encouraged her to move from the safety of the laboratory to field operations, was also her biggest betrayer and part of the reason she had twenty-four hours of mess to clean up. She closes her eyes and tamps down those feelings, knowing now is not the time to analyze them, because she has a job to do. It was the life of being the only female in two baker’s dozen good ol’ boys.
+Then there was Jack, always dramatic, always with the eldest energy, and always the trickster. This was a whole new experience in men, one she had never encountered on such a level before. The competition, the slights on pride, the proving herself over and over again to earn trust, and the reluctant acknowledgment that she knew her job and knew it well despite being female were a different playground altogether. Her mentor, the one who encouraged her to move from the safety of the laboratory to field operations, was also her biggest betrayer and part of the reason she had twenty-four hours of mess to clean up. She closes her eyes and tamps down those feelings, knowing now is not the time to analyze them, because she has a job to do. It was the life of being the only female in two baker’s dozen good ol’ boys.
 
-It is starting to get stuffy in the truck even with the window rolled down, so she opens the door to face the inevitable and gets out, stretching like the cougar she is. She scans the plant, looking for anything out of the ordinary, and she spots the canid again watching her from the edge of the lighted circle of a sodium light by the back gate. What she thought was a dog or a coyote is something in between, and it dawns on her it is a painted dog she has only seen in pictures and at zoos. The dog is observing her closely, ears and tail erect, registering every micromovement she is making. Rounded ears and the coat with the pattern of what she once saw in the sand dunes of red dirt and pale caliche mix to form a tan that is almost like a pale ale she enjoyed. Black spots and patterns look as if someone had taken a wet paintbrush and just flicked it hard and sharp at the dog. The fur is not straight and sleek but has a fuzzy, teddy bear appearance that makes her almost want to touch it to see if it was as soft as she imagines. The whir of the unit and the metal clanging behind her from inside the building cause her quickly to glance towards the building.
-
-When she shifts to look for the dog again, it is gone.
+It is starting to get stuffy in the truck even with the window rolled down, so she opens the door to face the inevitable and gets out, stretching like the cougar she is. She scans the plant, looking for anything out of the ordinary, and she spots the canid again watching her from the edge of the lighted circle of a sodium light by the back gate. What she thought was a dog or a coyote is something in between, and it dawns on her it is a painted dog she has only seen in pictures and at zoos. The dog is observing her closely, ears and tail erect, registering every micromovement she is making. Rounded ears and the coat with the pattern of what she once saw in the sand dunes of red dirt and pale caliche mix to form a tan that is almost like a pale ale she enjoyed. Black spots and patterns look as if someone had taken a wet paintbrush and just flicked it hard and sharp at the dog. The fur is not straight and sleek but has a fuzzy, teddy bear appearance that makes her almost want to touch it to see if it was as soft as she imagines. The whir of the unit and the metal clanging behind her from inside the building cause her quickly to glance towards the building. When she shifts to look for the dog again, it is gone.
 
 Lea lets out a deep sigh and grabs her gloves and hard hat from the passenger seat, entering the building with a look of disgust at the mess she has to clean. It is always the worst after being off for three days. It still amazes her how in three days four men and leaky equipment can make such a mess. She goes about her duties and makes the building shine, pondering how a painted dog managed to get here. Painted dogs, as guides, usually foretell a need for joy, play, and loyalty. They are a reminder not to lose oneself to the mundane of just going through the motions. That is a part of her she rarely touches now and seems like a lifetime ago at best, more like something she read in a book once. Lea looks at her watch, and her hand is shaking. Time to eat. She keys the radio and tells her boss she is headed in for dinner.
 
@@ -358,7 +350,9 @@ The dog’s ears go flat, the tail stops thumping, and it lowers its head as a s
 
 Lea laughs and says, “Excuse me! Where to, M’lady?” The dog’s playful posture returns, and she looks up the road to the next stop on Lea’s rounds with one sharp yip. Lea bows again, enters the cab, and drives fast to the next stop. Watching from the side mirror, Lea observes the dog’s tongue hanging out the side of her mouth, reveling in the wind in her face. Lea shares in the joy and thrill the dog is experiencing, and for the first time in a long while, she remembers how good that feels.
 
-As Lea pulls into the parking lot at the main building, she gets out and gathers her things. She explains to the dog that she is done and off for the next few days and cannot take her home with her. She reminds the dog the others are not as kind as her and to be careful and mind the traffic as well. Lea offers the back of her hand for the dog to sniff, and instead of sniffing, the dog dips her head to snuggle into Lea’s hand kind of sadly, with a *please don’t go look* in her eyes. Lea is moved almost to tears and says, “I have to, but I’ll be back.” The dog is as soft as teddy-bear fur. Lea is sitting in her driveway and so excited she is about to burst. She wants to tell someone, anyone, but the house is quiet and dark except for the porch light and the light by the door. Not even a cat in the window. Everyone is asleep, because approaching thirty like a runaway train, no one keeps night-owl hours anymore except her. Her daughter is too young. Her husband doesn’t approve and discourages her native heritage. Billy is probably somewhere in Wyoming, riding bulls. The ache begins to build in her because her grandmother, her elder, her medicine woman, has been gone for a decade and a half. She would be just as excited about it as her. Heaven knows where Jack is.
+As Lea pulls into the parking lot at the main building, she gets out and gathers her things. She explains to the dog that she is done and off for the next few days and cannot take her home with her. She reminds the dog the others are not as kind as her and to be careful and mind the traffic as well. Lea offers the back of her hand for the dog to sniff, and instead of sniffing, the dog dips her head to snuggle into Lea’s hand kind of sadly, with a *please don’t go look* in her eyes. Lea is moved almost to tears and says, “I have to, but I’ll be back.” The dog is as soft as teddy-bear fur.
+
+Lea is sitting in her driveway and so excited she is about to burst. She wants to tell someone, anyone, but the house is quiet and dark except for the porch light and the light by the door. Not even a cat in the window. Everyone is asleep, because approaching thirty like a runaway train, no one keeps night-owl hours anymore except her. Her daughter is too young. Her husband doesn’t approve and discourages her native heritage. Billy is probably somewhere in Wyoming, riding bulls. The ache begins to build in her because her grandmother, her elder, her medicine woman, has been gone for a decade and a half. She would be just as excited about it as her. Heaven knows where Jack is.
 
 She presses the button on the garage door as it slowly grinds open. She gathers her things and sets them down on top of the dryer before reaching for the button to close the door. She quickly grabs her keys and hits the lock button twice to lock and set the alarm on her truck before the door fully closes. She strips off her work clothes and tosses them in the basket.
 
@@ -402,7 +396,9 @@ She goes to the phone and calls her counterpart. Enquiring if he’s feeling bet
 
 “Boy, do I! I want the new Harley that came out, and now that would give me the down payment. Leave me the form to sign, and I’ll hand it in tomorrow first thing.”
 
-“Thanks man. I owe you one! Have fun and see you when I get back in two weeks!” “Anytime, and hope the emergency isn’t too bad.”
+“Thanks man. I owe you one! Have fun and see you when I get back in two weeks!”
+
+“Anytime, and hope the emergency isn’t too bad.”
 
 “Nah. It’s a birth actually coming early. Take care.”
 
@@ -438,7 +434,7 @@ He examines the back of his hand where the hawk had collided with it. It’s sta
 
 He flicks the switch off and opens the door, only to have the squeaky ball dropped on his foot. He allows his eyes to adjust to the darkness and sees his wife hasn’t moved. He reaches down, grabs the ball, and goes down the hallway to check on his daughter, Sam. He cracks the door open and she is still sound asleep with her cat, Snowball, curled beside her. He gently closes the door before heading down the stairs. Selby, jumping at his ball, nearly trips him twice before he reaches the bottom.
 
-He walks into the kitchen and grabs a glass from the cabinet. He pivots, taking a couple of steps before opening the fridge and filling the glass with chocolate milk. *Not exactly warm milk to help someone sleep, but it will do*, he thinks. *Also not a shot of whiskey, though*, crosses his mind as his fingers brush the fifteen-year sobriety token hanging at his neck. He finishes off the glass of milk and sets the glass in the sink, running water in it, still mulling over the events of the day. He wipes his mouth with the back of his hand and looks down at Selby. “Am I going crazy?” Selby whines. Frank looks at the squeaky ball in his hand and finds he is absentmindedly using it as a stress ball. He laughs and tosses it toward the den, following Selby and the ball into his place of banishment.
+He walks into the kitchen and grabs a glass from the cabinet. He pivots, taking a couple of steps before opening the fridge and filling the glass with chocolate milk. *Not exactly warm milk to help someone sleep, but it will do*, he thinks. *Also not a shot of whiskey, though*, crosses his mind as his fingers brush the fifteen‑year sobriety token hanging at his neck. He finishes off the glass of milk and sets the glass in the sink, running water in it, still mulling over the events of the day. He wipes his mouth with the back of his hand and looks down at Selby. “Am I going crazy?” Selby whines. Frank looks at the squeaky ball in his hand and finds he is absentmindedly using it as a stress ball. He laughs and tosses it toward the den, following Selby and the ball into his place of banishment.
 
 He hits the button on his way in, opening the vertical blinds on the windows to slits. It allows just enough moonlight to prevent him from catching his toes on a table or chair leg. He piles the throw pillows on the end of the couch and grabs the quilt draped over the back that Lynn keeps there for nights like this. He lies down and settles back, arm crooked behind his head. Staring at the ceiling, he replays the day once again for the hundredth time. Selby lopes over to the couch and sits as close as he can to the edge, placing his head on Frank’s stomach. When he isn’t immediately met with the customary ear and head massage, Selby looks up at him out of the corner of his eye. Frank looks down at him and smiles, using his free hand to stroke Selby’s ears. Looking back at the ceiling and thinking out loud, Frank starts talking to himself.
 
@@ -472,9 +468,15 @@ Hot water already steaming up the glass and mirrors, Frank braces his palms agai
 
 *I do, but people can’t help what they dream, can they?*
 
-*No, but, like it says in Cinderella ‘dreams are a wish your heart makes.’ So…what? I wish to fall on my ass because I fail at catching fish by hand? There is that, but it’s the lightest your heart has been in days.*
+*No, but, like it says in Cinderella ‘dreams are a wish your heart makes.’*
 
-*But I love my wife. I’m in love with my wife. Yeah, and?*
+*So…what? I wish to fall on my ass because I fail at catching fish by hand?*
+
+*There is that, but it’s the lightest your heart has been in days.*
+
+*But I love my wife. I’m in love with my wife.*
+
+*Yeah, and?*
 
 *And I haven’t felt that alive in years.*
 
@@ -500,13 +502,13 @@ Ten minutes later he pulls up on his side of the river. Surveying the damage, he
 
 Davey gets out of the minivan and waves, “I don’t think the Jeep can cross it either.”
 
-“No, you’re right, and not with the debris in there either. You’ll have to come in the back way.” “The back way?”
+“No, you’re right, and not with the debris in there either. You’ll have to come in the back way.”
+
+“The back way?”
 
 “Yeah. I’ll pick you up there because it’s just a trail and the minivan won’t survive it. Go about a mile and a half past where the river crosses the road and you’ll see a green gate. Pull in there and I’ll meet you there.”
 
-“This way?” Davey asks, pointing to the right. Frank nods. He gets back in the Jeep and reverses down the gravel drive to where the trail starts and follows the river. After losing the bridge again during last year’s monsoon rains, he was happy that Selby led him to a place where he could get access to his property without fighting the river. Not much he can do about it on a Sunday.
-
-Maybe an old-fashioned barge is the answer. He pulls up to the gate and unlocks it just as Davey pulls in and parks under the cottonwood.
+“This way?” Davey asks, pointing to the right. Frank nods. He gets back in the Jeep and reverses down the gravel drive to where the trail starts and follows the river. After losing the bridge again during last year’s monsoon rains, he was happy that Selby led him to a place where he could get access to his property without fighting the river. Not much he can do about it on a Sunday. Maybe an old-fashioned barge is the answer. He pulls up to the gate and unlocks it just as Davey pulls in and parks under the cottonwood.
 
 Davey steps out, rolling his shoulders and making sure his family is climbing out behind him before he crosses to Frank. Their hands meet in that tight, knuckle‑locked grip. Davey pulls him in with the practiced ease of a man who has done it a thousand times, shoulder hitting a little lower on Frank’s chest as they trade those solid back-pats that pass for affection between men who have grown up side by side. Davey leans back, giving Frank a questioning look. Frank barely moves his head from side to side, signaling *not now*. Frank breaks the hug and turns to greet Davey’s family, receiving hugs and kisses before helping to gather everything to transfer to the Jeep.
 
@@ -520,7 +522,9 @@ Lynn answers before he can utter a word, “He didn’t last night. He kept havi
 
 “Twelve thirty-four. No, wait, that was what the clock was flashing. I think it was around a quarter to two actually.”
 
-Davey catches Lynn and Lisa exchanging a look. “What is that look for?” Lynn replies, “Twelve thirty four is an angel number.”
+Davey catches Lynn and Lisa exchanging a look. “What is that look for?”
+
+Lynn replies, “Twelve thirty four is an angel number.”
 
 Lisa adds, “It means progression, alignment, and forward movement.”
 
@@ -548,7 +552,9 @@ Lisa and Lynn laugh at the panicked look exchanged between their husbands. Catch
 
 Lisa asks, “What are we making?”
 
-Frank answers, “The only thing that feeds a family like this: spaghetti and meatballs. Come on, brother. Let’s get out of the way while they make the pasta.”Davey, regaining his composure, declares, “Yes, let’s. Pasta is the woman’s work, anyway,” dodging his wife’s punch to the arm and ducking into the den. Frank follows him through the den and onto the patio, where he sits heavily on the edge of the chair.
+Frank answers, “The only thing that feeds a family like this: spaghetti and meatballs. Come on, brother. Let’s get out of the way while they make the pasta.”
+
+Davey, regaining his composure, declares, “Yes, let’s. Pasta is the woman’s work, anyway,” dodging his wife’s punch to the arm and ducking into the den. Frank follows him through the den and onto the patio, where he sits heavily on the edge of the chair.
 
 “So, what happened yesterday, man?” Davey asks. Head bowed and hands clasped between his knees, Frank recounts the events. Then the rest of his internal monologue comes tumbling out like a confession. Frank looks up, searching his friend for any clue as to his thoughts.
 
@@ -570,13 +576,9 @@ Jack tiptoes over to her feet, checking to make sure her breathing is still even
 
 *Talon or beak? Beak*. Jack nods to himself with the decision and looks around her curled up legs to verify she is still asleep. He judges the distance and takes a small hop forward. He stretches his neck out so just the tip of his beak reaches the soles of her feet and quickly runs his beak up one and down the other, and then jumps back. Nothing. Not even a twitch. Socks are too thick. He walks slowly forward again and freezes midstep when he hears Kaya sloshing as she dog-paddles toward the cavern again. He has to move quickly before she returns. He takes a big hop and inches from Lea’s feet, when he runs the tip of his beak up the middle of the sole of her foot. He quietly thanks heaven these were not wool socks, which would snag his beak. Just as quickly, he runs his beak in the same maneuver, down her other sole just as Kaya enters the mouth of the cavern, water up to her belly, dripping and beginning to shake herself dry.
 
-Lea is just settling back to sleep but still alert, making sure Kaya is not rummaging through the saddle bags for the last of her supplies since the market won’t be open today. She knows it’s probably late and she needs to get up but dozes back to sleep thinking, *Ten minutes more won’t hurt*. She feels something tug at her sock slightly but thinks she’s dreaming and settles back down. She is almost completely relaxed again when something runs up one sole of her foot and down the other in a move her father loved to perform on her to make her squeal and jump.
+Lea is just settling back to sleep but still alert, making sure Kaya is not rummaging through the saddle bags for the last of her supplies since the market won’t be open today. She knows it’s probably late and she needs to get up but dozes back to sleep thinking, *Ten minutes more won’t hurt*. She feels something tug at her sock slightly but thinks she’s dreaming and settles back down. She is almost completely relaxed again when something runs up one sole of her foot and down the other in a move her father loved to perform on her to make her squeal and jump. Before it hits her fully what is happening, her body reacts and she kicks violently in the direction of whomever might be at her feet.
 
-Before it hits her fully what is happening, her body reacts and she kicks violently in the direction of whomever might be at her feet.
-
-Jack is unprepared for her reaction. He has forgotten that Lea can kick like an army mule and he suddenly has one foot squarely in his chest, launching him toward the mouth of the cavern. He lands and bounces just near the spring and realizes he is about to collide with Kaya. She lowers her ears and growls at him, baring teeth. He has nowhere to go but right in them. He unfolds his wings and fans his tail hoping to create the flaps airplanes use to slow down. Jack lands between her front feet. Kaya looks down at him and out comes the sly grin again. He’s up to his neck in water and realizes he will have to change or drown to avoid what punishment Kaya is about to dole out. Kaya takes her front paw and flicks him to her back foot where he’s now struggling to stay above water. Kaya takes her back paw and dunks him the rest of the way under the water.
-
-Jack sputters and tries not to let the water fill his lungs as he slowly starts sliding on the slick limestone of the cavern entrance to the drop off to the bottom of the lake. Kaya gives one final flick with her back paw, pushing him off the limestone into the abyss.
+Jack is unprepared for her reaction. He has forgotten that Lea can kick like an army mule and he suddenly has one foot squarely in his chest, launching him toward the mouth of the cavern. He lands and bounces just near the spring and realizes he is about to collide with Kaya. She lowers her ears and growls at him, baring teeth. He has nowhere to go but right in them. He unfolds his wings and fans his tail hoping to create the flaps airplanes use to slow down. Jack lands between her front feet. Kaya looks down at him and out comes the sly grin again. He’s up to his neck in water and realizes he will have to change or drown to avoid what punishment Kaya is about to dole out. Kaya takes her front paw and flicks him to her back foot where he’s now struggling to stay above water. Kaya takes her back paw and dunks him the rest of the way under the water. Jack sputters and tries not to let the water fill his lungs as he slowly starts sliding on the slick limestone of the cavern entrance to the drop off to the bottom of the lake. Kaya gives one final flick with her back paw, pushing him off the limestone into the abyss.
 
 Jack regains his human form as he lands on something sharp at the bottom of the lake before gathering his feet under him and pushing off with his lungs burning for a breath. He breaks the surface of the lake, hair making it hard to get a breath before he manages to gasp and get air. He dunks his head back in an effort to part the wet curtain of hair covering his face and finally gets a deep breath of air. He’s just tall enough to stand shoulders and head above the water and grateful he did not get flicked another foot or so, where the depth more than doubles. He runs his hands over his face trying to clear his eyes. Just as he lowers his hands and his vision clears, he’s face to face with his sister. She puts one hand on his shoulder, locks her foot around his knee, and smiles sweetly at him, placing her hand on the top of his head. She begins to push him down applying pressure to his head and shoulder while her foot buckles his knee. He goes under not quite getting a full breath before he’s once again on the bottom of the lake, sitting on something sharp.
 
@@ -594,9 +596,7 @@ Lea starts pulling clothes from her saddle bags, looking for something appropria
 
 Lea looks up at Jack, whose corner of his mouth is pulled into a smug smirk. She sticks her tongue out at him before replying. “Yeah. I just decided white is probably not a good choice.” If she wore the blouse, she would just be tempting fate.
 
-Jack squats and grabs the cups from a saddle bag, then pours from the coffee pot she left brewing in the cavern, handing her one. “It’s just dinner and doesn’t require an evening gown and tails.
-
-Since we are siblings, match me.”
+Jack squats and grabs the cups from a saddle bag, then pours from the coffee pot she left brewing in the cavern, handing her one. “It’s just dinner and doesn’t require an evening gown and tails. Since we are siblings, match me.”
 
 Lea looks over her cup at her brother in his cowboy boots peeking out from his bunched, faded, and worn jeans at the ankle. He pairs them with a slightly lighter, faded denim shirt with pearl snaps, the sleeves rolled up just above the elbows. The shirt is only snapped up to the middle of his sternum exposing his muscular chest and his silver raven feather pendant suspended from a black leather and beaded necklace. Their dad’s old silver belt buckle with a large blue turquoise stone completes the cowboy wrangler look he was trying to achieve. “Big brother, if I match you, I will get arrested for not wearing a top and probably cause Frank and his wife to faint. I have a little more in the pectoral region than you.”
 
@@ -700,9 +700,7 @@ Davey blinks twice. “You want elk with the buffalo and the Owen’s?”
 
 Frank goes to the fridge, retrieving the elk, and dumps it in as Davey is mashing the meats together. “Yes. It’s got a sweetness that makes up for the missing mushrooms.”
 
-Frank’s heart skips a beat. He remembers sitting on his Nana’s counter, whispering to him, “The secret to the meatballs is dried oyster mushrooms.” He can almost taste them. Elk helps keep the flavor close to how Nana made it. He adds some more herbs, a dash of milk, and more parmesan cheese to Davey’s meat, egg, and bread crumb mixture. Lisa and Lynn join them at the bar.
-
-Davey holds his hands up for Frank to observe his mixing. Frank reaches for the gloves and nods as they start rolling meatballs. Lisa reminds everyone, small ones for the kids first.
+Frank’s heart skips a beat. He remembers sitting on his Nana’s counter, whispering to him, “The secret to the meatballs is dried oyster mushrooms.” He can almost taste them. Elk helps keep the flavor close to how Nana made it. He adds some more herbs, a dash of milk, and more parmesan cheese to Davey’s meat, egg, and bread crumb mixture. Lisa and Lynn join them at the bar. Davey holds his hands up for Frank to observe his mixing. Frank reaches for the gloves and nods as they start rolling meatballs. Lisa reminds everyone, small ones for the kids first.
 
 Lynn watches her husband rolling meatballs and sees the tension in him hiding in the concentration of rolling the meat. She’s unsure of what is causing the turmoil she can see raging behind his eyes. In the little over a dozen years since they had their first date, Lynn had never seen Frank so nervous about impressing someone, male or female. She knew him back in the days of the partying, the women, the drugs, but even then, there was something that just drew her to him. A confidence and an air with an artistic wittiness that seemed to fly off him in sparks. She also was there to witness the fall. Last night was the first time since shortly before Sam was born he had had those nightmares. Since then, he was still artistic and witty, but the sparkler had finally hit the end.
 
@@ -732,7 +730,9 @@ Selby showers Davey with kisses, saying *he is sorry* while Frank laughs. “Tha
 
 Davey, laughing, pushes Selby away and realizes they are at the top of the ridge. He looks around and slowly gets to his feet. Squinting and scanning the oblong, bowl-shaped area, “This is the ridge overlooking the valley?”
 
-Frank replies, “Yes. It’s a beautiful view untouched by man.” Davey speaks low in awe. “But where is it?”
+Frank replies, “Yes. It’s a beautiful view untouched by man.”
+
+Davey speaks low in awe. “But where is it?”
 
 The view from the top of the ridge shows a dense forest full of conifers, fruit trees, oaks, maples, and a few ancient ones Davey knows not. But there is no lake shimmering as the last of the light bathes the valley below in a golden hue. A few birds far enough away to only be silhouettes play on the evening air currents. He can hear the birds, and he sees a tree shake, thinking a bear or elk was using it for a scratching post. No meadow. Not even the sign of smoke rising from her campfire.
 
@@ -784,7 +784,9 @@ Frank feels his knees go weak and sees a spark in her eye. She turns to her brot
 
 She turns back to face the men, bowing her head in a show of respect. She hands one to Davey and one to Frank. “We come bearing gifts for the Lords’ tables as a token of gratitude.”
 
-Davey, leaning into the bit as Frank is still speechless, says, “Thank you, M’lady and M’lord.” Davey elbows Frank out of his stupor. “Thank you, but it was not necessary. What is in here?”
+Davey, leaning into the bit as Frank is still speechless, says, “Thank you, M’lady and M’lord.”
+
+Davey elbows Frank out of his stupor. “Thank you, but it was not necessary. What is in here?”
 
 Jack silently thanks Frank for not getting his sister going into full-on medieval prose, and replies, “Lea’s homemade wine and cider.”
 
@@ -806,9 +808,7 @@ Lea smiles, and it seems to brighten the light around them. “No. She is enjoyi
 
 Catching the subtle hint, Davey queries, “You talk about her like she is your mother.”
 
-“She is.” But before Lea can explain further, they are mobbed by children and the two dogs. The smell of baking bread, garlic, and other spices fills the air, causing her stomach to grumble.
-
-Frank and Davey try to wrangle their kids into a somewhat receiving line while Lea and Jack try to calm Selby and Kaya. All failing miserably.
+“She is.” But before Lea can explain further, they are mobbed by children and the two dogs. The smell of baking bread, garlic, and other spices fills the air, causing her stomach to grumble. Frank and Davey try to wrangle their kids into a somewhat receiving line while Lea and Jack try to calm Selby and Kaya. All failing miserably.
 
 Kids laughing and dogs barking attract the attention of Lisa and Lynn. They look out the window to see what the commotion is about. A new dog has joined with the kids, and a moment of panic kicks in before they decide everyone is safe. Lisa is wondering if that is the dog Davey was telling her about when the energy shifts and everyone starts chattering at once. They spot Frank and Jack emerging from the shadowy darkness at the edge of the trees to the square of brightness created by the Edison lights installed across the yard. Lisa is stunned and looks at her friend to comment, noticing Lynn is love-struck and almost drooling.
 
@@ -822,7 +822,7 @@ Lisa looks back at the two men and thinks, *They do make an attractive pair of m
 
 Lisa and Lynn exchange a glance as Lisa narrates. “She’s tall for a woman, sure, but look at those two. Jack and Frank make everybody look short, even Davey and the kids. They’re like walking monoliths. And her hair… I can’t tell if that’s dyed or natural, but it’s gorgeous. I can see why the guys find her attractive. The way she’s got it twisted up into a thin crown softens her and makes her more storybook princess and less bearish biker chick. She definitely doesn’t look like her brother, and she’s not built like any barrel-racer cowgirl I’ve ever met.”
 
-Lynn exclaims, “Lisa! There is nothing biker chick about her. Bearish maybe, because she does have shoulders like a linebacker, but not biker chick. She is definitely what I would call full-figured. She’s… solid. Like she could shoulder-check a tree and the tree would apologize.”
+Lynn exclaims, “Lisa! There is nothing biker chick about her. Bearish maybe, because she does have shoulders like a linebacker, but not biker chick. She is definitely what I would call full-figured. She’s… solid. Like she could shoulder‑check a tree and the tree would apologize.”
 
 Lisa is about to reply when, from the stove, the sound of a lava bubble bursting reminds them dinner is about to burn. The lava bubble bursting not only emits the steam but the splatter as well. Lisa, sighs as she still has her apron on, and walks to the stove to stir and add the pasta to the sauce and meatballs. She calls over her shoulder, “Better get at least the kids in to wash up.”
 
@@ -892,7 +892,9 @@ Lonnie points out, “But Miss Lea, we are finished. See all plates clean.”
 
 Sam chimes in, “Wait! We still have milk. Okay, everyone. One… two… three. Chug!” The children grab their milk glasses and start drinking it down fast like frat boys.
 
-Lea cocks an eyebrow at Davey and Frank. “I wonder where they learned that?” Lisa pops Davey with the towel in her hand. “I wonder…”
+Lea cocks an eyebrow at Davey and Frank. “I wonder where they learned that?”
+
+Lisa pops Davey with the towel in her hand. “I wonder…”
 
 Davey tries to look innocent, not convincing anyone, and quickly changes the subject. Davey uses his hands like he’s presenting a prize to be won on a game show. “Jack, this is my wife Lisa.” Turning to his left, he gestures again. “And this is Lynn.”
 
@@ -924,7 +926,9 @@ Lynn’s mama voice comes out proclaiming, “Enough of that! You heard your Aun
 
 Torn between wanting to know more about the wolf and doing as they are told, they decide to plead their case.
 
-“But Mom, can’t we have a bedtime story, please?” begs Sam. Al and Lon deliver in stereo, “Please. Please. We want a story!”
+“But Mom, can’t we have a bedtime story, please?” begs Sam.
+
+Al and Lon deliver in stereo, “Please. Please. We want a story!”
 
 Ester grabs a hold of Jack’s leg. “I’m not letting go unless I get a story.” The adults look at each other knowing they have been beaten.
 
@@ -944,7 +948,9 @@ Lynn is still not convinced. “Yes. I have more. I just haven’t toasted it ye
 
 Lea, putting the last plate in the dish rack, turns and gives a reassuring smile to Lynn. “It’s fine. Like Frank said, we’ve all been snacking and we can add a splash of water to keep it from drying out and burning. We’ll make it a quick story, right Jack?”
 
-Jack smirks. “Depends if you admit you were lost this time.” Lea replies, “Never.”
+Jack smirks. “Depends if you admit you were lost this time.”
+
+Lea replies, “Never.”
 
 Lisa returns with a line of kids in tow. They all pass through the den to the patio and go about getting the girls, Kaya, and Snowball settled on one mattress while the boys and Selby settle on the other. It’s a nice, warm summer night in the mountains, the kind that makes adults want to sleep under the stars. Lea returns to the house, and Jack takes his position on the side edge of the chaise across from the kids. Davey and Lisa settle onto the wicker sofa. Lea and Lynn return with glasses of iced tea, handing them out before setting down a plate of bruschetta. Lynn curls up next to Frank on the swing as Jack begins.
 
@@ -1080,7 +1086,9 @@ Lynn shoots him a look of disapproval before she questions, “Why?”
 
 Davey replies sheepishly, “Who made the tea? Please tell me it wasn’t Lea.”
 
-Lisa elbows him. “I made the tea. What’s it to you and why couldn’t Lea make it?” Frank shakes his head. “Davey has a theory, and it’s going to upset the two of you.”
+Lisa elbows him. “I made the tea. What’s it to you and why couldn’t Lea make it?”
+
+Frank shakes his head. “Davey has a theory, and it’s going to upset the two of you.”
 
 Davey crosses his arms defensively. “I’m not going to upset anyone. It’s just that Lea got us to sleep and it had to be something in the tea or the stew. And you two women are probably going to die during dinner since you drank the wine.”
 
@@ -1088,7 +1096,9 @@ Jack watches for a reaction and leans back in his chair to see Lea is chastising
 
 Davey gives Jack a doubting look and recounts the brothers’ visit in late spring. Lea smiles as she passes through on her way to wash up in the kitchen and slides in next to Jack just as Davey reveals the coffee deception. Lea smiles and nods again at him like she did that night and he almost doesn’t finish the story, trying hard not to sputter, “See I told you so.”
 
-Lynn looks to the siblings and asks, “So what was in the coffee… I mean tea?” Lea holds her hands up in an effort to say she’s not involved in this one.
+Lynn looks to the siblings and asks, “So what was in the coffee… I mean tea?”
+
+Lea holds her hands up in an effort to say she’s not involved in this one.
 
 Jack sighs and resists the temptation to thump her on the head. “One, the wine is legit and it’s a craft handed down from at least five generations ago or more. As for the what’s in the tea, and she will put it in coffee when needed to help relieve pain, it was lavender. Gran-ma-ma was a medicine woman, and she taught Lea from before the time in the story. Lea’s favorite tea before bed is mint that grows by the lake, blackberries dried and used to sweeten it, and dried lavender to help calm and put you to sleep.”
 
@@ -1146,7 +1156,9 @@ Lea says, “I don’t have it because I haven’t reloaded it and because most 
 
 Lynn finally asks the question on everyone’s mind. “If you didn’t slip them some herbs, how did you get them to sleep so fast, and why couldn’t we listen?”
 
-Jack and Lea reply together, “Somatics.” Frank asks, “So… like hypnotism?”
+Jack and Lea reply together, “Somatics.”
+
+Frank asks, “So… like hypnotism?”
 
 Jack tries to explain. “No, not exactly. They can look similar, but one works through the mind and one through the body.”
 
@@ -1154,11 +1166,7 @@ Lea gives him an exasperated look as she explains, “In a way he’s correct, b
 
 Lea studies the faces around the table as each thinks of their favorite singer and song, bracing for the flood of emotions about to hit her. Four isn’t a large number, but it’s still a lot to receive at once, and she fights the urge to flee to the safety of the valley. Frank and Davey both notice Lea shifting in her seat, obviously uncomfortable, but still trying to remain calm.
 
-Jack noticing as well, tries to save his sister. “You’ve probably heard it called the
-
-frisson-response. It’s the fancy term for when a song hits you just right and you get chills or goosebumps. The body reacts before the mind catches up. The same thing can happen when reading a passage, or looking at a sculpture or painting. The key is the creator puts the emotion into it for the person looking or listening to receive it. And yes, not every person is
-
-frisson-responsive. I think they say about forty percent.”
+Jack noticing as well, tries to save his sister. “You’ve probably heard it called the frisson‑response. It’s the fancy term for when a song hits you just right and you get chills or goosebumps. The body reacts before the mind catches up. The same thing can happen when reading a passage, or looking at a sculpture or painting. The key is the creator puts the emotion into it for the person looking or listening to receive it. And yes, not every person is frisson‑responsive. I think they say about forty percent.”
 
 Thinking she has it figured out, Lisa smirks and says, “Looking around the table, we all fit into that forty percent. But Lea didn’t sing, write, sculpt, or paint.”
 
@@ -1214,7 +1222,7 @@ She is grateful as well that the wives are not threatened by her because they ar
 
 Frank pokes at Davey again. “That explains why you failed in the height department, runt. Now I know what to call you besides Mr. Panic. Age-wise, I am between Aaron and Kevin, but Davey was the piece of gum stuck to my shoe.”
 
-Davey hmphs at Frank. “Stuck like glue, baby. Because you were the only one guilible enough to pay me to get lost. I may be a runt, but I’m still faster and smarter than you. At least I’m not the only garden gnome in a flock of flamingos.”
+Davey hmphs at Frank. “Stuck like glue, baby. Because you were the only one gullible enough to pay me to get lost. I may be a runt, but I’m still faster and smarter than you. At least I’m not the only garden gnome in a flock of flamingos.”
 
 Frank does a spit-take as he picked the wrong moment to get a drink. Recovering quickly, he fires back at Davey. “Six was too much pink. Someone had to be the man because we all couldn’t be hairdressers or marry one.”
 
@@ -1224,9 +1232,9 @@ Lea chuckles at the two staring each other down and tries to pivot out of the fi
 
 Frank is the first to blink. “We have the straight flush. Lynn is from a family of five and Lisa only has a sister. Four of you, I take it. I dunno if the world could handle a quad of you.”
 
-Lea, half-amused with a touch of sadness replies, “The world couldn’t, and technically there were four of us. We lost River when he was forty-four along with my son, who was ten.”
+Lea, half-amused with a touch of sadness replies, “The world couldn’t, and technically there were four of us. We lost River when he was forty-four along with my son, who was ten. Clay, River’s twin, is still with us, but has very little to do with me and Jack, and considers us devil spawn. He denounced our Native American heritage in favor of becoming a Baptist preacher.”
 
-Lea pivots to avoid the sadness welling up inside of her, ending in a giggle. “What is it the two of you do? Is it architecture or engineering? Because you mentioned blueprints and cyanotype earlier and is the shutterbug thing just a hobby because Davey mentioned the throwback eighties shoot and tan.”
+The memories and sadness well up inside of her and threaten to overtake her. Lea pivots to stop the flood, replaying the earlier banter. She asks in a half-giggle, “What is it the two of you do? Is it architecture or engineering? Because you mentioned blueprints and cyanotype earlier and is the shutterbug thing just a hobby because Davey mentioned the throwback eighties shoot and tan.”
 
 Frank smirks. “We are a jack of all trades. You have to be an engineer or architect if you know about cyanotype because very few outside the industry do before laser printers came along. I was extremely lucky in everything I touched. I had a thriving production business, and my partners sold out to pursue more lucrative business deals and left me overwhelmed, and it’s when I turned to drugs to try to keep things afloat. Success is a hard thing to keep moving when your support is gone and the burden falls on you to maintain it alone. I’ve since, as you already know, gotten sober and have slowly been rebuilding and taking on only what I could handle alone. I was just asked from someone who admired my work to do a big campaign and boost tourism to the area. I couldn’t do it alone and Davey and his brothers have always been contractors, but I made them partners now.”
 
@@ -1236,9 +1244,7 @@ Frank nods his head in agreement. “Yup runt gofer is right. Davey sells hissel
 
 Lea grins, lighting her whole face and the room up. “I’m sold.”
 
-Frank’s anxiety returns in spades as he scans Lea’s face for any sign she is not genuine. Finding none, he finds the attraction to her grows as the anxiety dissolves. He locks eyes with her. A sudden feeling of her walking through his soul takes his breath for a moment as she unlocks and throws doors open he cannot keep closed. He relaxes. A part from deep inside his soul says, *I know you, old friend*. He relaxes when he discovers to his delight he is doing the same thing to her seeing the real woman and not the mythic shape shifting being, more wisdom than could ever be fully realized. A woman who is somehow still a child that has known joy, great loss, grief,
-
-self-doubt, challenges, and love. He pauses on love as he hears his wife’s laughter from the kitchen. What he feels for Lea is not romantic but something on a deeper level he still cannot define.
+Frank’s anxiety returns in spades as he scans Lea’s face for any sign she is not genuine. Finding none, he finds the attraction to her grows as the anxiety dissolves. He locks eyes with her. A sudden feeling of her walking through his soul takes his breath for a moment as she unlocks and throws doors open he cannot keep closed. He relaxes. A part from deep inside his soul says, *I know you, old friend*. He relaxes when he discovers to his delight he is doing the same thing to her seeing the real woman and not the mythic shape shifting being, more wisdom than could ever be fully realized. A woman who is somehow still a child that has known joy, great loss, grief, self-doubt, challenges, and love. He pauses on love as he hears his wife’s laughter from the kitchen. What he feels for Lea is not romantic but something on a deeper level he still cannot define.
 
 The clock chimes eleven, breaking the spell they were under. The last note lingers, as they slowly turn to acknowledge the squeal of laughter coming from the kitchen island bar where Lynn, Lisa, and Jack sit. Davey, knowing his wife is stirring the pot, finalizes the moment by nervously saying, “I think we need to rescue Jack.”
 
@@ -1288,9 +1294,7 @@ Lea picks up the empty wine bottle, studying it as she rotates it gently with ju
 
 She sets the bottle down in a determined motion and turns to hug Frank goodbye, thanking him once again for the food and company. As they embrace, Frank feels the attraction solidify into what he can only frame as a bond rooted in that ancient recognition he felt before. With it fully formed he now senses the emotional storm in Lea, but she breaks the hug so abruptly that he knows she felt the bond too. Sister almost fits, but he just somehow knows that there is more to it than family.
 
-Frank looks around convinced everyone else witnessed it, but they are preoccupied with the last of the goodbyes. Lea walks to the door without another word and everyone seems to follow.
-
-Frank checks again as the others pass still chatting away getting in the last few words before the night ends, but Jack is the only one who seems to be aware of the underlying current. Jack curtly nods at Frank as he passes by acknowledging that they both see not the strong, confident woman Lea is projecting, but the small, vulnerable almost girlish one trying desperately to hold it together.
+Frank looks around convinced everyone else witnessed it, but they are preoccupied with the last of the goodbyes. Lea walks to the door without another word and everyone seems to follow. Frank checks again as the others pass still chatting away getting in the last few words before the night ends, but Jack is the only one who seems to be aware of the underlying current. Jack curtly nods at Frank as he passes by acknowledging that they both see not the strong, confident woman Lea is projecting, but the small, vulnerable almost girlish one trying desperately to hold it together.
 
 With the final rounds of do this again soon and visit anytime, the siblings step off the porch and Lisa offers one parting suggestion. “Lea, maybe next time we can have a girls’ night? Just us. No valley. No kiddos. And No men.”
 

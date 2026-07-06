@@ -184,7 +184,7 @@ She is grateful as well that the wives are not threatened by her because they ar
 
 Frank pokes at Davey again. “That explains why you failed in the height department, runt. Now I know what to call you besides Mr. Panic. Age-wise, I am between Aaron and Kevin, but Davey was the piece of gum stuck to my shoe.”
 
-Davey hmphs at Frank. “Stuck like glue, baby. Because you were the only one guilible enough to pay me to get lost. I may be a runt, but I’m still faster and smarter than you. At least I’m not the only garden gnome in a flock of flamingos.”
+Davey hmphs at Frank. “Stuck like glue, baby. Because you were the only one gullible enough to pay me to get lost. I may be a runt, but I’m still faster and smarter than you. At least I’m not the only garden gnome in a flock of flamingos.”
 
 Frank does a spit-take as he picked the wrong moment to get a drink. Recovering quickly, he fires back at Davey. “Six was too much pink. Someone had to be the man because we all couldn’t be hairdressers or marry one.”
 

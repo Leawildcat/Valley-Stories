@@ -31,3 +31,6 @@ build/
 *.tar
 *.gz
 *.7z
+
+# Ignore URL files
+*.url

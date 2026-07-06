@@ -96,7 +96,7 @@ The smirk on Lea’s face has returned, and she shakes her head, causing a casca
 
 “You two kids go on. I’m not dressed to wander the woods tonight. I’ll just stay here and prepare dinner. Nice to meet you Frank.” A pure devilish grin spreads over his face. “Sis, you might want to tether him so you can lead him proper through the forest since you don’t have tail feathers for him to follow.”
 
-Frank blushes again and is flustered. “Is he a big brother or a little brother? Nice to meet you too, I think, Jack."
+Frank blushes again and is flustered. “Is he a big brother or a little brother? Nice to meet you too, I think, Jack.”
 
 Lea shoots her brother an evil glare before shifting her gaze back to Frank and, with an edge of irritation, proclaims, “A big bother!” She walks over and gives him a hug. She whispers in his ear, “I think the cougar wants roasted crow for dinner.” All color beneath the tan drains from Jack’s face as she kisses his cheek. She pulls away, but before breaking the hug, lands a slap to the back of the head. He laughs and waves goodbye to her and Frank before rubbing the back of his head.
 

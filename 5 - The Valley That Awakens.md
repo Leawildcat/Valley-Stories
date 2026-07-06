@@ -134,7 +134,9 @@ Lisa and Lynn laugh at the panicked look exchanged between their husbands. Catch
 
 Lisa asks, “What are we making?”
 
-Frank answers, “The only thing that feeds a family like this: spaghetti and meatballs. Come on, brother. Let’s get out of the way while they make the pasta.”Davey, regaining his composure, declares, “Yes, let’s. Pasta is the woman’s work, anyway,” dodging his wife’s punch to the arm and ducking into the den. Frank follows him through the den and onto the patio, where he sits heavily on the edge of the chair.
+Frank answers, “The only thing that feeds a family like this: spaghetti and meatballs. Come on, brother. Let’s get out of the way while they make the pasta.”
+
+Davey, regaining his composure, declares, “Yes, let’s. Pasta is the woman’s work, anyway,” dodging his wife’s punch to the arm and ducking into the den. Frank follows him through the den and onto the patio, where he sits heavily on the edge of the chair.
 
 “So, what happened yesterday, man?” Davey asks. Head bowed and hands clasped between his knees, Frank recounts the events. Then the rest of his internal monologue comes tumbling out like a confession. Frank looks up, searching his friend for any clue as to his thoughts.
 

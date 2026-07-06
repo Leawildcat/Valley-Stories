@@ -1,10 +1,10 @@
-| Person | Birth Year | Age (2026) | Gap from YOU |
-| --- | --- | --- | --- |
-| **You** | 1971 | 55 | — |
-| **Josey** | 1972 | 54 | You +1 |
-| **Brent** | 1978 | 48 | You +7 |
-| **Zach** | 1983 | 42 | You +12 |
-| **Nikki** | 1958 | 67 | You –13 |
+   Person | Birth Year | Age (JUN 2026) | Gap from YOU |
+   ---    |    ---     |       ---      |      ---     |
+ **You**  |    1971    |       55       |       —      |
+**Josey** |    1972    |       54       |    You +1    |
+**Brent** |    1978    |       48       |    You +7    |
+**Zach**  |    1983    |       42       |    You +12   |
+**Nikki** |    1958    |       67       |    You –13   |
 
 You — March 21, 1971
 Age in 2026: 55

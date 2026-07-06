@@ -1,0 +1,30 @@
+* {box-sizing: border-box;
+}
+
+html {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.325rem;
+  background-color: #E8DCC0;
+  margin: 0.125rem;
+  padding: 0.125rem;
+}
+
+body {
+  line-height: 1.325;
+}
+
+h1 {
+  font-size: 3.3rem;
+  text-align: center;
+  font-weight: 500;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: 500;
+}
