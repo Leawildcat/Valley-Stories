@@ -1,3 +1,8 @@
+:root {
+  --link-color: #191970;
+  --link-hover-color: #31008b;
+}
+
 * {box-sizing: border-box;
 }
 
@@ -28,3 +33,13 @@ h3 {
   font-size: 2rem;
   font-weight: 500;
 }
+
+footer {
+  position:fixed;
+  bottom:0;
+  left:0;
+  width:100%;
+  text-align:center;
+  padding:0.5rem;
+}
+
