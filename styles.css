@@ -50,7 +50,6 @@ footer {
   left:0;
   width:100%;
   text-align:center;
-  line-height: 1;
   margin: 0;
   padding: 0;
   background-color:#00372a;
@@ -60,7 +59,7 @@ footer {
 footer p {
   margin: 0;
   padding: 0;
-  font-size: 0.9rem;
+  font-size: 1.25rem;
 }
 
 footer a {
