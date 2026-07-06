@@ -1,6 +1,6 @@
 :root {
-  --link-color: #191970;
-  --link-hover-color: #31008b;
+  --link-color: midnightblue;
+  --link-visited: indigo;
 }
 
 * {box-sizing: border-box;
@@ -16,6 +16,7 @@ html {
 
 body {
   line-height: 1.325;
+  margin-bottom: 3.5rem;
 }
 
 h1 {
@@ -40,6 +41,7 @@ footer {
   left:0;
   width:100%;
   text-align:center;
-  padding:0.5rem;
+  padding:3.5rem;
+  background-color:#00372a;
 }
 
