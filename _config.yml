@@ -1,0 +1,3 @@
+exclude:
+  - "*.docx"
+  - "Character Map.md"
