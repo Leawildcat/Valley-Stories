@@ -11,8 +11,8 @@ html {
   line-height: 1.325;
   font-size: 1.325rem;
   background-color: #E8DCC0;
-  margin: 0.25rem;
-  padding: 0.25rem;
+  margin: 0.125rem;
+  padding: 0.125rem;
 }
 
 body {
@@ -21,19 +21,19 @@ body {
 }
 
 h1 {
-  font-size: 3.3rem;
+  font-size: 3rem;
   text-align: center;
   font-weight: 500;
 }
 
 h2 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   text-align: center;
   font-weight: 500;
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 1.75rem;
   font-weight: 500;
 }
 
@@ -46,13 +46,13 @@ a:visited {
 }
 
 ol {
-  margin-right: 5rem;
+  margin-left: 5rem;
   padding: 0;
 }
 
 ol li {
-  margin: 0.25rem;
-  padding: 0.25rem;
+  margin: 0 0.25rem;
+  padding: 0 0.25rem;
 }
 
 footer {
