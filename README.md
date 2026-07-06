@@ -1,7 +1,6 @@
-# The Valley-Stories 
-<div style="float:right; margin-left:0.5rem;">
-<img src="Valley Logo08.png" style="width:65%;">
-</div>
+
+<h1 align="center">The Valley-Stories 
+<img src="Valley Logo08.png" align="right"; style="width:55%; float:right; margin-rightt:0.5rem;">
 
 [Read the Book](The%20Valley%20Stories%20-%20The%20Valley%20That%20Recalls01.html)
 
