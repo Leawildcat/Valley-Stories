@@ -45,19 +45,14 @@ a:visited {
   color: var(--link-visited);
 }
 
-.C-list {
-  margin-left: 2.5rem;
-  padding-left: 2.5rem;
-}
-
 ol {
-  margin: 0;
-  padding: 0;
+  margin: 0 1rem;
+  padding: 0 1rem;
 }
 
 ol li {
-  margin: 0 0.5rem;
-  padding: 0 0.5rem;
+  margin: 0 0.25rem;
+  padding: 0 0.25rem;
 }
 
 footer {
