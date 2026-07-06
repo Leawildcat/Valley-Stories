@@ -10,8 +10,8 @@ html {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.325rem;
   background-color: #E8DCC0;
-  margin: 0.125rem;
-  padding: 0.125rem;
+  margin: 0.25rem;
+  padding: 0.25rem;
 }
 
 body {
@@ -28,6 +28,7 @@ h1 {
 
 h2 {
   font-size: 2.5rem;
+  text-align: center;
   font-weight: 500;
 }
 
@@ -42,6 +43,16 @@ a {
 
 a:visited {
   color: var(--link-visited);
+}
+
+ol {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+ol li {
+  margin: 0.25rem;
+  padding: 0.25rem;
 }
 
 footer {
@@ -60,7 +71,7 @@ footer {
 footer p {
   margin: 0.25rem;
   padding: 0.25rem;
-  font-size: 0.5rem;
+  font-size: 0.8rem;
 }
 
 footer a {
