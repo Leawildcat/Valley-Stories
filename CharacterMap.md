@@ -1,230 +1,278 @@
-**MASTER CHARACTER LIST — HUMANS (Canon as of June 2026)**
-
-**CORE FAMILY GROUP (The Siblings + Their Families)**
-
-**1\. JACK**
-
--   **Age:** 65
--   **Born:** December 1961
--   **Flashback Age:** 17–18
--   **Children:**
-    -   Two adult sons (names TBD)
--   **Notes:** Oldest sibling. Emotional anchor. Carries the longest history and the heaviest memory load.
+# 🌲 VALLEY CYCLE — MASTER CHARACTER MAP (Unified Canon, June 2026)
+
+Ages, traits, lore, guardians, animal forms, and book‑derived physical descriptions.
 
-**2\. LEA**
-
--   **Age:** 55
--   **Born:** March 1971
--   **Flashback Age:** 7–8
--   **Children:**
-    -   Adult daughter (30)
-    -   Son (deceased)
--   **Extended Family:**
-    -   Niece (through a brother not yet named)
--   **Notes:** Middle‑young sibling. Emotional narrator. Height 5'10–5'11. Strong internal arc.
+## CORE SIBLINGS - Holloway Clan
 
-**3\. AARON**
+### JACK HOLLOWAY
 
--   **Age:** 54
--   **Born:** May 1972
--   **Flashback Age:** 6–7
--   **Children:** None listed
--   **Notes:** Closest in age to Lea. Emotional parallel. Often acts as the bridge between Jack and the younger boys. Mother died 20 years prior to this in 2006.
+- Age: 65  
+- Born: December 1961  
+- Flashback Age: 17–18  
+
+- Physical Traits:  
+  - Long black hair with green, midnight blue, and deep violet highlights  
+  - Eyes: Dark amber‑brown eyes with gold flecks  
+  - Height: 6'1"  
+  - Lean, rangy, Native American warrior raven‑energy build  
+  - Moves like a trickster even in human form
 
-**4\. FRANK**
+- Role: Oldest sibling; emotional anchor; chaos agent; catalyst for change; runs father's ranches
 
--   **Age:** 50–51
--   **Born:** December 1974–75
--   **Flashback Age:** 3–4
--   **Spouse:** Lynn
--   **Lynn’s Age:** 45–48 (youngest adult in the group)
--   **Children:**
-    -   Sam (10) Born 2016
--   **Notes:** The emotional “middle” of the younger boys. Solid, steady, grounded.
+- Traits:  
+  - Mischievous, theatrical, clever  
+  - Deep loyalty to Lea  
+  - Carries the heaviest emotional history  
+  - Gremlin mode = default setting
 
-**5\. KEVIN**
+- Family:  
+  - Wife: Jillanna (d. 1998)  
+  - Sons:  
+    - Jesse James (32–33)  
+    - William "Billy" Bonny (29–30)
 
--   **Age:** 48–49
--   **Born:** January 1978
--   **Flashback Age:** 0–1
--   **Children:** None listed
--   **Notes:** The “Irish twin” dynamic with Davey is important. Sensitive, intuitive, often overshadowed.
+- Animal Form: Raven
 
-**6\. DAVEY**
+- Guardian: None (his own form guides him), shares Wolf (mother) with Lea  
+  - Lea's guardians have strong dislike for him
+
+### LEA HOLLOWAY ALDRIDGE
 
--   **Age:** 47–48
--   **Born:** November 1978
--   **Flashback Age:** Unborn
--   **Spouse:** Lisa
--   **Lisa’s Age:** Close to Davey’s (approx. 47–48)
--   **Children:**
-    -   Twins: Alonzo & Lonnie (approx. 9) Born 2017
-    -   Ester (7) Born 2019
--   **Notes:** Youngest sibling. Emotional heart. Often underestimated.
+- Age: 55
+- Born: March 1971
+- Flashback Age: 7–8
 
-**EXTENDED FAMILY & NEXT GENERATION**
+- Physical Traits:  
+  - Height: 5'10–5'11  
+  - Build: Tall, statuesque, strong shoulders, large chest tapering to hips, powerful legs (mirrors CT the bear)  
+  - Hair: Long wavy copper–silver–gold, “Black Hills gold” shimmer; silver streaks widening with age at temples  
+  - Eyes: Ice blue (warm, not cold)  
 
-**Lynn (Frank’s wife)**
+- Presence: Ethereal glow in darkness; calming, grounding
 
--   **Age:** 45–48
--   **Child:** Sam (10)
+- Role: Youngest sibling; emotional narrator; central arc; The Valley’s chosen memory‑keeper
 
-**Lisa (Davey’s wife)**
+- Traits:  
+  - Intuitive, steady, deeply empathetic  
+  - Withdrawn from the outside world  
+  - Strong bond with guardians  
+  - Moves through the Valley like it remembers her  
+  - Skilled campcraft, cooking, tending, guiding, crochet, canning, winemaking, beauty products  
+  - Chemist/Chemical Engineer Masters
+  - Medicine woman (herbalist) and University trained  
 
--   **Age:** ~47–48
--   **Children:**
-    -   Alonzo (9)
-    -   Lonnie (9)
-    -   Rose Ester (7)
+- Family:  
+  - Daughter:  
+    - Rowan Dawn Alridge (Married Name TBD)  
+    - Age (30) Born in 1996  
+    - Expecting in December
+    - Should inherit the Valley and mother's things
+  - Son  
+    - Grant Kaleb Aldridge V  
+    - Born in 2000  
+    - (d. age ~10)  
+    - Called Kaleb by Lea  
+  - Ex-Husband:  
+    - Grant K. Aldridge IV  
+    - Corporate */ Industrial Sales Director  
+    - Legacy‑driven, image‑focused, emotionally absent  
+  - Niece (through River/Clay)
 
-**Lea’s Daughter**
+- Animal Form: Cougar
 
--   Born in 1996
--   **Age:** 30
--   **Notes:** Adult, independent, but emotionally tied to Lea’s arc.
+- Guardian: Cougar (primary lineage guardian)
 
-**Lea’s Son (deceased)**
+- Other Guardian Ties: Bear (CT), Wolf (mother), Kaya (painted dog), Hawk (no name)
 
--   Born in 2000
--   **Age:** 26 if living; ~ 10 at death
--   **Notes:** Important emotional backstory.
+--------------------------------------------------------------------------------------
 
-**Jack and Lea’s Twin Brothers**
+## THE THREE BROTHERS - Callahan Clan
 
--   Age 60, 5 years exactly in the middle between Lea and Jack.
--   **River**
-    -   **Deceased: in 2010 at** 44
-    -   Lost when Lea lost her son
-    -   **Child:** Niece (name/age TBD)
--   **Clay**
-    -   Denounces Native American heritage in favor of staunch Baptist religion as a preacher
-    -   Has custody and raised the niece
+### AARON CALLAHAN
 
-**Jack’s Wife**
+- Age: 54  
+- Born: May 1972  
+- Flashback Age: 6–7  
 
--   Jillanna (Jill for short)
--   Married at 22 in 1983
--   Died in 1998
+- Physical Traits (from book):  
+  - Build: Solid, steady  
+  - Moves quietly, in sync with Lea  
+  - Hair/Eyes: Not yet described
+  - Height: 6'3"
 
-**Jack’s Sons**
+- Role: Emotional parallel to Lea; bridge between older & younger siblings; Book 2 Arc;
 
--   **Jesse**
-    -   **Born in 1994: 32-33**
--   **William (Billy)**
-    -   **Age:** Born in 1997: 29-30
+- Traits:  
+  - Quiet strength
+  - Deep grief over mother’s death
+  - Protective of Kevin & Davey
+  - Has déjà vu moments around Lea
+  - former baseball player, now hs teacher & coach
+  - has talent for music, art, and acting
 
-**MASTER LIST — GUARDIANS & ANIMALS (BOOK CANON ONLY)**
+- Family: None listed
 
-*(No coven crossover. No human‑friend mapping. Just the Valley Cycle mythos.)*
+- Guardian: Cougar (chooses him as “Josey”)
 
-**🐾 THE FIVE GUARDIANS (BOOK LORE)**
+### KEVIN CALLAHAN
 
-**1\. COUGAR — Guardian of Intuition & Shadow-Walking**
+- Age: 48–49  
+- Born: January 1978  
+- Flashback Age: 0–1
 
-**Chooses:** Aaron (aka Josey) **Also:** Lea’s totem AND Lea’s animal form **Traits:**
+- Physical Traits (from book):
+  - Build: Gentle, soft‑hearted
+  - Dog‑lover energy
+  - Hair/Eyes: Not yet described
+  - Height: 6'2"
 
--   silent strength
--   deep intuition
--   moves between worlds
--   protector of thresholds **Notes:** This is the *primary* guardian tied to Lea’s lineage and emotional arc. It is the one that watches, warns, and walks beside her.
+- Role: Sensitive, intuitive; often overshadowed; Irish Twin to Davey Book 2 Arc
 
-**2\. RED‑TAILED HAWK — The Overseer / Messenger**
+- Traits:
+  - Quick to laugh
+  - Childhood joy resurfaces strongly in the Valley
+  - Emotional parallel to Brent
+  - Made his money in the Hotel/Tourism Business
+  - Has talent for understanding people's needs in tourism and vacations
+  - Wants to retire to own a modest BnB or Castle-like estate hotel
 
-**Chooses:** No human (yet) **Role:**
+- Family: None
 
--   messenger between realms
--   sees the whole board
--   warns of danger
--   oversees the Valley **Notes:** This hawk is ancient, neutral, and not tied to a single person. It is the Valley’s eye.
+- Guardian: Wolf (their mother)
 
-**3\. BEAR — Cinnamon Toast (“CT”)**
+### DAVID "DAVEY" CALLAHAN
 
-**Color:** Cinnamon **Names:** Cinnamon Toast, CT, Mama Bear, MB **Role:** Maternal guide **Chooses:** Lea (and you, in the meta sense) **Traits:**
+- Age: 47–48
+- Born: November 1978
+- Flashback Age: Unborn
 
--   emotional grounding
--   fierce protection
--   ancestral wisdom **Notes:** Appears in Chapter 1 and Chapter 8. She is the maternal spirit guide — the one who holds the lineage steady.
+- Physical Traits (from book):
+  - Wild, loose-curly hair, light to pale blonde (explicitly described)
+  - Wiry, energetic, stocky build
+  - Height: 5'7-8"
+  - Easily embarrassed
 
-**4\. WOLF — The Mother**
+- Role: Youngest sibling; emotional heart; Frank's best friend
 
-**Identity:** Jack & Lea’s mother **Status:** Deceased; now a spirit guardian **Chooses:** Kevin (aka Brent) **Traits:**
+- Traits:
+  - Childlike enthusiasm
+  - Loves challenges
+  - Emotional parallel to Zach
+  - Runt Gofer
+  - Likes starting choas but panics when it gets out control
+  - Slow pattern seer
 
--   inherited strength
--   generational protector
--   watches over the siblings **Notes:** This wolf is not symbolic — she *is* their mother in her spirit form. She is the inherited totem passed down the maternal line.
+- Family:
+  - Wife: Lisa Smith Callahan (~47–48)
+  - Children:
+    - Alonzo (9)
+    - Lonnie (9)
+    - Rose Ester (7)
 
-**5\. PAINTED DOG — Kaya**
+- Guardian: Painted Dog (Kaya)
 
-**Chooses:** Davey (aka Zach) **Traits:**
+## FRANK MARINO
 
--   joy
--   play
--   mischief
--   community **Notes:** Kaya is the playful guardian who brings levity and balance to the Valley.
+Age: 50–51
+Born: December 1974–75
+Flashback Age: 3–4
 
-**🐺 ANIMAL / HUMAN FORMS (SHAPESHIFTER LORE)**
+Physical Traits (from book):
 
-These are the **actual animal forms** of the human characters — not guardians, but their own internal animal selves.
+Build: Solid, grounded
 
-**1\. RAVEN — Jack’s Animal Form**
+Wildfire grin
 
-**Traits:**
+Professional manicure (book joke) 
 
--   trickster
--   messenger
--   chaos agent
--   big brother energy **Notes:** Can morph into a crow as well. He is the PITA older brother who sees more than he says.
+Hair/Eyes: Not yet described
 
-**2\. COUGAR — Lea’s Animal Form**
+Role: Emotional middle of the younger boys; neighbor; recovering creative
+Traits:
 
-**Traits:**
+Witty, sharp, clever
 
--   intuitive
--   solitary strength
--   shadow‑walker
--   protector **Notes:** This is separate from the Guardian Cougar — this is *her*.
+Spark faded, returning through Lea
 
-**3\. WOLF — The Mother**
+Valley responds to him with humor
 
-**Traits:**
+Good banter match for Lea
 
--   protector
--   guide
--   ancestral memory **Notes:** Her wolf form is her true spirit form after death.
+Family:
 
-**4\. WOLF 2 — Gran‑ma‑ma (Great‑Grandmother)**
+Wife: Lynn (45–48)
 
-**Identity:**
+Daughter: Sam (10)
 
--   Jack & Lea’s great‑grandmother
--   Their mother’s mother
--   Medicine woman **Traits:**
--   can shift into multiple forms
--   not bound to a single totem
--   carries the inheritance line **Notes:** She is the origin point of the family’s spiritual lineage.
+Animal Form: None
+Guardian: None
 
-**5\. WOLF PACK — Aunts & Uncles**
+# EXTENDED FAMILY
+Twin Brothers (River & Clay)
+Age: 60
+Notes:
 
-**Identity:**
+River: died 2010 at 44; father of Lea’s niece
 
--   extended maternal family **Traits:**
--   protectors
--   watchers
--   ancestral presence **Notes:** They appear in dreams, visions, and moments of danger.
+Clay: preacher; rejects Native heritage; raised the niece
 
-**Pets and Other Animals**
+Lynn (Frank’s wife)
+Age: 45–48
+Traits: Not yet described
 
-1.  **Selby**
-    -   Frank’s golden retriever.
-    -   Claims Kaya as his girlfriend.
-    -   Jack’s confidant
-2.  **Snowball**
-    -   Sam’s long all-white cat.
-3.  **Ceril**
-    -   Lea’s mustang.
-    -   Deep, burnt umber regal
-4.  **Corvin**
-    -   Jack’s quarter horse.
-    -   Black with a small white star on his forehead
-    -   Steady, sure‑footed, valley‑trained
-    -   Raven‑echo temperament: observant, clever, loyal, occasionally mischievous
+Lisa (Davey’s wife)
+Age: ~47–48
+Traits: Eye color needs confirmation
+Children: Alonzo, Lonnie, Rose Ester
+
+Lea’s Daughter
+Age: 30
+Traits: Not yet described
+
+Lea’s Son (deceased)
+Born: 2000
+Died: ~2010
+Age at death: ~10
+
+# GUARDIANS (Valley Lore)
+Cougar — Guardian of Intuition
+Chooses: Aaron
+Also tied to: Lea
+Traits: Silent strength, intuition, threshold‑walker
+
+Redtailed Hawk — Overseer
+Chooses: None
+Traits: Messenger, ancient, neutral
+
+Bear — Cinnamon Toast (CT)
+Chooses: Lea
+Traits: Maternal, grounding, ancestral wisdom
+
+Wolf — The Mother
+Chooses: Kevin
+Identity: Jack & Lea’s mother
+Traits: Protector, generational memory
+
+Painted Dog — Kaya
+Chooses: Davey
+Traits: Joy, play, mischief, community
+
+# ANIMAL FORMS (Shapeshifter Lore)
+Jack: Raven
+
+Lea: Cougar
+
+Mother: Wolf
+
+Granmama: Multi‑form wolf lineage
+
+Wolf Pack: Aunts & uncles (ancestral)
+
+# PETS & OTHER ANIMALS
+Selby: Frank’s golden retriever
+
+Snowball: Sam’s long white cat
+
+Ceril: Lea’s mustang (burnt umber)
+
+Corvin: Jack’s quarter horse (black w/ white star)
