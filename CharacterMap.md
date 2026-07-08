@@ -250,12 +250,12 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Never developed ability to shift to animal form and part of the denouncement
 
 - Lea’s niece Holloway
-  - (name TBD)
+  - Kyrie
   - Guardian / Animal Form: Hummingbird
   - Raised by Clay
 
 - Father Holloway
-  - First name TBD
+  - James
   - Scottish/German decent
   - Red, curly hair
   - Blue Eyes
@@ -266,7 +266,7 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Called is wife Squaw
 
 - Mother  Holloway
-  - First name TBD
+  - Winona
   - 3/4 Native American
   - Short stature 5'5" to 5'6"
   - Brown Eyes
