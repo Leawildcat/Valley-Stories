@@ -1,7 +1,6 @@
-Rules for the book
+# Rules for the book
 
 Editing & Publish Ready
-
 
 1. NO EM or EN DAHSES, hyphens okay and expected for words and phrases only (numbers are hyphenated because my math brain demands it) New exception to the rule is for cut off dialog ONLY **_when one speaker cuts off another._**
 2. Saddle bags is two words
@@ -32,4 +31,3 @@ Exact remembered dialogue = in quotes; NOT italicized unless it’s also interna
 18. If we are working with Github pages because of the above docx. broken work flow or the whole book and working between chapters, then you are to tell me to switch tabs so that you can find the exact place like the original line, corrected line, and the why for changing it. That way you can pull the exact text and placement so I can edit it manually.
 19. Due to the preview window constraints, I may have you look at the entirety of the book on Github pages so you don't get lost going through it chapter by chapter. If we are able to use the upload files methods, they will be broken out into blocks of 5 or 6 so as not to trip a burst file upload and get me put into time out. Remember that all chapters are numbered in the order to be read and some chapters who are truncated are split into parts and mind the part order when that happens. If we are working on a particular chapter that has to be split we may switch to github so you can see it in it's entirety because you are still jicky in that departemnt as you have been known to pair part 1 of chapter 9 with part 2 of chapter 8.
 20. We are going to be formatting the head information on the html pages to keep it off the search engines as much as possible, but where you still have access and I am not going blind from tiny text and bright white pages.
-

@@ -179,6 +179,8 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
 
 - Guardian: Painted Dog (Kaya)
 
+--------------------------------------------------------------------------------------
+
 ## **THE LAST PILLAR - Marino Clan**
 
 ### **_FRANK MARINO_**
@@ -220,6 +222,8 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Daughter: Samantha "Sam" (10)
 
 - Guardian: Raven / Crow from Jack choosing him for Lea
+
+--------------------------------------------------------------------------------------
 
 ## EXTENDED FAMILY
 
@@ -350,6 +354,8 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     - At giggles stage in life
     - Daddy's girl
 
+--------------------------------------------------------------------------------------
+
 ## GUARDIANS (Valley Lore)
 
 ### Cougar — Guardian of Intuition
@@ -461,6 +467,8 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     - Fierce protection
     - Truth‑seeing
     - Hovering magic
+
+--------------------------------------------------------------------------------------
 
 ## PETS & OTHER ANIMALS
 
