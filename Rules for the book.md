@@ -3,7 +3,7 @@
 Editing & Publish Ready
 
 1. NO EM or EN DAHSES, hyphens okay and expected for words and phrases only (numbers are hyphenated because my math brain demands it) New exception to the rule is for cut off dialog ONLY **_when one speaker cuts off another._**
-2. Saddle bags is two words
+2. Saddle bags & cattle guard is two words
 3. Cadence is hybrid American and British, my unique voice blend so words like towards is okay even though it's British
 Note: how the toward/towards works, if the verb like in 6 ends in an s then it is toward, otherwise it's towards, nods=toward, walk=towards, but the main test is cadence
 Cadence words that are not necessarily flagged:
