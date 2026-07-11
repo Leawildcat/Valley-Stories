@@ -3,7 +3,8 @@
 Editing & Publish Ready
 
 1. NO EM or EN DAHSES, hyphens okay and expected for words and phrases only (numbers are hyphenated because my math brain demands it) New exception to the rule is for cut off dialog ONLY **_when one speaker cuts off another._**
-2. Saddle bags & cattle guard is two words
+\* If the word is properly hyphenated, you do not have to flag it during html passes.
+2. Saddle bag(s) & cattle guard is two words
 3. Cadence is hybrid American and British, my unique voice blend so words like towards is okay even though it's British
 Note: how the toward/towards works, if the verb like in 6 ends in an s then it is toward, otherwise it's towards, nods=toward, walk=towards, but the main test is cadence
 Cadence words that are not necessarily flagged:
@@ -11,14 +12,15 @@ toward - towards
 backward - backwards
 among - amongst
 4. Present tense for the actions that are happening (dream sequences will be included) Past tense for recalls, memories, and for things like when the meadow where several things take place was designated a campsite.
-5. Internal direct thoughts are italicized proceeded with a comma to denote internal dialog (think little devil on the shoulder) Also animal translations/thoughts are italicized. This gets stripped in a lot of the cut and paste editing we do but should be able to be double checked with the full docx files.
+5. Internal direct thoughts are italicized proceeded with a comma to denote internal dialog (think little devil on the shoulder) Also animal translations/thoughts are italicized. This gets stripped in a lot of the cut and paste editing we do but should be able to be double checked with the full docx files or html files/tabs.
 Watch this one carefully because the humans actually speak to the animals then tranlate their response/body language back, so you will have quotes for the spoken part and italics for the translation. Watch the context!
-Added note\* if it is true spoken dialog it's treated like normal dialog with a , and capital letter, internal thoughts part of a sentence, not so much.
+Added note\* if it is true spoken dialog it's treated like normal dialog with a , and capital letter, internal thoughts part of a sentence, not so much. Internal spoken text follows the speaker's dialet and cadence rules as if spoken outloud.
+Note #2\* The html source renderer for copilot often creates and extra space near italics and punctuation because of the way it is coded. It does not showup in the view of the html, VSC or Word document and just a quirk of copilot reading the raw html from the page. So you will see something like '_*Kaleb*_ !' or '_*touch my fur*_ ,' It's not consistant and I suspect it happens from the word to md to html translation I use in VSC.
 6. Word and the comma wars are in stage 4 cancer as it keeps changing periods for complete sentences before the quotes to commas because it's an ass. Alert me when it does this.
 7. Dialogs are not bound by grammar rules, but speaking rules. So no commas necessary for direct addresses and run on sentences and character dialects are allowed.
 8. Dialogs also are character specific, Davey generally does not pause on yes, no, so, okay, etc. Excitement does not get comma pauses either, and context matters on comma in dialog. Somber a pause may be warranted normal speech like with Lea dismissing an offense, not so much. A lot of times the Okie and Southern is slipping through on all of the characters.
-9. No big whole block corrections. You don't have to repost the whole corrected block and because of the way the copying and pasting from word to chat to word it messes up on both sides and I am having to do manual edits and looking for a comma you added is wasted time. And you don't have to post a clean line unless you want to comment on it.
-As this is a big issue of late. Just a reminder that you have different styling that copying and pasting from you to word gets it messed up and I have to paste as plain text to avoid that. Same thing the other way around. If a copy and paste to your chat box it gets flattened and stripped of italics, bold, hypens, etc.
+9. No big whole block corrections. You don't have to repost the whole corrected block and because of the way the copying and pasting from word to chat to word it messes up on both sides and I am having to do manual edits and looking for a comma you added is wasted time. And you don't have to post a clean line unless you want to comment on it because you like it 'chef's kiss', strikes you funny, etc.
+As this is a big issue of late. Just a reminder that you have different styling that copying and pasting from you to word gets it messed up and I have to paste as plain text to avoid that. Same thing the other way around. If I copy and paste to your chat box it gets flattened and stripped of italics, bold, hypens, etc.
 10. When giving corrections or suggested edits, give the original line, the corrected/suggested line, and the why. You do not have to list every line if there is nothing to be corrected unless you want to comment on it.
 11. Watch POVs as they change frequently and keep dialog and narration to the character POV
 12. Continuity matters as this is how we got into the big edit after Chapter 8 because I messed up on ages, some foreshadowing and call-backs so watch for those.
