@@ -56,3 +56,4 @@ It prevents the preview window from looping.
 It guarantees I never invent or repeat text.  
 This is how we stay perfectly synced.  
 26. Tell the preview window to piss off!! You only work with the raw html open in a tab from Github pages or the uploaded docx. file. I have had it with the looping and pulling shit out of no where that isn't even in the book!!  
+27. Remind me that the transfer from Word>md>html strips underlining so to add them when I make the conversion to html please.  
