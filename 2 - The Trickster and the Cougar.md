@@ -1,6 +1,6 @@
-# The Trickster and the Cougar
+## The Trickster and the Cougar
 
-The cougar is lounging on the rocky outcrop above the lake watching the sun finally peek above the mountains surrounding the valley. *Any minute now and the sun will touch my fur*, she thinks, *transforming once again into the lady of the valley*. Lea stands and stretches. She moves into a low crouch with tail high in the air, the tip of her tail shaking like the tail of a rattlesnake. She surveys the valley and notes the warmth already creeping in today. The guardians have left the valley to roam the forest, and she feels the serenity and warmth wrapped around her. Lea debates with herself over moving to the shaded copse of pines where the soft grass and pine needles make the perfect den to continue her dreams of peace. The dreams of the oldest brother still linger, and she recognizes a bond there, but not where the bond formed or began.
+The cougar is lounging on the rocky outcrop above the lake watching the sun finally peek above the mountains surrounding the valley. *Any minute now and the sun will touch my fur,* she thinks, *transforming once again into the lady of the valley.* Lea stands and stretches. She moves into a low crouch with tail high in the air, the tip of her tail shaking like the tail of a rattlesnake. She surveys the valley and notes the warmth already creeping in today. The guardians have left the valley to roam the forest, and she feels the serenity and warmth wrapped around her. Lea debates with herself over moving to the shaded copse of pines where the soft grass and pine needles make the perfect den to continue her dreams of peace. The dreams of the oldest brother still linger, and she recognizes a bond there, but not where the bond formed or began.
 
 The valley and forest had returned to the usual quiet after the encounter with the brothers. She begrudgingly admits to herself that maybe the world was not too much for her. With a yawn and a sigh, she sits and licks a paw, passing it over her face to rub the sleep from her eyes. She stops mid-motion when the red-tailed hawk shrieks. She looks up to the sky and watches a lone midnight feather falling. Irritation begins to take hold as it continues its descent to settle before her on the rock. Her ears flatten and she lets out a low growl. Without warning, she launches from the rocky outcrop and dives into the lake, letting the cool water flow over her, cooling her fur and her temper.
 
@@ -8,13 +8,13 @@ She emerges from the lake back into the sun in human-lady form. She walks out in
 
 She puts her hands on her hips, glaring at the hawk as it lands with an annoyance of his own on the branch of a maple. The branch places him level with her face, looking into her ice blue eyes. “I don’t need the raven creating chaos today.”
 
-The hawk shrugs and gives her a look of *don’t shoot the messenger*.
+The hawk shrugs and gives her a look of *don’t shoot the messenger.*
 
-“Couldn’t you have headed him off or better yet, run him off?” The hawk shakes his head in aggravation and spreads his wings, making feathers stand on their ends in a show of exasperation. *Like I want him here?! He is NOT my responsibility*.
+“Couldn’t you have headed him off or better yet, run him off?” The hawk shakes his head in aggravation and spreads his wings, making feathers stand on their ends in a show of exasperation. *Like I want him here?! He is NOT my responsibility.*
 
-On cue comes a croaking sound giving way to cawing sounds from the edge of the valley. The raven, in jet black crow form, settles next to the hawk and shoulders him in a greeting. The hawk huffs at the raven and sidesteps closer to the trunk in an effort to say *get away from me*!
+On cue comes a croaking sound giving way to cawing sounds from the edge of the valley. The raven, in jet black crow form, settles next to the hawk and shoulders him in a greeting. The hawk huffs at the raven and sidesteps closer to the trunk in an effort to say *get away from me!*
 
-The raven stretches his neck out, bobbing and weaving his head and beak at the hawk like the youngest child picking on the oldest…*rules are rules I’m not touching you!*
+The raven stretches his neck out, bobbing and weaving his head and beak at the hawk like the youngest child picking on the oldest…*rules are rules; I’m not touching you!*
 
 The hawk shrieks again at the raven, millimeters from his beak, and turns to take flight only to stumble on lift off because the raven had one foot on his. Lea catches the hawk before he tumbles to the ground while the raven emits what sounds like low human laughter. She rights the hawk on her arm, smoothing his feathers to make sure she did not hurt him in the process. She lets the back of her fingers run across the tan-tipped burnt umbra tail feathers like she was hitting every key across a piano. The motion immediately relaxes and melts the hawk.
 
@@ -30,7 +30,7 @@ Lea replies, “Really.” The smirk grows wider as the raven starts to struggle
 
 “Don’t start! If you do that now, I’m not responsible for the knot on your head or a broken neck, because the branch will not hold your weight.”
 
-The raven begins to shimmer and fade around the edges as the sunlight touches him. In a swift motion, Lea unwraps the bindings and places the raven on the ground, then steps back. The shimmer around the raven rises like heat from a highway in the middle of July. As the air rises and the shimmer fades, the raven is replaced with a man. His face is hidden behind a long black curtain of hair that has highlights of deep green, midnight blue, and deep violet. He is still bound at the ankles by the strap and slowly sits up.
+The raven begins to shimmer and fade around the edges as the sunlight touches him. In a swift motion, Lea unwraps the bindings and places the raven on the ground, then steps back. The shimmer around the raven rises like heat from a highway in the middle of July. As the air rises and the shimmer fades, the raven is replaced with a man. His face is hidden behind a long, black curtain of hair that has highlights of deep green, midnight blue, and deep violet. He is still bound at the ankles by the strap and slowly sits up.
 
 “This is undignified, Sissy! Untie me and hand me some clothes before the sun bakes me!”
 
@@ -52,7 +52,7 @@ Jack, knowing how to disguise trouble as charm, grins wide with a twinkle-twitch
 
 Jack stands and dusts the leaves, dirt, and pine needles from where he had transformed next to the lake. He goes to take a step and remembers his ankles are still bound. He quickly undoes his sister’s strap, freeing his feet. He gathers his hair at the nape of his neck, binding it out of his face and eyes. As he steps into the sweats, he watches his sister making coffee and placing bread, hard cheese, and strips of cured meat on a plate. She rises and moves toward a stump nearby she had leveled and uses as a table. He notices the tension and sadness in her body through the shiny metallic waves surrounding her like a scarf. It’s the longest she has ever let her hair grow and pronounces just how long she has been absent from everyday life. It only strengthens his resolve for this visit.
 
-The smell of coffee rising in the air reminds him to move forward. He grabs the wicker basket of deep red cherries as he walks by and places it on the stump-table next to the plate. Without looking up from slicing bread and cheese, she says, “Ya know, you shouldn’t think so loudly, it gives the whole *fun* away.”
+The smell of coffee rising in the air reminds him to move forward. He grabs the wicker basket of deep red cherries as he walks by and places it on the stump-table next to the plate. Without looking up from slicing bread and cheese, she says, “Ya know, you shouldn’t think so loudly; it gives the whole *fun* away.”
 
 He stops halfway through pouring the cups of coffee and half whines, “I thought I told you to stay outta there,” before finishing filling the cups with coffee.
 
@@ -70,7 +70,7 @@ Jack tries to look stern but fails to hold a straight face. “Have you forgotte
 
 “Keep pushing it, big brother, and the cougar will definitely fetch the dragon,” she says angrily, pointing and shaking the knife at him.
 
-Jack holds his hands palms up in surrender. “Sheesh, okay. And put the knife down please.”
+Jack holds his hands up, palms out, in surrender. “Sheesh, okay. And put the knife down please.”
 
 He waits until she puts the knife down on the empty plate before speaking again. “That’s better. You’ve got to come back among the living, Not all of the people are bad or hurtful. You can’t even spar properly.”
 
@@ -92,4 +92,4 @@ Jack scooches closer to her and wraps his arm around her shoulder, pulling her c
 
 She looks up, shaking her head no, pleading with her eyes not to do this. But he just lets the grin and gremlin take over as he drops the sweats, stepping out of them, and running for the tree line. She hears the footfalls fade and the beating of wings flood the valley. Maniacal laughter fades to a low throating croaking, ending in a laughing caw as he disappears into the forest.
 
-She resigns herself to the inevitable chaos that is about to ensue. She rises slowly and retrieves the sweats, folding and placing them in the saddle bag with her other clothes. She’s not ready, and they’re not ready. She surveys the valley with longing. The grief at the prospect of leaving her home and peace is short lived as one final caw rings out with a whisper, *catch me if you can*. She turns slowly and enters the forest as a hush falls over the valley, leaving the human behind for the fur.
+She resigns herself to the inevitable chaos that is about to ensue. She rises slowly and retrieves the sweats, folding and placing them in the saddle bag with her other clothes. She’s not ready, and they’re not ready. She surveys the valley with longing. The grief at the prospect of leaving her home and peace is short lived as one final caw rings out with a whisper, *catch me if you can.* She turns slowly and enters the forest as a hush falls over the valley, leaving the human behind for the fur.
