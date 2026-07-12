@@ -1,4 +1,4 @@
-# The Valley That Dines
+## The Valley That Dines
 
 The shock and wonder as Jack ended the tale lasts only a few seconds before choruses of “more” from the children rang out. Jack is delighted at the reception of the story, but realizes he is starving. He gently says, “Another time, I promise. But y’all need to sleep and we need to eat.”
 
@@ -36,7 +36,7 @@ She glances up at Jack. Lynn and Lisa notice the unspoken words passing between 
 
 They hear Lea begin speaking in a soft voice, not quite singing, but not speaking or whispering either. The last thing they hear before Jack slides the door to the patio closed is Lea saying, “It’s dark and warm in the valley. And you smell the earth and the faintness of flowers. The soft grass is beneath you, and you are already lying in the middle of a pack with your heads on wolves and bear cubs. Their soft fur tickles your cheeks as you point out the stars overhead…”
 
-Lisa and Lynn droop as they wanted to continue listening but quickly switch gears when they hear ice clinking into glasses. They turn around with a new purpose to join Frank and Davey in the kitchen. Jack takes one last glance at Lea, noticing she has the twins asleep already. He steps quickly to the kitchen, bypassing the adjacent dining area to wash his hands at the sink. His stomach is growling and he hopes no one can hear it. He dries his hands and watches the others. They are in quiet contemplation as they go about setting the table and dishing out spaghetti. Jack wonders, *Was the story too much*.
+Lisa and Lynn droop as they wanted to continue listening but quickly switch gears when they hear ice clinking into glasses. They turn around with a new purpose to join Frank and Davey in the kitchen. Jack takes one last glance at Lea, noticing she has the twins asleep already. He steps quickly to the kitchen, bypassing the adjacent dining area to wash his hands at the sink. His stomach is growling and he hopes no one can hear it. He dries his hands and watches the others. They are in quiet contemplation as they go about setting the table and dishing out spaghetti. Jack wonders, *Was the story too much.*
 
 Davey is juggling two glasses and two full plates of spaghetti and meatballs when he almost loses them to the floor. Kaya is eagerly waiting in front of Davey hoping for just that. Jack takes a plate and a glass and sets it on a placemat on the dining room table, noticing it has gone from a circle to an oval shape to accommodate the adults. He apologizes to Davey for Kaya and is about to drag her outside when Lea enters the dining area. Everyone jumps because no one heard her coming. She has a half apologetic smile on her face as she lowers her eyes and reaches down to take Kaya outside.
 
@@ -70,13 +70,13 @@ Jack looks at Lea as if to say, That’s your department. Lea explains, “Chamo
 
 Lea holds out her hand and wrist and pushes the leather bracelets out of the way to reveal a thin serpentine copper bracelet at her wrist. Lynn looks at the green tint under the bracelet and before she can stop it, let’s slip out, “But it has turned your arm green, and it’s so dull.” Lynn immediately regrets the slip and covers her mouth with her hand.
 
-Frank interrupts to save everyone from the cat fight. “Might I suggest we eat before this gets any colder.” He takes a bite noticing it’s not cold but also not too hot either and thinks, *My gawd man you are Goldilocks*. Everyone follows Frank’s lead taking bites and chewing in silence, appraising the taste before offering compliments to Frank who blushes.
+Frank interrupts to save everyone from the cat fight. “Might I suggest we eat before this gets any colder.” He takes a bite noticing it’s not cold but also not too hot either and thinks, *My gawd man you are Goldilocks.* Everyone follows Frank’s lead taking bites and chewing in silence, appraising the taste before offering compliments to Frank who blushes.
 
 Jack finishes another bite and finds the silence is still tense from Lynn’s comment. He timidly ask, “Are we allowed to talk between bites or is this a eat in silence table?”
 
 Frank chuckles. “No, you are allowed to talk because if you have ever sat at a table with my family, quiet is the last thing you get.”
 
-Lynn begins to apologize to Lea, but Lea doesn’t give her the chance. “It’s okay and you didn’t hurt my feelings. It’s something that most people don’t know and won’t tell you because they want to sell you on the shiny copper. The secret for it to work is in the chemistry of the oxidation of the copper. It’s the green that you want to absorb to help with arthritis, not the copper by itself, but you don’t want it unsightly green. It’s part of the reason I wear the leather bracelets on top to hide the green, but I also don’t let it get so bad that it’s unsightly. It’s a little stronger now because it’s summer and I’ve been sweating. If you want the benefits, the you have to wear off or remove the lacquer coating and then let it turn you green.”
+Lynn begins to apologize to Lea, but Lea doesn’t give her the chance. “It’s okay and you didn’t hurt my feelings. It’s something that most people don’t know and won’t tell you because they want to sell you on the shiny copper. The secret for it to work is in the chemistry of the oxidation of the copper. It’s the green that you want to absorb to help with arthritis, not the copper by itself, but you don’t want it unsightly green. It’s part of the reason I wear the leather bracelets on top to hide the green, but I also don’t let it get so bad that it’s unsightly. It’s a little stronger now because it’s summer and I’ve been sweating. If you want the benefits, then you have to wear off or remove the lacquer coating and then let it turn you green.”
 
 Frank wipes his mouth with his napkin and places it back in his lap. “I guess green is an alternative to being Smurf blue. Isn’t that right, Davey?”
 
@@ -98,11 +98,11 @@ Frank trying to keep it in, lands one more jab at Davey. “If he does start cry
 
 Lea and Frank, watching Davey’s eyes twitch trying to defend himself, finally fails. Davey finds his voice, and blunders out, “What do you two think I am, a bag of Skittles? I’m not a fucking rainbow!”
 
-His outburst breaks both Lea and Frank down as they let go of the laughter they had been suppressing. Jack and the wives join in. Frank thinks to himself, *I’m back*.
+His outburst breaks both Lea and Frank down as they let go of the laughter they had been suppressing. Jack and the wives join in. Frank thinks to himself, *I’m back.*
 
 Wiping tears from their eyes and the sighs of trying to calm to infectious laughter, Jack and Lisa move their chairs back over to try to finish their meal. The others follow their lead, but a giggle or a snort slips out in the silence. Lynn watches Frank lean over to look out at the patio, making sure the laughter did not wake the kids. She gives him a questioning look, and he nods all is okay. It reminds her that Jack was supposed to explain Lea’s bedtime spell.
 
-Lynn sees the plates are nearly empty as well as the tea glasses and rises, grabbing the pitcher from the bar and topping off glasses starting with Jack and working clockwise around the table. She thinks to herself, *I guess you can take the waitress out of the diner, but you can’t take her out of the girl*. She gets to Davey and chuckles again at the rainbow punnery that flew around this end of the table and asks Davey, “Would you like a side of lavender with that.”
+Lynn sees the plates are nearly empty as well as the tea glasses and rises, grabbing the pitcher from the bar and topping off glasses starting with Jack and working clockwise around the table. She thinks to herself, *I guess you can take the waitress out of the diner, but you can’t take her out of the girl.* She gets to Davey and chuckles again at the rainbow punnery that flew around this end of the table and asks Davey, “Would you like a side of lavender with that.”
 
 Davey shakes his head no and tries to finish chewing his last bite before he does wind up choking on a meatball. Lisa chuckles at her husband and as she feels Lynn reach next to her to refill her glass. Lynn almost drops the pitcher when Lisa’s head bolts up like she has an idea. Lynn sets the pitcher back onto the bar at her back and gives a puzzled look to Lisa.
 
@@ -150,7 +150,7 @@ Not wanting to let it fade Frank starts to ask another question, but Davey cuts 
 
 Lea tries not to shift in her seat. She reaches for her outward indifference mask she has been trained to use since she was first cornered with being put in the spotlight like this as a child. Jack takes his sister’s hand under the table, lending her his strength and silently regretting starting this conversation. “That’s because Lea has something rarer than most. There are a very, very rare few who can bypass the mind and evoke touch in people. Most evoke a memory or trigger the imagination for the sights, smells, or sounds, but Lea makes you feel it in your skin.”
 
-Jack watches as each adult in turn looks down with awe at their right hands. Some opening and closing from the lingering feeling of her touch. *It’s time to break the spell*, he thinks. “Wait, that is a little confusing. What I’m trying to say is Lea triggers you feeling her touch even when the mind knows she’s not touching you. Do you have any idea how annoying it is to have a little sister who can sit there and with a word or a look do the I’m-not-touching-you thing and absolutely make you feel her poke you? And of course, she doesn’t get in trouble because she’s not actually touching you. Parents just don’t understand.”
+Jack watches as each adult in turn looks down with awe at their right hands. Some opening and closing from the lingering feeling of her touch. *It’s time to break the spell,* he thinks. “Wait, that is a little confusing. What I’m trying to say is Lea triggers you feeling her touch even when the mind knows she’s not touching you. Do you have any idea how annoying it is to have a little sister who can sit there and with a word or a look do the I’m-not-touching-you thing and absolutely make you feel her poke you? And of course, she doesn’t get in trouble because she’s not actually touching you. Parents just don’t understand.”
 
 Laughter erupts again at the look of exaggerated shock and hurt on Jack’s face. As the laughter settles once more, Lynn’s waitressing instincts kick in again. She nudges Lisa under the table and looks at the plates. She and Lisa rise and start gathering the plates and empty bread baskets. Jack understands the cue and offers his help with a “Lea did the kids’ plates, and I’ll help with the adults to pay for my dinner.”
 
@@ -206,7 +206,7 @@ Frank nods his head in agreement. “Yup runt gofer is right. Davey sells hissel
 
 Lea grins, lighting her whole face and the room up. “I’m sold.”
 
-Frank’s anxiety returns in spades as he scans Lea’s face for any sign she is not genuine. Finding none, he finds the attraction to her grows as the anxiety dissolves. He locks eyes with her. A sudden feeling of her walking through his soul takes his breath for a moment as she unlocks and throws doors open he cannot keep closed. He relaxes. A part from deep inside his soul says, *I know you, old friend*. He relaxes when he discovers to his delight he is doing the same thing to her seeing the real woman and not the mythic shape shifting being, more wisdom than could ever be fully realized. A woman who is somehow still a child that has known joy, great loss, grief, self-doubt, challenges, and love. He pauses on love as he hears his wife’s laughter from the kitchen. What he feels for Lea is not romantic but something on a deeper level he still cannot define.
+Frank’s anxiety returns in spades as he scans Lea’s face for any sign she is not genuine. Finding none, he finds the attraction to her grows as the anxiety dissolves. He locks eyes with her. A sudden feeling of her walking through his soul takes his breath for a moment as she unlocks and throws doors open he cannot keep closed. He relaxes. A part from deep inside his soul says, *I know you, old friend.* He relaxes when he discovers to his delight he is doing the same thing to her seeing the real woman and not the mythic shape shifting being, more wisdom than could ever be fully realized. A woman who is somehow still a child that has known joy, great loss, grief, self-doubt, challenges, and love. He pauses on love as he hears his wife’s laughter from the kitchen. What he feels for Lea is not romantic but something on a deeper level he still cannot define.
 
 The clock chimes eleven, breaking the spell they were under. The last note lingers, as they slowly turn to acknowledge the squeal of laughter coming from the kitchen island bar where Lynn, Lisa, and Jack sit. Davey, knowing his wife is stirring the pot, finalizes the moment by nervously saying, “I think we need to rescue Jack.”
 
@@ -214,7 +214,7 @@ Lea corrects Davey. “We need to rescue the wives.”
 
 Davey, Frank, and Lea enter the kitchen, pausing at the archway that separates the dining area to the kitchen. They see Jack twirling a feather in front of Lynn, who is using a finger to stop a sensation in her left ear. Lynn is doubled over in laughter, the kind that comes from being tickled. Lea and Frank smirk knowing the why for the squeal and the laughter.
 
-Davey walks to stand next to his wife, crossing his arms with a look of *what did you do now*. Lisa feigns innocence as she drinks the last of her wine. Frank walks behind his wife, knowing exactly that tone of laughter. He begins to run his fingers lightly down her sides, making her squeal with more laughter. He thinks, *It’s a good day I got them both*.
+Davey walks to stand next to his wife, crossing his arms with a look of *what did you do now.* Lisa feigns innocence as she drinks the last of her wine. Frank walks behind his wife, knowing exactly that tone of laughter. He begins to run his fingers lightly down her sides, making her squeal with more laughter. He thinks, *It’s a good day I got them both.*
 
 Lea stands beside her brother with her head on his shoulder, already understanding the situation. “I see you have found another victim. Didn’t you learn your lesson this morning?”
 
@@ -252,7 +252,7 @@ Everyone chuckles again. Lynn shoots Lisa a reproachful glance. “You, my frien
 
 Jack lets loose with full belly laughter. “I told you Sissy. You really should market the products. She has a whole line. I keep trying to convince her to market her beauty line. She has soaps, shampoos, conditioners, detanglers, you name it. She’s a chemist and has a degree in it but doesn’t use it like she should. Maybe y’all can convince her.”
 
-Lea picks up the empty wine bottle, studying it as she rotates it gently with just her fingers. She tries to cover the panic and other emotions rising to overwhelm her, hoping they see her as simply contemplating Jack’s suggestion. She thinks, *Too much. Too fast. I’m not ready*. She takes a deep breath and lets it out slowly. Very softly and just above a whisper, she says, “I dunno. I’ll think about it.”
+Lea picks up the empty wine bottle, studying it as she rotates it gently with just her fingers. She tries to cover the panic and other emotions rising to overwhelm her, hoping they see her as simply contemplating Jack’s suggestion. She thinks, *Too much. Too fast. I’m not ready.* She takes a deep breath and lets it out slowly. Very softly and just above a whisper, she says, “I dunno. I’ll think about it.”
 
 She sets the bottle down in a determined motion and turns to hug Frank goodbye, thanking him once again for the food and company. As they embrace, Frank feels the attraction solidify into what he can only frame as a bond rooted in that ancient recognition he felt before. With it fully formed he now senses the emotional storm in Lea, but she breaks the hug so abruptly that he knows she felt the bond too. Sister almost fits, but he just somehow knows that there is more to it than family.
 
