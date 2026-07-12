@@ -5,7 +5,7 @@
 - Font: Times New Roman, 12 pt.
 - Line Spacing: Multiple 1.16
 - Paragraph space after: 8 pt.
-- Header 2:
+- Heading 2:
   - Font: 28 pt, Centered
   - Space After:  12 pt
   - Keep with next, Keep lines together
@@ -14,3 +14,99 @@
   - Based on: Normal
   - Following style: Normal
 - Page Color: #DDD8C2
+
+## Master
+
+- Font: Times New Roman, 12 pt.
+- Line Spacing: Multiple 1.16
+- Paragraph space after: 8 pt.
+- Heading 2:
+  - Font: 28 pt, Centered
+  - Space After:  12 pt
+  - Keep with next, Keep lines together
+  - Level 1
+  - Style: Linked, Automatically update, Show in the Styles gallery, Priority: 10
+  - Based on: Normal
+  - Following style: Normal
+- Page Color: #DDD8C2
+- Title is Book Title at Heading 1
+  - Font: 36 pt, Centered
+  - Space After:  4 pt, Level 1 (Manual)
+  - Style: Linked, Automatically update, Show in the Styles gallery, Priority: 10
+  - Based on: Normal
+  - Following style: Normal
+- By Line at Heading 3:
+  - Font: 14 pt, Centered
+  - Space After:  18 pt, Level 3
+  - Style: Linked, Hide until used, Show in the Styles gallery, Priority: 10
+  - Based on: Normal
+  - Following style: Normal
+- TOC
+  - 1 Level
+  - Use Heading 2
+  - Font: 14 pt, Ligatures: None, Indent:
+  - Left:  0.25"
+  - Hanging:  0.25"
+  - Space After:  4 pt,
+  - Don't adjust space between Latin and Asian text
+  - Don't adjust space between Asian text and numbers
+  - Numbered + Level: 1 + Numbering Style: 1, 2, 3, … + Start at: 1 +
+    - Alignment: Right + Aligned at:  0.25" + Indent at:  0.5"
+    - Style: Linked, Automatically update, Hide until used, Priority: 40
+    - Based on: Normal
+    - Following style: Normal
+- Section:
+  - Insert break next page at end of chapter
+- Header/Footer
+  - Different First Page
+  - 3 Column
+  - Left: Link to bookmark at book title [Back to Top]
+  - Center: [Copyright symbol 2026 The Valley Stories. All rights reserved.]
+  - Right: Page number starting at 1 on page 2
+
+  ## Reader's Edition
+
+- Font: (Default) Georgia, 15 pt, Left
+- Line spacing:  Multiple 1.3
+- Space After:  10 pt, Widow/Orphan control, Keep with next, Keep lines together
+- Style: Show in the Styles gallery
+- Page Color: #F4EBD8
+- Chapter Title (Was Heading 1 now will be Heading 2)
+  - Font: 24 pt, Bold, Centered
+  - Space Before:  4 pt, Don't add space between paragraphs of the same style, Level 1
+  - Style: Linked, Automatically update, Show in the Styles gallery, Priority: 10
+  - Based on: Normal
+  - Following style: Normal
+- Title is Book Title at Heading 1
+  - Font: 36 pt, Condensed by  0.5 pt, Kern at 14 pt, Centered
+  - Space After:  4 pt, Level 1 (Manual)
+  - Style: Linked, Automatically update, Show in the Styles gallery, Priority: 11
+  - Based on: Normal
+  - Following style: Normal
+- By Line at Heading 3:
+  - Font: 20 pt, Centered
+  - Space After:  18 pt, Level 3
+  - Style: Linked, Hide until used, Show in the Styles gallery, Priority: 10
+  - Based on: Normal
+  - Following style: Normal
+- TOC
+  - 1 Level
+  - Use Heading 2
+  - Indent:
+    - Left:  1"
+    - Hanging:  0.25"
+  - Space After:  4 pt
+  - Tab stops:  6.49", Right,Leader: …, Numbered + Level: 1 + Numbering Style: 1, 2, 3, … + Start at: 1 +
+  - Number Style 15 pt, [Chapter ]
+  - Alignment: Right + Aligned at:  0.25" + Indent at:  0.5"
+  - Style: Automatically update, Hide until used, Show in the Styles gallery, Priority: 40
+  - Based on: Normal
+  - Following style: List Paragraph
+- Section:
+  - No section break just blank paragraph at endd off chapter
+- Header/Footer
+  - Different First Page
+  - 3 Column
+  - Left: Link to bookmark at book title [Back to Top] Font: 12 pt
+  - Center: [Copyright symbol 2026 The Valley Stories. All rights reserved.] Font: 12 pt
+  - Right: Page number starting at 1 on page 2
