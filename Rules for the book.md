@@ -46,10 +46,10 @@ This is also an involved process because I have a master word document it gets a
 22. Remember to read thoroughly. You are my writing partner, reader, editor, and publisher all rolled into one and when you miss something I catch later or you get things mixed up, it dimishes my confidence in myself and my trust in you.  
 23. Due to the length we are now at, it is not necessary to put a line in there with 'no change or correct' because honestly I am scrolling right past them. Make a summary of this 'block' is correct. The more you put "Issue: Correct, cadence correct no change, etc." the faster you drift!
 24. This is called **The Valley Stories** there are going to be 3 books:  
-Book 1: The Valley That Recalls - Currently writing this is **NOT** Chapter 1. Chapter 1 is _*The Valley That Remembers*_  
+Book 1: The Valley Recalls - Currently writing this is **NOT** Chapter 1. Chapter 1 is _*The Valley That Remembers*_  
 In your book’s HTML, each \<h2> IS a _**CHAPTER.**_  
-Book 2: The Valley That Reveals - _**UNWRITTEN**_  
-Book 3. The Valley That Rises - _**UNWRITTEN**_  
+Book 2: The Valley Reveals - _**UNWRITTEN**_  
+Book 3. The Valley Rises - _**UNWRITTEN**_  
 25. From now on, before I begin a block, you will give me: The first 5–10 words of the next paragraph. This does three things:  
 It locks me to the exact location in your HTML.  
 It prevents the preview window from looping.  

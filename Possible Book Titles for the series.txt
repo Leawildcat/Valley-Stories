@@ -141,6 +141,6 @@ Old paperback hex color code #F6EFDF
 Possible pen names A. Marie Smith or Naomi Ruth*
 
 So the trilogy names are set
-Book 1: The Valley That Recalls
-Book 2: The Valley That Reveals
-Book 3. The Valley That Rises
+Book 1: The Valley Recalls
+Book 2: The Valley Reveals
+Book 3. The Valley Rises
