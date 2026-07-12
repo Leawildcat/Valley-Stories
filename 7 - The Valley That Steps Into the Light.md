@@ -1,6 +1,6 @@
-# The Valley That Steps Into the Light
+## The Valley That Steps Into the Light
 
-With his back to the den door, Davey hopes Lynn does not catch the flicker of panic crossing Frank’s face. He lifts both hands, palms out, the universal breathe‑man gesture. Frank gets it, *thank God*, Davey thinks. Frank forces a smile that looks only slightly less strained than a man trying to pass a kidney stone as they both stand and head towards the house.
+With his back to the den door, Davey hopes Lynn does not catch the flicker of panic crossing Frank’s face. He lifts both hands, palms out, the universal breathe‑man gesture. Frank gets it, *Thank God,* Davey thinks. Frank forces a smile that looks only slightly less strained than a man trying to pass a kidney stone as they both stand and head towards the house.
 
 Davey keeps his eyes down, scanning for Snowball, who has a habit of materializing underfoot like a suicidal cotton ball. Because of that, he does not see Frank stop dead in the doorway, taking up the whole frame. Davey walks straight into him. It is like hitting a brick wall wrapped in flannel.
 
@@ -80,7 +80,7 @@ Frank wrings his hands as the guilt returns. “I know. And I love Lynn more tha
 
 Davey, aware Frank is spiraling again, teases, “Walking through the forest like this… I think you’ve been bit by the jitterbug.” Davey dodges the punch aimed at his arm and trips over Selby, tumbling into the leaves and grass.
 
-Selby showers Davey with kisses, saying *he is sorry* while Frank laughs. “That’s better than a punch to the arm. And absolutely teaches you for trying to turn this story into Oz.”
+Selby showers Davey with kisses, saying *he is sorry,* while Frank laughs. “That’s better than a punch to the arm. And absolutely teaches you for trying to turn this story into Oz.”
 
 Davey, laughing, pushes Selby away and realizes they are at the top of the ridge. He looks around and slowly gets to his feet. Squinting and scanning the oblong, bowl-shaped area, “This is the ridge overlooking the valley?”
 
@@ -92,13 +92,13 @@ The view from the top of the ridge shows a dense forest full of conifers, fruit 
 
 Frank startles Davey out of his revelry. “You tell me.”
 
-Selby jumps up and starts wagging his tail. He lets out a loud bark, echoing across the valley. A slightly higher-pitched bark joins the echoes. Davey’s stomach drops, and he subconsciously reaches around to smooth down the back of his hair. Selby darts to the left, head-first into the trees, breaking branches and creating a ruckus. Frank shrugs at Davey and turns to follow Selby. Before following after Frank, Davey thinks, *why am I always chasing after dogs lately?*
+Selby jumps up and starts wagging his tail. He lets out a loud bark, echoing across the valley. A slightly higher-pitched bark joins the echoes. Davey’s stomach drops, and he subconsciously reaches around to smooth down the back of his hair. Selby darts to the left, head-first into the trees, breaking branches and creating a ruckus. Frank shrugs at Davey and turns to follow Selby. Before following after Frank, Davey thinks, *Why am I always chasing after dogs lately?*
 
 Frank and Davey break through the brush hedge to see Selby greeting another dog. Sniffing and nuzzling each other like two long-lost lovers, the dogs are framed in front of a large, weather-beaten boulder that acts like the oval in old tintype pictures. Davey gulps, realizing it is the same dog who stole his trout, and nervously whispers, “I think Selby has a girlfriend.”
 
 At the sound of his voice, Kaya pauses and locks eyes with Davey as a grin slowly spreads across her face. She yips and bounds over to Davey. Terrified, Davey tries to melt back into the scenery, afraid he is about to be nipped again. Frank watches on, amused, as Selby comes and leans against his legs. The dogs and men turn to stare at a trail half hidden by the boulder when a man’s voice wafts faintly from below. All four immediately come to attention when they hear Lea answer.
 
-Lea and Jack are navigating the trail in careful steps as the rocks slide under their boots. Kaya was guiding them through the washed-out trail to the top of the ridge. Lea looks up, seeing how much further to the top, when she hears a bark and smiles as it echoes back at her. She watches as Kaya bounces and returns the barking, her tail going faster than the eye can keep up with. Lea thinks to herself, *You naughty girl, Kaya*. Kaya gives one more bark in an effort to say, *Hurry up!* before turning and bolting around the boulder to the top of the trail.
+Lea and Jack are navigating the trail in careful steps as the rocks slide under their boots. Kaya was guiding them through the washed-out trail to the top of the ridge. Lea looks up, seeing how much further to the top, when she hears a bark and smiles as it echoes back at her. She watches as Kaya bounces and returns the barking, her tail going faster than the eye can keep up with. Lea thinks to herself, *You naughty girl, Kaya.* Kaya gives one more bark in an effort to say, *Hurry up!* before turning and bolting around the boulder to the top of the trail.
 
 “I think you are going to have more children.” Jack chuckles. “Let’s hope your cavern or the cabin can handle an eight-puppy brood.”
 
@@ -110,9 +110,9 @@ Lea extends her arm to Jack, who clasps forearm to forearm with her as she hauls
 
 Jack takes two strides, catching up to her, and gives her a pop on the bottom she deserves. She begins to turn on him, hands reaching for his neck, when she stops and drops her arms to her sides. He looks in the direction her gaze is locked on. There stood Frank with a golden retriever sitting in perfect statue-stillness in front of him. Kaya is also statue perfect, but with a goofy grin, sitting in front of a shorter man. The two dogs resembled heralds announcing their lieges.
 
-Lea tries hard to swallow down the panic rising in her as the thought hits her, *I never asked their names*. She was already fighting the butterflies about the dinner with Frank, but seeing the youngest of the brothers next to him was a shock she was not prepared for. Like many who wander into her valley, she did not expect to encounter the brothers again.
+Lea tries hard to swallow down the panic rising in her as the thought hits her, *I never asked their names.* She was already fighting the butterflies about the dinner with Frank, but seeing the youngest of the brothers next to him was a shock she was not prepared for. Like many who wander into her valley, she did not expect to encounter the brothers again.
 
-His hair was still a wild, pale-blonde, soft curly mess, invoking the thought, *Boy, you need a comb*. His blue eyes are deeper than hers and reflect just how small Davey is feeling in the moment. Davey is a good six inches shorter than Frank, who is close in height to Jack. Even with his stocky build and Kaya poised in front of him, her ears extend just above his belt. Lea sees the contrast and is surprised just how big Kaya really is. Kaya and Davey, almost at the same instant, let a smirk form on their lips and a flush colors her body as the horror sets in. *They just saw me get spanked by my brother.*
+His hair was still a wild, pale-blonde, soft curly mess, invoking the thought, *Boy, you need a comb.* His blue eyes are deeper than hers and reflect just how small Davey is feeling in the moment. Davey is a good six inches shorter than Frank, who is close in height to Jack. Even with his stocky build and Kaya poised in front of him, her ears extend just above his belt. Lea sees the contrast and is surprised just how big Kaya really is. Kaya and Davey, almost at the same instant, let a smirk form on their lips and a flush colors her body as the horror sets in. *They just saw me get spanked by my brother.*
 
 Jack reads the moment like time hit the pause button and it is on freeze-frame. The men and his sister are locked in a mirrored deer-in-the-headlights trance. He feels the rising panic in his sister and attempts to break the spell. “Well, fancy meeting you here. Hi, Frank and company. Maybe fist bumps are more appropriate, considering the bruising on the back of your hand looks painful.” He offers a fist out.
 
@@ -154,7 +154,7 @@ Frank gasps, and his eyes grow wide looking behind them, and Davey raises his he
 
 “It’s the optical illusion from this ridge. When the rising or setting sun hits the right angle from here, then you can see the valley. Otherwise it’s hidden, because normal light compresses the canopy into one big valley. It seems like magic, but it’s just optics. We’d better move before it gets too dark to see.”
 
-They slowly tear their eyes away from the valley and head in the direction the dogs had bounded off to. Jack looks at Lea and darts his eyes at Davey with a questioning look of *what’s up with him*. Lea mouths, “Later.”
+They slowly tear their eyes away from the valley and head in the direction the dogs had bounded off to. Jack looks at Lea and darts his eyes at Davey with a questioning look of *what’s up with him.* Lea mouths, “Later.”
 
 Davey, feeling the eyes on his back, slows his pace to drop back next to Lea, allowing Jack to catch up to Frank. Davey, trying to think of something to say, nervously asks, “No wolf today?”
 
@@ -172,7 +172,7 @@ She glances toward her husband and feels a jolt of surprise seeing the two men s
 
 Lynn slowly releases her breath and is suddenly self-conscious. She starts smoothing her hair and checks her face in the reflection of the windowpane. She’s thankful she changed only moments before from the flour mess she was. She removes her apron, finding a smudge of flour that somehow just appeared, and uses the apron to dust it off. She glances at Lisa smirking at her. “How do I look? What! They don’t move you?”
 
-Lisa looks back at the two men and thinks, *They do make an attractive pair of men you might find on the latest Harlequin novel*, but it’s the one that now has entered into the light that she focuses on. What strikes her at first is that her husband is short. Not just normal for an adult male, but dwarfed by the two men he is standing between. He squats down to meet the sea of kids and dogs on their level, but the only thing betraying him as the adult is the scruffy beard he won’t shave. As the four try to sort the kids and dogs to make introductions, Lisa sees Lea for the first time. She also dwarfs Davey.
+Lisa looks back at the two men and thinks, *They do make an attractive pair of men you might find on the latest Harlequin novel,* but it’s the one that now has entered into the light that she focuses on. What strikes her at first is that her husband is short. Not just normal for an adult male, but dwarfed by the two men he is standing between. He squats down to meet the sea of kids and dogs on their level, but the only thing betraying him as the adult is the scruffy beard he won’t shave. As the four try to sort the kids and dogs to make introductions, Lisa sees Lea for the first time. She also dwarfs Davey.
 
 Lisa and Lynn exchange a glance as Lisa narrates. “She’s tall for a woman, sure, but look at those two. Jack and Frank make everybody look short, even Davey and the kids. They’re like walking monoliths. And her hair… I can’t tell if that’s dyed or natural, but it’s gorgeous. I can see why the guys find her attractive. The way she’s got it twisted up into a thin crown softens her and makes her more storybook princess and less bearish biker chick. She definitely doesn’t look like her brother, and she’s not built like any barrel-racer cowgirl I’ve ever met.”
 
