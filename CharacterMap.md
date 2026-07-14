@@ -69,14 +69,15 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Daughter:  
     - Rowan Dawn Alridge (Married Name TBD)  
     - Age (30) Born in 1996  
-    - Expecting in December
+    - Expecting in December (boy next shaman)
     - Should inherit the Valley and mother's things
     - Guardian/Animal Form - Kestrel
   - Son  
     - Grant Kaleb Aldridge V  
     - Born in 2000  
     - (d. age ~10)  
-    - Called Kaleb by Lea  
+    - Called Kaleb by Lea
+    - No core animal totem portending he is the next shaman after Gran-ma-ma's death
   - Ex-Husband:  
     - Grant K. Aldridge IV  
     - Corporate / Industrial Sales Director  
@@ -265,7 +266,7 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Breeds Horses and bulls for rodeos as well as dairy, meat, and riding/racing
   - Called is wife Squaw
 
-- Mother  Holloway
+- Mother Holloway
   - Winona
   - 3/4 Native American
   - Short stature 5'5" to 5'6"
@@ -280,6 +281,7 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Medicine woman responsilbe for Native American upbringing of the family
   - Can choose which animal she shifts into
   - No specific animal as medicine women draw from all spirit animals as needed
+  - Dies in 2000
 
 ### Callahan Clan
 
@@ -302,6 +304,7 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     - Hairdresser / Make-up artist
     - Only one sister
     - Knows Lea is not a threat
+    - Sister is Mandy and owns and Honda Odyssey
 
 - Davey's Children:
   - Alonzo Callahan
@@ -431,6 +434,34 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Carrie mother attitude in permanent form when children are together
   - Has little tolerance for Kaya
   - Watches over her children even if not in the Valley
+
+### Raven - Jack
+
+- Can morph into a crow when appropriate; both share similar traits
+- Protective of Lea, but in a sideways, chaotic way
+- Disliked by Lea’s guardians (bear, cougar, hawk, Kaya) because he meddles
+- Traits:
+  - sightings mean change and transition is coming
+  - trickster energy — playful, mischievous, theatrical
+  - Bringer of messages from the Valley
+  - Bringer of warnings
+  - Bringer of omens
+  - Bringer of humor
+  - Bringer of chaos that reveals truth
+  - Highly intelligent, pattern‑aware, emotionally perceptive
+  - Can mimic human speech and animal calls
+  - Often appears before major emotional events
+  - Drawn to grief, transformation, and crossroads moments
+- Symbolism:
+  - Transformation
+  - Death → rebirth
+  - Grief → wisdom
+  - Chaos → clarity
+  - Trickster → truth
+  - Messenger → memory
+  - Lore → lineage
+  - Shadow → protection
+  - Humor → healing
 
 ### Other Animal Totems Not Guardian Core but Represented
 
