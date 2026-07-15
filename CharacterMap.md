@@ -280,6 +280,9 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Lea's maternal great-grandmother
   - Medicine woman responsilbe for Native American upbringing of the family
   - Can choose which animal she shifts into
+    - Wolf
+    - Owl
+    - Ghost made of dirt, embers, and leaves
   - No specific animal as medicine women draw from all spirit animals as needed
   - Dies in 2000
 
