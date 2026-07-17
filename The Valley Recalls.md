@@ -2,16 +2,17 @@
 
 ### By: Amy Northam
 
-1.  The Valley That Remembers 2
-2.  The Trickster and the Cougar 8
-3.  The Valley That Laughs 13
-4.  The Dog and the Cougar 21
-5.  The Valley That Awakens 30
-6.  Siblings: Round Two 38
-7.  The Valley That Steps Into the Light 45
-8.  Bears and Wolves, Oh My 55
-9.  The Valley That Dines 66
-10.  The Cougar Stumbles 80
+1.  The Valley That Remembers 1
+2.  The Trickster and the Cougar 7
+3.  The Valley That Laughs 12
+4.  The Dog and the Cougar 20
+5.  The Valley That Awakens 29
+6.  Siblings: Round Two 37
+7.  The Valley That Steps Into the Light 44
+8.  Bears and Wolves, Oh My 54
+9.  The Valley That Dines 65
+10.  The Cougar Stumbles 79
+11.  The Valley That Waits 92
 
 ## The Valley That Remembers
 
@@ -1516,3 +1517,229 @@ With one big push of its wings, the owl stirs the fire’s embers, dirt, and lea
 “One day, maybe. But for now my sparks are fading and so am I. Do what you’re told and do what you are meant to do. The valley will keep her in stasis until she’s able enough to navigate again. I’ll stay close.”
 
 “Yes ma’am,” was all Jack had time to say as her ghost faded away.
+
+## The Valley That Waits
+
+Jack kicks at the ashes, leaves, and dirt that made up his grandmother. “Do as you’re told and do what you are meant to do,” he repeats in frustration. That’s just it. Other than what he represents, change and transition, he doesn’t know what he is meant to do. Gran-ma-ma never told him that and never told any of them that. Just spoke in riddles and allegory like all shamans do.
+
+“’Teach her the memory book.’ That’s the first clear direction you have given me,” he says to the air where Gran-ma-ma stood. He thinks back to the dream a month or so ago when she last visited him. She’s always appeared in his dreams since she passed away to tell him where to go, but never what to do. This one was different. He remembers and plays it over in his mind.
+
+“Hello my raven boy.”
+
+“Hello Gran-ma-ma. What brings you into my dreams?”
+
+“You know what… the soul rider.”
+
+“Please don’t invoke her. She is a dream weaver and you interrupting is bad enough. I’d very much like to go back to the picnic with my wife.”
+
+“As soon as you stop ignoring her. Maybe I should invoke her. Then you can’t ignore her and she can’t hide from who she is and what she’s meant to do. Even the brothers were not enough to bring about the change in her. You are the one that brings about the transitions and keeps her on her path. You’ve known that since her birth.”
+
+Jack grumbles and whines, “Why am I her keeper? That’s what she has the Valley and the guardians for. Even Mama is with her.”
+
+Gran-ma-ma sighs and begins to dissolve in the dream back into Jack’s wife. “Because they are there to guide her and protect her, not to bring the changes. The Valley will do what the Valley needs to do and has always done. Seek your sister out. Facilitate the change. She is going to need you and the rest of the humans more than any of you know.”
+
+Jack looks over at Lea sleeping in the copse of trees. Mama, the wolf, has already lain beside her. The owl is in the tree above her with Aeyren the hawk. It feels like the Valley and the guardians are holding their breath. His attention is drawn to Ceril and Corvin snorting and whinnying again as they bolt to the other side of the valley. He hears another large animal crashing through the forest and thinks, *What fresh hell is this.* The bear bursts through the trees and heads straight to the copse in marched determination. It is just CT. He has to agree with Gran-ma-ma. *When the north wind screams everyone hears it.*
+
+He snorts and thinks to himself, *Whelp. Not getting near the cougar tonight, that’s fer sure.* He kicks off his boots and removes his socks. He gets Lea’s foam bedroll and unrolls it next to the fire, thinking, *Human, not feathers tonight is his safest bet if he wants to stay close to her.* He digs around in his backpack and finds he did not pack any shorts or sleep pants. He doesn’t know why he would, since he prefers to sleep in the buff. He goes to open Lea’s saddle bag where she keeps the sweats when a gray paw slams down on top of the bag, keeping it closed.
+
+“C’mon Mama. I can’t be expected to sleep in the buff out here in the valley. You know they will mess with me.”
+
+At eye level with Jack, on his hands and knees, the wolf gives him a look as if to say, *Stay out of her things.*
+
+“She gave me the sweats earlier; I just want them back. I didn’t plan to be here this long. I saw her pack them up before we left for dinner and I’m sure she is okay with them. It would help if you could help me figure out what caused that.” He points over to where Lea is sleeping.
+
+The wolf places the paw holding the saddle bag closed on Jack’s shoulder. She searches his eyes for a moment and then nods and backs away, tugging at his collar. Jack gets the hint to follow her, and she starts toward Lea’s log with the hidden cache. He curses as he forgot he already removed his boots and socks, as the twigs and rocks dig into the soles of his feet. The wolf paws at the catch, causing the hatch to open. She walks over and nudges things around with her nose, looking for something. She finds it and gently picks it up with her teeth, turning to give it to Jack.
+
+Jack reaches down and takes the item. He squints, trying to see what it is, but the moonlight doesn’t reveal anything other than it’s a picture of some sort. The wolf closes the hatch and nudges Jack back towards the fire. He tries to tiptoe back in an effort to keep his feet from finding every acorn, rock, twig, and whatever else keeps digging in. He finally decides on long strides and short leaps before getting back to the fire. He sets the picture down, anchoring it with a cup, and reclaims the sweats from the saddle bag. He changes and settles cross-legged on the bedroll, grabbing the cup and picture. The wolf sits erect in front of him, waiting for him to tell her what happened at dinner.
+
+He turns the picture over, and immediately affection and grief wash over him. The picture is River and Krystal at their wedding with a nine year old Kaleb in front of them, holding his pillow as the male ring bearer. He thinks, *He was right. It was the deaths. But even with the anniversary of the accident being a little over a month away, why now and why did it not ever hit this hard before? He always assumed she had done the memory book thing, because she finally seemed to let go of the guilt and grief consuming her. He wasn’t aware that Gran-ma-ma never taught it to her.* The wolf places her paw on his arm, interrupting his internal monologue.
+
+He looks up from the picture at his mom. *Talk to me,* she pleads with her eyes.
+
+“Sorry. It’s what I suspected, but this doesn’t usually disrupt her except on the date of their deaths or if Clay gets going. I thought Gran-ma-ma taught her the memory book, or you at least, because it’s always been the unspoken ritual after death and emotional memories and she’s had quite a few.”
+
+The wolf sighs and lays down, crossing her front paws out in front of her. She puts her head on the crossed paws, looking up at her son. *Now tell me what happened at dinner.*
+
+Jack begins to recount everything, adding the caveat that this was only what he was present for or witnessed. When he gets toward the end, mentioning the ‘girls’ night out’ is when the wolf sits up and stops him with a sharp bark. He thinks for a minute, and then he remembers part of Lea’s guilt was because they had been at a girls’ night out. That was the trigger. “But that still doesn’t explain the why now and why not before. Lea, you, Gran-ma-ma, y’all are the females that explain this shit to me. Never a female around when you need one.”
+
+The wolf growls at Jack, ending in another big sigh and rolling her eyes. She puts her front legs out straight and puts her head down, closing her eyes. Jack stares at her for a moment before uttering, “Well there ain’t.”
+
+Jack leans over and tucks the picture into Lea’s saddle bag so it won’t get lost or damaged until he can put it back in the morning. He lays back on the bedroll, closing his eyes. This time he runs through the day again as if he’s watching video footage, looking for other clues he may have missed. The one thought that hits just as he falls off into slumber, but not enough to awaken him. *Davey is one of the three brothers Gran-ma-ma mentioned. He has to visit Frank and Davey tomorrow.*
+
+Jack tries to ignore something digging into his thigh when his bladder chimes in. He’s cold, stiff, sore, and thinking, *I have to get a new mattress.* His bladder starts issuing the sirens and alarms for dam breaking as he slowly opens one eye. *He’s in the valley. No wonder he’s cold and stiff.* He tries to move his neck, but it is pinned by something, creating an ache that temporarily silences the bladder. *Fuck! I forgot to braid the hair.* That’s the best advantage to sleeping in feathers rather than skin, especially when you are bound by tribal law not to cut it.
+
+He rolls over to the side, tugging on the hair hoping to free it enough to sit up, but it’s still got him pinned flat. He grunts and rolls completely over onto his stomach before getting gingerly up on elbows and knees, so he can finally rise. He crawls over to his backpack and grabs his flip-flops, tossing them onto the ground. He rises slowly, testing his legs. They seem stable enough if not achy from age and a hard cowboy life. He slips into his flip-flops, half stumbling and half shuffling away from the campfire to silence the klaxon from his bladder.
+
+He looks up to judge the time, and the sky is barely lighting and the peaks to east have the barest outline of light. Early morning still. He ponders going back to sleep because he knows his sister will sleep in. *Sissy! Shit!* He whips around to look at the copse, but he had moved into a position where the outcrop was blocking his view. A moment of panic sets in.
+
+He gets to the campfire and bedroll, but his view is still blocked by the tree limbs that make the copse and the guardians watching over her. He approaches as quietly as he can, trying not to make the flip-flop sound, but CT hears him. She approaches him, grumbling in that bear half-groan, half-whine way telling him, *Back off!* It is enough that he can get a glimpse of the cougar still resting on the bed of grass and pine needles. He stops, bowing his head, and whispers, “I just need to know she’s okay.”
+
+CT sits and crosses her arms across her chest and looks back over her shoulder at the cougar still lying on her side. She slowly turns her head around first with sadness and then with anger as she starts her adult huff-wuffle, *No she’s not okay. You had to show up and you had to create this mess. You had to break her. You need to fix what you broke.*
+
+Aeyren hears the commotion from CT and flies to land on her shoulder, bobbing his head in agreement. Then two wolves flank CT. The look between CT and Aeyren and where Jack is still standing with his head bowed. They nudge CT and Aeyren back to the edge of the copse. They turn to Jack and stand beside him, looking up and leaning against him to let him know he’s not at fault. He gently caresses a head in each hand. “Thank you, Mama. Thank you, Gran-ma-ma. But I’m afraid I did make a mess of things.”
+
+Jack gives one last longing look towards Lea, noticing Kaya is missing. He watches her fur slowly rise and fall indicating she’s at least breathing. He sighs and thinks, *It will have to do.* He turns, returning to the campfire and the wolves follow him. He throws some more wood on the fire and grabs the old coffee percolator from where Lea had left it drying yesterday, amazed it still functions. He goes to the lake and fills it with water before returning to the saddle bags, digging around for coffee. The wolf growls at him again. He looks at her, and in rebellion declares, “I’ve got to have caffeine to figure all of this shit out and I will replace it. So… just… chill out.”
+
+She huffs and returns to copse, laying down next to Lea. He digs through the saddle bag, finally finding the bag of coffee and disappointed there is just barely enough for one more pot. He looks up at the other wolf and grumbles, “You gonna comment too? I said I will replace it. I really wish you would. Like how long is she gonna be this way? When will I know the Valley is releasing her from stasis? What does that even mean? How am I supposed to help her, when I don’t know what is wrong?”
+
+The wolf rolls her eyes at Jack and slowly starts to fade as light begins to touch the valley. He hears his grandmother’s words echoing through the valley, *’You also need to help her in support of the bonds that are forming around her. Use them to help her get through this. It’s all tied to her pattern and purpose.’*
+
+Frustrated with another cryptic response, he talks to the empty space where the wolf was, “Thanks for nothing.” Realizing there is going to be no help from the guardians or the Valley for this problem, he resigns himself to letting the humans handle it, and that means the human him.
+
+How to approach them, though. He grabs the brush, working out the tangles in his hair, and starts another monologue. *Kaya is not here so that gives him at least a foot in the door. Davey is one of the three brothers, so that is one bond and he has to assume the other brothers are two more bonds not yet formed or are forming. Frank is the big bond though. When they bonded last night, it’s a wonder no one but him heard the thunderclap of it sealing. They are ancient bonds. ‘Old souls know old souls,’ is what Lea always says.*
+
+He drains the last of the coffee from his cup and starts tugging on clothes, knowing he needs to get moving. He continues still turning things over in his mind. *Old souls. Maybe he’s not totally to blame. It seems like they were destined to meet already, and he just helped it along.* He reaches for the leather strap to bind his hair when the picture slips out with it. He looks at it again with a mix of sadness and affection. *He’s still missing something. The girls’ night out was the final trigger but what else piled on it. With Frank’s bond, he had to hear the scream too last night. He couldn’t have missed it even if he was sleeping. He needs to know what was said when he was in the kitchen with the wives. He has no choice but to trust Frank with this.*
+
+He tucks the picture into his shirt pocket and starts to bind his hair before remembering he cannot fly that way. He wraps the strap around the top of his boot and gets a running start towards the ridge. He barely clears the top of the trees before a light reflecting from the river blinds him and he loses his sight for a moment. He makes for the light and gets close enough to realize it’s what is left of Frank’s bridge. He thinks, *Aha! Another excuse for me visiting this morning.* He circles around and makes a beeline for Frank’s.
+
+Frank is standing at the patio door, sipping his coffee and watching the kids and dogs play some kind of crazy game of tag. Squeals, giggles, and barks are not enough to distract from the ache inside of him. He was jolted awake by it. At first he thought maybe it was the guilt and grief over his father’s passing resurfacing through a dream he didn’t remember. He wasn’t there for him when the dementia took him over. He couldn’t face it or face his father. He could only numb it away with the drugs, but that never seemed to last. He realized finally it was not his guilt and grief, but Lea’s. The bond they had formed that night let him feel her as much as he suspected it let her feel him.
+
+Davey appears at his elbow, yawning and stretching. “Ya know, you coulda at least refilled the coffee pot after you got the last cup.”
+
+Frank looks over at his friend. “And you coulda brushed your hair before coming downstairs.”
+
+Davey grumps back, “It is brushed. You try to tame curls in dry mountain air. Why do you think I wear a hat? Is it just me, or is there something seriously off today?”
+
+Frank wonders if Davey is feeling it too and probes, “It’s not just you. I think there is something wrong with Lea. Maybe we should check on her today.”
+
+Davey gives a snort laugh. “Uh-huh. Now I see where your mind’s at. You really are bad.”
+
+Frank is about to object to Davey’s way of thinking when Kaya catches his eye. She had stopped and turned toward the front of the house smelling something in the air. Her ears went flat and she growled, taking off running towards the front of the house. Frank doesn’t hesitate. He reaches up for the rifle above the door and grabs two shells from the side drawer. He crosses the den and through the kitchen, prepared to face whatever danger Kaya is alerted to. What he did not expect was to find Jack kneeling and whispering in her ear. Whatever he said to Kaya causes her to drop her head and take off for the trail to the valley. The ache inside of him grows stronger as his stomach drops at the sight of the man that is a raven, a messenger of death.
+
+Frank lowers the gun as Jack slowly rises in a posture of don’t shoot. Frank is a little confused because he shouldn’t feel this deeply about someone he just met, but he tries to keep the sinking feeling from getting worse. He hands the gun to Davey. His mind playing the worst-case scenarios in his head as he steps off the porch to meet Jack across the yard. He tries to play it cool. “Hey man. Sorry ‘bout that. Thought maybe Kaya was going after a bear or something. Didn’t expect to see you this morning.”
+
+“Yeah, well, that’s understandable. Didn’t expect to be here this morning, but as you know ravens are messengers and I come to deliver some news and send Kaya back to the Valley.”
+
+Jack is immediately hit with fear and panic from Frank, and he knows Frank did feel the scream. This was not how he wanted to start this conversation. “It’s nothing like what you are imagining. She’s not okay, but she is alive. So take a breath for a minute and calm down. Is there somewhere we can talk uninterrupted? Oh, and I found your bridge. It’s wedged in the big bend of the river close to the valley. I can help lead you to it, if you wanna fetch it later.”
+
+Frank turns back looking at the porch, noticing Lynn and Lisa had joined Davey. All of them look on with concern. Frank turns back to Jack, signaling to wait here. He pastes a look of calm onto his face as he returns to the porch. “It’s okay. Jack just found the bridge and was letting us know. C’mon Davey let’s go to the studio where the maps are with Jack and see if we can figure out how to get it back here.”
+
+Davey studies his friend, knowing something is still off but plays along. “Okay, but I’m bringing the coffee pot. Hang on while I grab it and mugs.”
+
+Lynn studies her husband for a minute, but finds nothing wrong other than his quietness this morning. She leans down kissing his cheek. “Okay, but we are about to head into town to do some grocery shopping and I guess we’ll take the kids with us now. Try not to get stuck or stranded.”
+
+Jack very unconvincingly offers, “We’ll try. Have fun and see you later. Davey just grab the pot and a hat. We have mugs in the studio.”
+
+He turns and motions for Jack to follow him and goes around to the side of the house where it looks like a detached double-car garage sits. They enter through a side door, and Jack is amazed as he was expecting cars and a workshop, not a studio complete with office space, sound booths and what looks to be a dark room with pictures hanging to dry. He stops and pauses at the picture of the tree with the lightning strike tattoo. He remembers the retelling of the bedtime story, but dismisses it as the trigger.
+
+Frank turns to welcome Jack to the studio and realizes he’s no longer behind him. He backtracks and sees him staring at the picture of the tree he had taken two days ago. It feels like a lifetime ago. He goes and stands next to Jack. “That’s the tree from the story you told, isn’t it?”
+
+“Yes it is. Lea and I had to fight to keep the forest service from cutting it down. She finally convinced them to name the campsite the ‘Lightning Strike’ campsite and leave the tree as the marker. She won that one but lost the battle for your place. We are grateful that you got the land and not the logging company.”
+
+Frank looks in shock at Jack. “Wait. You owned this land I bought? I thought it was the forest service.”
+
+Jack chuckles, “That’s because it was and it wasn’t. Technically Lea owns, or rather owned the land. Way back when, it used to be part of the reservation, but was turned to forest land when they decreased the size of the rez. It’s been passed down mother to daughter for generations. The conditions of the sale were the family maintained all the logging, mineral, oil and water rights to the land and thus controlled its use.
+
+“Just before you bought it, I had lost two-thirds of my head to drought and then wildfire. The bottom had fallen out of the beef market and I was hard pressed to keep the lands we had. Some local yahoo who was part owner in the logging company got into politics and convinced BLM to force the sale of the land with the logging rights. They trumped up some bilge about her behind on property taxes or some such. Her then-husband entered into a verbal agreement to sell the rights to pay for the fine and cover me. Boy, was she hot. Her only recourse was to sell it as an auction. Lucky for us, your pockets were deeper than the logging company.”
+
+Davey causes both of them to jump as he says, “Lucky for the both of you Kevin knows his shit. Now if we can just teach Aaron. You two behemoths wanna move before I drop the coffee pot?”
+
+Jack and Frank turn shoulder to shoulder completely blocking the hallway, daring Davey to get past them. Davey makes to pour the hot coffee on them, causing them to break formation and let him pass. They follow him to the small kitchenette area that Jack had not seen. Not quite trusting Davey, Frank takes the coffee pot from him and fills three mugs joining Davey and Jack at the table. He pushes the bowl of sweeteners and creamers towards Jack, but Jack declines. “I hope you don’t mind me inviting Davey along. He was concerned this morning as well.”
+
+“No, I don’t mind. It’s just as well because I need to know what happened last night while I was in the kitchen. I told you she was alive but not okay and well… how to put it… she kinda dropped her basket so to speak.”
+
+Davey not familiar with the phrase, asks, “Dropped-her-basket?”
+
+Frank flicks the bill of Davey’s hat, causing it to cover his eyes. “Dropped-her-basket means some kind of mental break. Can you tell me, does this have anything to do with the grief and guilt I feel inside and Davey’s feeling of something ‘off’ this morning?”
+
+Jack is taken aback by the frankness of his statement. He’s only used to Lea doing that to him. He thinks, *Frank being frank, oh the irony.* He has to tread carefully here and is not sure how much to reveal. “Yes. It probably does. This is Lea’s forte for explaining and she’s not available to do that. So, I can only confirm it but I cannot explain the mechanics of it other than you, Frank, have bonded and you, Davey, are bonding to her.”
+
+Frank just nods in acknowledgment, knowing that Jack had already affirmed this last night. Davey is the one shifting in his seat as he processes what Jack said. “So, you mean the *I’ve-known-you-all-my-life* feeling I got from her last night was a bonding?”
+
+Jack nods. “Lea will tell you, ‘Old souls know old souls,’ meaning that your souls and her soul have met in the past. The older the souls, the faster the recognition and the more likely you are to form a bond with them. Again, I can’t explain it. She’s the only one because she is the soul rider.”
+
+Davey starts, “Soul ride—”
+
+Frank cuts him off. “So, what does all of that mean? You said she dropped-her-basket but not explained exactly what. Is she in the hospital? Is she lost? What? And what does that have to do with the conversation between us while you were in the kitchen with the wives?”
+
+Davey gives Frank a look of exasperation. “Calm down, brother. Sheesh.” He shifts the look to Jack. “Yeah, but what he said.”
+
+Jack runs his hands over his face and abruptly stands up, pacing back and forth. *He is already giving away too much. How in the hell does Lea and the others do this so people don’t think you are nuts, and I can’t explain the shift. That is for family only.*
+
+Aware of Frank and Davey watching him, he sits back down with his face in his hands. *Gran-ma-ma says use the human side. Lea says start at the beginning.* He lets out a frustrated sigh and leans back in his chair. “I need to tell you a story first, and I need you to help me make sense of it and why Lea is in… a coma… is the best way to explain it. She’s not in a hospital but in the Valley and it’s why I sent Kaya home. Her guardians are watching over her. I need you to help me find a way to bring her out of it.”
+
+Frank rises and opens the cabinet, grabs a bag of trail mix, and empties it into a bowl, setting it down on the table between them. He refills their coffees and replaces the coffee pot. “I think we need something stronger than coffee, but the trail mix will have to do.”
+
+Davey’s eyes light up at both the bowl of trail mix and the guardians comment. “So, she really did mean it, animals as guides and guardians and totems and such, last night. It just seemed, I dunno, Snow White-ish. That was part of the conversation she had with us while you were in the kitchen. She also talked about her family and that she lost her son and a brother. And that another brother, the twin to the one that was lost, I believe, doesn’t approve of y’all’s… religion, I guess you would say.”
+
+Jack looks sideways at Davey. “Religion is as good of a term as any. Lea would tell you beliefs or just simply faith. To my knowledge, she’s studied them all as a hobby, so don’t test her on it unless you have ample time to kill. At least she told you about the deaths. That’s the core of her wound, but not the why it became too much for her last night. I’ll tell you what I was told that had happened, but I wasn’t a part of it because I was in Amarillo at a calf sale with my sons.”
+
+Jack begins to recount the story of that night as Lea had told him, along with pieces he had heard from Mama, Ann, Beth, the sheriff, Tate, Ann’s husband, and the doctors. He takes the picture from his pocket and slides it over to Davey and Frank. “That’s River, Krystal, and Kaleb a little over a year before the accident. River wanted to marry Krystal before she became pregnant with Kyrie, but his not-so-ex-wife didn’t sign one line on the divorce papers and refused to do so until he agreed to keep providing her alimony and her as a sole beneficiary on a life insurance policy. Needless to say, it was a mess.”
+
+Davey studies the bottom of his empty mug. He gets up and realizes the coffee pot is empty again. He starts opening and closing cabinet doors. “Again with an empty coffee pot. Where is the friggin’ coffee?”
+
+Frank continues to study the picture, irritated that Davey is interrupting his thoughts. “You will have to go to the house for it. I took what little was left over here and put it in the coffee canister for dinner last night and breakfast this morning. And knowing how much was left when you accused me the first time of not making another pot, there is none at the house. There are cokes in the fridge. Or get some water.”
+
+Davey lets the door he was holding open close with a bang. He opens the fridge and looks at Frank and Jack who are staring at the picture on the table between them. “Do either of you want a coke?”
+
+Jack waves Davey off and Frank shakes his head no. Frank looks up at Jack, feeling the weight heavy on him. “Okay. So, it was an accident. A terrible, like one-in-a-million accident, but still… The grief I get. I couldn’t imagine losing Sam or one of my brothers or sisters and their spouse that way, but why the guilt? You said she felt guilty. There’s nothing in the story that makes her to blame, unless she was drunk, but the way you told it, it doesn’t seem like she was.”
+
+Jack shakes his head, picks up the picture, placing it back in his pocket as he leans back again in his chair. “To my thinkin’ and Mama’s as well, there was nothing that she should have blamed herself for, but she did. Clay and Grant, her ex, did accuse her of that, but Dr. Rob immediately quashed it with her blood alcohol levels only coming back at trace amounts. Lea is very peculiar about drinking and driving. Becky is the same. There is something about their high school class that they were very strict about drugs and alcohol amongst themselves. Drinking and driving was never allowed and drugs never went any further than the occasional weed or peyote.”
+
+Frank’s eyes widen. “Dayum. I shoulda been part of that class. Never mind. Did she ever tell you why she felt guilty?”
+
+Jack laces his fingers and places them behind his head, leaning back further and looking at the ceiling. “No, not really. The aftermath didn’t help her in that department. Clay and Grant tag-teamed her, making it worse. They accused her of being distracted, but the skid marks in the mud proved she wasn’t. Even the investigators with the insurance company and police department said if it had not been so slick, she would have stopped in plenty of time.
+
+“When River’s dually hit the area just before the cattle guard, the road bed had washed out underneath it and the weight of his truck pitched it forward into the sunken spot, which was just deep enough that it caused the cattle guards to separate in the middle and River and Krystal were, gawd I hate this term, impaled and died on impact. All Lea’s truck did was flip it over like a pole vaulter, further impaling them and crushing the front cab. We showed and told her this. She even sat through the simulation at the trial against the county. She didn’t even want to do the trial, but Grant and Clay insisted.”
+
+Davey shrugs. “I’m sorry. No I’m not sorry. But Clay and Grant sound like real pricks. So, that shoulda convinced her she wasn’t at fault for River and Krystal’s death. But what about Kaleb? Was she blamed for that too?”
+
+Jack leans forward with the front feet of the chair making a thud. “In spades. They sued Ram and the makers of the switch, but lost that one because she coulda manually turned off the airbag, but didn’t. Clay and Grant blamed her for that. Blamed her arm for adding force to break his ribs and bruise his heart. Blamed her for not leaving him in River’s dually. Blamed her for being out in the first place. Then Clay really let her have it by blaming her for her heathen beliefs and so-called gifts and a fat lot of good they did, because she coulda used them to prevent it. Blamed her for being obsessed with her potions instead of watching the road.”
+
+Davey perks up. “Wait. Blamed her for potions? What potions? Other than sleeping potions.”
+
+Jack throws his hands up and lets them land on the table with a sharp thwack. “Fuck me! No wonder CT is blaming me. I totally forgot about that. We did hit her with a perfect storm last night at dinner.”
+
+Frank sits straight up, feeling the room getting brighter but not fully understanding why. “Forgot about what? Want to connect the dots for those of us following along?”
+
+Jack chuckles. “Sorry. So, part of the reason for them goin’ out that night was to celebrate finishin’ the canning for the season and for Lea winning a blue ribbon at the fair for her hair products. Her potions. One of the judges owned a strictly organics company and wanted to partner with Lea to sell her products. Shit! And I was pressuring her about it yesterday and then involved y’all. So, the children, the reminder twice of losing Kaleb, the talking about her gifts and potions, the pressure of trying to get her to sell them, and then Lisa’s ‘girls’ night out’ comment all brought that night rushing back to her.”
+
+Frank shakes his head. “We inadvertently did flood her with a lot of memories. That’s a lot for one person in a span of a few hours. Has she been in the valley this whole time because of this?”
+
+Jack sadly shakes his head no. “That was just the start to how she wound up seeking sanctuary, I guess you would call it, in the Valley. There were a lot of pressures and she succumbed to bullying and a lot of self-doubt inflicted on her. The only support she had was Mama, because I was too busy dealing with my own shit, that when Mama passed, she really didn’t have anyone left. Her husband betrayed her in a brutal way and her daughter was off living her own life. Her friends had moved away and well, she finally withdrew to the Valley. Most of us didn’t realize she wasn’t quietly humming around in the background anymore until… that’s more than you need to know, but to answer your question she retreated to the Valley at the beginning of the year and to my knowledge, you, Davey, and his brothers are the first to have contact with her outside of the family. She said it to me right before… ‘too much, too soon.’”
+
+Jack didn’t mean for all of that to come tumbling out. He stands and turns his back to Frank and Davey. He walks to the sink and leans on it, bracing his hands against the stainless steel, searching out the window for what, he’s not sure. Courage to keep it together and not break in front of two strangers is what he hopes for.
+
+Frank and Davey exchange a look of surprise and concern. Davey starts to get up but Frank shakes his head, no, at him. Frank mouths, “Give him a minute.” Davey nods in acknowledgement and takes off his hat, running his fingers through his hair before placing the hat on backwards this time. Davey takes a deep breath and lets out a big sigh, ending with his lips vibrating like a card in the spokes of a moving bicycle. “That answers the what, when, why, who, and where, but doesn’t suggest the how. How do we bring her out of the… the coma you said?”
+
+Frank snorts. “If this was an addiction problem, I would say she is on step nine. It sounds like she’s done the hard part of making the list of people she’s harmed except maybe herself. That is always the hardest one to deal with, but step nine is actually where you make the amends and hold yourself accountable and forgive yourself.”
+
+Jack blinks back the tears trying to escape and pushes off from the sink. He could use a shot of liquid courage, but after what Frank said, he knows that’s not something he could have. He settles for a coke instead and returns to his seat. “You’re not wrong in that. She needs two things, absolution from Kaleb and to forgive herself and let it go. I can give her the second thing, but not until she is awake again. But the first, I need a dream weaver and she’s the only one I know of. It’s partly why I came to you two. I need help and you held clues for the why now. Like it or not, we helped create it and we’ll have to be the ones to help fix it.”
+
+Davey leans back in his chair, crossing his arms in a defensive posture. “Okay, I’ll admit we did do a lot of the triggering, but we weren’t aware of what we were doing. You said you need a dream weaver. What is that exactly and couldn’t the medicine woman or shaman on the rez help out? I don’t suppose we could just talk to her like you do a coma patient, because they say they can still hear you when they are in a coma?”
+
+Frank shoots Davey an appalled look. “Really runt? You were the one going on and on about potions, how she was with the kids, yada yada. Don’t play innocent here. So, could we just go and talk to her?”
+
+Jack laughs as Davey slumps in his chair, letting his body show his guilt at Frank’s calling out. “Are you sure you two aren’t blood brothers? If it were that easy we’d be talking to her now instead of conspiring around an old seventies table with plastic coated chairs. I can’t get to her. Remember when I said the guardians are watching her? I meant it. CT the bear. Aeyren the hawk. Mama and Gran-ma-ma the wolves and now Kaya the painted dog. CT and Aeyren blame me and now Kaya will too. Nope. We have to figure out a way to do that from afar. The only way I know of is through a dream weaver. A person that can enter another’s dream and shape it into the truth the person dreaming needs to hear.”
+
+Davey scrunches his face in a puzzled way. “But again, isn’t that something for the shaman or medicine man, woman on the rez to help with?”
+
+Jack sighs. “Normally, yes, but the current shaman is not very… powerful nor wise nor learned. In this case a sham-shaman. That’s rez politics you don’t want to get into. Wait-a-minute.”
+
+Davey and Frank lean in, watching as Jack closes his eyes trying to recall something from memory. Davey starts drumming his fingers on the table. Frank, irritated, slaps his hand down on top of Davey’s. Davey is about to start humming the Jeopardy final tune when Jack’s eyes pop open. “Yes. Lea’s house; there is a book on it. We don’t need no stinkin’ shaman. We got the family library. You two fancy a trip to Lea’s estate?”
+
+Shocked, Davey and Frank ask together, “Estate?”
+
+Jack chuckles, “Estate. Let me guess, she said house or cabin? Let’s just say our mother’s stepfather was a very wealthy British ex-pat. Also, we need a flatbed truck and we can kill two birds with one stone, so to speak.”
+
+Frank looks at Davey who nods. “I don’t have a flatbed. Why do we need one? And I don’t see a problem going to Lea’s if she doesn’t have a problem with us going there with her not there. ‘Two birds with one stone?’ I’d’ve thought that was a phrase you would avoid.”
+
+Jack chuckles again and winks at Frank. “If you think about it, you almost did kill two birds with one stone fist. The flatbed is so we can fetch your bridge, but we can use the one from the estate. This might take a couple of days, because we also have to find the book, read it and then figure out how to apply it. Can you be gone a couple of days? And as for Lea having a problem with it, yea she probably will, but it’s for her own good, so she’ll forgive y’all. Me on the other hand… I feel another attempted drownin’ comin’ on.”
+
+Davey shrugs, “I don’t see a problem with camping out for a few days… as long as I get coffee and not some sleeping potion.”
+
+Frank grunts in irritation. “Would you drop it with the sleeping potion already. There is a problem. Your brothers are supposeta be here in the mornin’, remember? We are supposeta be gettin’ this project ready for presentation to the tourism board in two weeks. I want to help. I have to help, but…I’m torn, ya know?”
+
+Jack’s thoughtful for a moment, and as he remembers his grandmother’s words, he breaks out into a Cheshire grin. “Actually, that’s perfect. They can stay with us at the estate. You can use the library and study to work on your project. I’m sure there are things in the library that might even inspire you for the project.”
+
+Davey rubs his hands together, vibrating with excitement. “Ooooh this will be an awesome adventure just like when we were kids. The Four Musketeers to save the Queen! Well, at least our daughters think she’s a queen with her hair done in that silver crown thingy last night. So, we have the Queen, us, and I guess Jack, you could be the evil cardinal or King Louis. Hmmm… King Louis because I don’t think you are evil. An estate with a bridge. Yup, we got everything. Where do we start?”
+
+Davey looks between the two, waiting anxiously for an answer, but Frank and Jack are just staring at him in stunned silence. They finally look at each other before deep belly laughs fill the studio. Jack replies first. “We meet at the estate. I have to get my things and Corvin and I’ll meet you at the gate. It’s easy to find. Go through town and take the left fork like you are going to the rez. Just before you see the sign saying you are entering tribal lands, there is a sign that says watch tower to the right. Take it and you will come up to two gates. The one to the watch tower should be open, but the other will say private property and I’ll meet you at that gate.”
+
+Frank looks at the two with trepidation. Finally surrendering to the inevitable, he asks, “Would two hours be enough to get packed and find our way there? What do we need to bring? How can we reach you if we get lost?”
+
+Jack pulls out his wallet and a card. He takes a pen scribbling a number on the back. He hands it to Frank. “That’s my ranch and cell number on the front, but I won’t have the cell until I get back to the estate. On the back is the landline to the estate, where one of the caretakers will answer. Two hours will give me time to get my stuff and get there ahead of you so they can air out rooms for you and prepare dinner. As far as bringing anything, just what you would normally pack, let’s say, for argument’s sake, the rest of the week and what you need for your project. Just to warn you this is an Edwardian estate, replete with stables, gardens, and yes, a castle or mansion if you prefer.”
+
+Davey starts giggling like a little boy, unable to keep his excitement at bay. Frank frowns at Davey and looks to Jack. “See. This is what your sister has done to him and his brothers. They’ve been like this since that fishing trip over a month ago. Oy. This is a lot to take in.”
+
+Jack chuckles again. “No, my friend. She’s not entirely to blame. This is the Valley at work.”
