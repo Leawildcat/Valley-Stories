@@ -36,8 +36,15 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
 
 - Animal Form: Raven
 
-- Guardian: None (his own form guides him), shares Wolf (mother) with Lea  
-  - Lea's guardians have strong dislike for him
+- Guardian: None (his own form guides him), shares Wolf (mother) with Lea
+  - Guardian Lore Clarification:  
+    Jack is not guardian‑bonded the way Lea is. His raven form is self‑generated, not Valley‑assigned. This is important because it explains why the Valley tolerates him but does not “claim” him.
+  - Mythic Role:  
+    Jack is the Herald of Change — ravens in Valley lore are the ones who announce transitions, deaths, rebirths, and awakenings. This explains why he is always present at turning points.
+  - Valley Relationship:  
+    The Valley respects him but does not “hold” him. He is a liminal creature, always half‑in, half‑out.
+  - Guardian Conflict:  
+    Lea’s guardians dislike him because raven energy disrupts cougar/wolf/bear stability. This is not personal — it’s metaphysical.
 
 ### **_LEA HOLLOWAY ALDRIDGE_**
 
@@ -52,9 +59,16 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Eyes: Ice blue (warm, not cold)
   - Ticklish
 
-- Presence: Ethereal glow in darkness; calming, grounding
+- Presence:
+  - Ethereal glow in darkness
+  - calming
+  - grounding
 
-- Role: Youngest sibling; emotional narrator; central arc; The Valley’s chosen memory‑keeper
+- Role:
+  - Youngest sibling
+  - emotional narrator
+  - central arc
+  - The Valley’s chosen memory‑keeper
 
 - Traits:  
   - Intuitive, steady, deeply empathetic  
@@ -63,14 +77,23 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Moves through the Valley like it remembers her  
   - Skilled campcraft, cooking, tending, guiding, crochet, canning, winemaking, beauty products  
   - Chemist/Chemical Engineer Masters
-  - Medicine woman (herbalist) and University trained  
+  - Medicine woman (herbalist) and University trained
+
+- Mythic Identity — The North Wind
+  - Embodiment of the North Wind, the original Soul Rider
+  - Carries the North Wind’s soul
+  - The Valley’s chosen anchor
+  - The one who can speak the Valley’s voice
+  - The one who can survive soul‑fracture and return
+  - Current Soul Rider
+  - Dream weaver
 
 - Family:  
   - Daughter:  
     - Rowan Dawn Alridge (Married Name TBD)  
     - Age (30) Born in 1996  
-    - Expecting in December (boy next shaman)
-    - Should inherit the Valley and mother's things
+    - Expecting in December (boy next shaman, twin girl next valley soul)
+    - Should inherit the Valley and mother's things (Valley skips her)
     - Guardian/Animal Form - Kestrel
   - Son  
     - Grant Kaleb Aldridge V  
@@ -82,13 +105,17 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     - Grant K. Aldridge IV  
     - Corporate / Industrial Sales Director  
     - Legacy‑driven, image‑focused, emotionally absent  
-  - Niece (through River raised by Clay)
+  - Niece, Kyrie (through River raised by Clay)
 
 - Animal Form: Cougar
 
 - Guardian: Cougar (primary lineage guardian)
 
-- Other Guardian Ties: Bear (CT), Wolf (mother), Kaya (painted dog), Hawk (no name)
+- Other Guardian Ties:
+  - Bear (CT)
+  - Wolf (mother)
+  - Kaya (painted dog)
+  - Aeyren (red-tailed hawk)
 
 --------------------------------------------------------------------------------------
 
@@ -275,16 +302,51 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Guardian / Animal Form: Wolf
   - Choose to become her animal form after death to protect and guide her 3 children and grandchildren
   - Not a permanent valley resident
+  - Adopted by British step‑father Hawthorne
+  - Raised between Homelands + Estate
+  - Mixed Native + British upbringing
+  - Wolf guardian lineage
+  - Bridge between the two worlds
 
-- Gran-ma-ma
-  - Lea's maternal great-grandmother
-  - Medicine woman responsilbe for Native American upbringing of the family
+- Gran-ma-ma Blackwater
+  - Lea & Jack's maternal great-grandmother
+  - Grandpa Blackwater's mother
+  - Had no daughters passed lineage to Winona
   - Can choose which animal she shifts into
     - Wolf
     - Owl
     - Ghost made of dirt, embers, and leaves
+    - Human in dreams
   - No specific animal as medicine women draw from all spirit animals as needed
-  - Dies in 2000
+  - Dies in 2000; Burial place in the Homelands; Her ghost form strongest there
+  - Mixed Jicarilla Apache / Comanche / Kiowa lineage
+  - Medicine woman trained in multi‑tribal traditions; responsilbe for Native American upbringing of the family
+  - Lived in the Homelands
+  - Keeper of forest + fire + dream + animal lore
+
+- Grandpa Blackwater
+  - Lea's maternal grandfather
+  - Gran-ma-ma's Son
+  - Winona's biological father
+  - Tribal Elder; Land‑guardian (Comanche tradition)
+  - Mainly dealt with the public works and forestry stewardships; Forestry steward (Jicarilla tradition)
+  - Land‑rights negotiator; Council negotiator (Kiowa tradition)
+  - Keeper of the Homelands
+  - Tribal Elder of the Homelands
+  - Taught Holloway kids stewardship and plant lore
+  - Hired by Duke Hawthorne to help maintain the estate.
+
+- Duke Hawthorne
+  - Winona's Step-father
+  - British ex-pat
+  - Married Winona's mother
+  - Sterile
+
+- Winona's Mother Duchess Hawthorne
+  - Her mother assaulted when on trip with family to America by Native American, making her 1/2 British 1/2 NA
+  - Did not find out about her real father until moved to America with Duke
+  - Has love affair the Grandpa Blackwater and produces Winona
+  - Marries Grandpa Blackwater after Duke's passing.
 
 ### Callahan Clan
 
