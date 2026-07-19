@@ -1,33 +1,78 @@
 # Locations Map
 
-## 🐎 1. Jack Holloway’s Ranch
+## 🌿 1. The Valley
+
+### A. The Valley Proper
+
+- **Location:**
+  - Chama, NM
+  - Elements of other Rocky Mountain regions also present
+  - Shared ownership by Lea, Frank, and BLM
+
+- **Description and Elements:**
+  - Oblonged Shape similar to an eye
+  - Larger than it appers while in it
+  - Oval shaped lake that appears as the pupil of an eye in certain light
+  - Rocky outcrop with hidden limestone cavern
+  - Lake ends and goes to underground river before merging with main river
+  - Fruit, old hardwood trees and conifers
+  - Willow tree used for sleeping and changing room
+  - Honeysuckle and other wild flowers
+  - Rare rocky mountain berries and traditional berries
+
+- **Canon:**
+  - North Wind's Valley
+  - Living, sentient land
+  - Responds to emotional states
+  - Can induce stasis
+  - Holds guardians
+  - Selective access
+  - Trigger memories
+  - Heals
+  - Shows the truth
+
+### B. Forest Surrounding the Valley
+
+- **Description and Elements:**
+  - Ancient Oak and arc of Aspen trees mark path entrance to the Valley on one side
+  - Vines and brambles mixed
+  - Underground river punches through side of cliff bordering main river
+  - Fruit, old hardwood trees and conifers
+  - Rare rocky mountain berries and traditional berries
+  - Residences for the guardians (Kaya and wolf dens, bear caves)
+  - Fool hens nest on border to vallet for egg supply
+  - Deer, Elk, and other standard rocky mountain animals
+
+- **Canon:**
+  - Acts as gatekeeper to the valley
+  - Semi-sentient when in gatekeeper mode and closer to the valley
+  - Thick and dense and used with surronding cliffs and peaks to create optical illustion valley in not there.
+
+### C. Rocky Outcrop
+
+### D. Ridgeline (Cougar Ridge)
+
+### E. Campsite & Garden
+
+## 🐎 2. Holloway’s Ranch
 
 **Location:**  
 
 - Outside the Valley
-- Near the Holloway childhood land
-- Where the Jack, Twins, & Lea grew up when not on the
+- Near the Homelands
+- Somewhere on the Caprock in the South-Western Plains, in north/central NM
+- Spans both NM and TX
 
-Canon:
+**Canon:**
 
-Jack runs the ranches inherited from their father
-
-Horses: Corvin (black quarter horse), others unnamed
-
-Ranch is the staging point for Valley entries
-
-Jack’s home base for coordinating rescues, guardian interactions, and sibling meetings
-
-Jillanna lived here until her death
-
-Jesse and Billy grew up here
-
-Use in Chapter 12:  
-Jack will likely return here to gather supplies, horses, or the brothers.
+- Jack lives and runs the ranches inherited from their father
+- Horses: quarter horse, mustangs, rodeo and ranching stock
+- Cattle: beef, dairy, rodeo stock
+- Where the Jack, Twins, & Lea grew up when not at the Estate or Homelands
 
 ---
 
-## 🪶 2. THE HOMELANDS — Maternal Ancestral Territory (Jicarilla/Comanche/Kiowa Blend)
+## 🪶 3. THE HOMELANDS — Maternal Ancestral Territory (Jicarilla/Comanche/Kiowa Blend)
 
 Location: Fictional territory inspired by the Jicarilla Apache Nation, positioned between the South Plains and the Chama Valley.
 
@@ -63,53 +108,6 @@ Sacred fire circle
 Burial grounds
 
 Guardian presence stronger than anywhere except the Valley
-
-🌿 3. The Valley
-This needs its own section with sub‑locations.
-
-3A. The Valley Proper
-Living, sentient land
-
-Responds to emotional states
-
-Can induce stasis (Ch.10–11)
-
-Holds guardian territories
-
-The place where Lea is currently unconscious
-
-3B. The Cougar’s Ridge
-Lea’s core guardian territory
-
-Where she bonded with the cougar at age 5
-
-Where she often retreats emotionally
-
-3C. The Painted Dog’s Trail
-Kaya’s territory
-
-Path she uses to return home when Jack sends her away (turn0browsertab2)
-
-3D. The Wolf’s Watch
-Mama Wolf’s territory
-
-Where she appears when the siblings are together
-
-Where she blocked Jack from Lea’s bag (turn0browsertab2)
-
-3E. The Raven’s Perch
-Jack’s symbolic territory
-
-Where omens appear
-
-Where Aeyren streaked overhead (turn0browsertab1)
-
-3F. The Memory Clearing
-Where Gran‑ma‑ma appears
-
-Where transitions happen
-
-Where stasis was induced
 
 🏡 4. Frank Marino’s House
 Location: Near the Callahan neighborhood

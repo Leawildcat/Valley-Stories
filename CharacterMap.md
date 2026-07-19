@@ -39,12 +39,19 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
 - Guardian: None (his own form guides him), shares Wolf (mother) with Lea
   - Guardian Lore Clarification:  
     Jack is not guardian‑bonded the way Lea is. His raven form is self‑generated, not Valley‑assigned. This is important because it explains why the Valley tolerates him but does not “claim” him.
-  - Mythic Role:  
-    Jack is the Herald of Change — ravens in Valley lore are the ones who announce transitions, deaths, rebirths, and awakenings. This explains why he is always present at turning points.
   - Valley Relationship:  
     The Valley respects him but does not “hold” him. He is a liminal creature, always half‑in, half‑out.
   - Guardian Conflict:  
     Lea’s guardians dislike him because raven energy disrupts cougar/wolf/bear stability. This is not personal — it’s metaphysical.
+
+- Mythic Identitty — The Zenith Wind
+  - Herald of Change
+    - Ravens in Valley lore are the ones who announce transitions, deaths, rebirths, and awakenings.
+    - This explains why he is always present at turning points.
+  - Keeper of Lea
+  - Responsible for maintaining her pattern and purpose
+  - Messenger between Winds and Valley
+  - His raven form is the physical expression of the Zenith Wind
 
 ### **_LEA HOLLOWAY ALDRIDGE_**
 
@@ -87,13 +94,14 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - The one who can survive soul‑fracture and return
   - Current Soul Rider
   - Dream weaver
+  - Bearer of the Valley’s memory mantle
+  - Opposes the Nadir Wind
+  - Her lineage is the only one capable of rebinding the Winds
 
 - Family:  
   - Daughter:  
     - Rowan Dawn Alridge (Married Name TBD)  
-    - Age (30) Born in 1996  
-    - Expecting in December (boy next shaman, twin girl next valley soul)
-    - Should inherit the Valley and mother's things (Valley skips her)
+    - Age (30) Born in 1996
     - Guardian/Animal Form - Kestrel
   - Son  
     - Grant Kaleb Aldridge V  
@@ -277,8 +285,18 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Guardian / Animal Form: Wild boar
   - Never developed ability to shift to animal form and part of the denouncement
 
+- Rowan Dawn Alridge (Married Name TBD)
+  - Expecting in December
+  - Her children inherit the Winds
+    - Son = East Wind (next shaman)  
+    - Daughter = South Wind (next Valley soul)
+  - Should inherit the Valley and mother's things (Valley skips her)
+  - Rowan herself is the bridge between Winds and modern world
+  - Guardian/Animal Form - Kestrel
+
 - Lea’s niece Holloway
   - Kyrie
+  - Age (20) Born in 2006
   - Guardian / Animal Form: Hummingbird
   - Raised by Clay
 
@@ -315,7 +333,7 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Can choose which animal she shifts into
     - Wolf
     - Owl
-    - Ghost made of dirt, embers, and leaves
+    - Ghost made of dirt, embers, and leaves; aligns with autumn, dusk, endings
     - Human in dreams
   - No specific animal as medicine women draw from all spirit animals as needed
   - Dies in 2000; Burial place in the Homelands; Her ghost form strongest there
@@ -323,6 +341,8 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Medicine woman trained in multi‑tribal traditions; responsilbe for Native American upbringing of the family
   - Lived in the Homelands
   - Keeper of forest + fire + dream + animal lore
+  - **West Wind (ancestral tie)**  
+  - Keeper of transitions
 
 - Grandpa Blackwater
   - Lea's maternal grandfather
@@ -575,3 +595,64 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
 - Ceril: Lea’s mustang (burnt umber)
 
 - Corvin: Jack’s quarter horse (black w/ white star)
+
+--------------------------------------------------------------------------------------
+
+## **THE SIX WINDS (Cosmology of the Valley)**
+
+### **1. North Wind — Clarity, Truth, Memory**  
+
+- Mantle: **Lea**  
+- Season: Winter  
+- Domain: Dream, Pattern, Record‑keeping  
+- Function: The breath that sees  
+- Notes: The original Soul Rider; the Valley’s memory‑keeper; the one who can survive soul‑fracture.
+
+### **2. South Wind — Warmth, Growth, Healing**  
+
+- Mantle: _*Unassigned (future reveal)*_
+- Season: Summer  
+- Domain: Life, Roots, Recovery  
+- Function: The breath that nurtures  
+- Notes: Likely connected to Rowan’s daughter (twin girl).
+
+### **3. East Wind — Dawn, Beginnings, Awakening**  
+
+- Mantle: _*Unassigned (future reveal)*_
+- Season: Spring  
+- Domain: Birth, First Breath  
+- Function: The breath that opens  
+- Notes: Likely connected to Rowan’s son (next shaman).
+
+### **4. West Wind — Dusk, Endings, Release**  
+
+- Mantle: _*Unassigned (ancestral)*_
+- Season: Autumn  
+- Domain: Death, Transition  
+- Function: The breath that carries souls  
+- Notes: Historically tied to Gran‑ma‑ma’s ghost form.
+
+## **THE TWO HIDDEN WINDS (Forgotten by humans, remembered by the Valley)**
+
+### **5. Zenith Wind — The Wind Above**  
+
+- Mantle: **Jack**  
+- Season: Storm  
+- Domain: Lightning, Thunder, Revelation  
+- Function: Guardian‑caller, messenger, herald of change  
+- Notes: Explains raven energy, trickster role, why guardians dislike him, why the Valley tolerates him but does not claim him.
+
+### **6. Nadir Wind — The Wind Below (Forgotten Wind)**  
+
+- Mantle: **Antagonist**  
+- Season: Silence  
+- Domain: Forgetting, Unmaking, Severance  
+- Function: The breath that fell; the wind that lost its name  
+- Notes:  
+  - Broke the lineage  
+  - Severed the shamanic mantle  
+  - Silenced the Valley  
+  - Struck Lea at her weakest  
+  - Fears the North Wind  
+  - Fears Rowan’s child  
+  - Believes the Valley must die with it  
