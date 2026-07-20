@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line MD041 -->
 Oh Lea… yes.  
 The **character map is finally stable**, the winds are anchored, the lineage is untangled, the guardians are placed, and the cosmology is balanced. That means we can **absolutely** move on to the **locations map** — and this is the perfect moment to do it.
 
@@ -6,6 +7,7 @@ And since your *current tab* is **Chapter 10** (turn0browsertab1302239821), and 
 Before we start drafting, here’s the good news:
 
 # 🌲 Your world is now structurally ready for a Locations Map
+
 Because you’ve already established:
 
 - **The Valley’s metaphysics**  
@@ -19,11 +21,11 @@ Because you’ve already established:
 - **The accident site**  
 - **The river system**  
 - **The ridges and overlooks**  
-- **The copse where Lea collapses** (Chapter 10)   
-- **The meadow where Jack lands** (Chapter 10)   
-- **The sanctuary where Kyrie’s hummingbird totem was tested** (Chapter 11)   
-- **The logging company land Frank unknowingly saved** (Chapter 11)   
-- **The Estate’s British‑Native hybrid architecture** (Chapter 11)   
+- **The copse where Lea collapses** (Chapter 10)
+- **The meadow where Jack lands** (Chapter 10)
+- **The sanctuary where Kyrie’s hummingbird totem was tested** (Chapter 11)
+- **The logging company land Frank unknowingly saved** (Chapter 11)
+- **The Estate’s British‑Native hybrid architecture** (Chapter 11)
 
 You have enough canon to build a **full geographic reference map**.
 
@@ -36,13 +38,14 @@ Let’s start by outlining the **major regions** your Locations Map needs.
 # 🌄 **LOCATIONS MAP — MASTER OUTLINE (Canon‑Anchored)**
 
 ## **I. The Valley (Primary Setting)**  
+
 This is the heart of your world. It needs sub‑regions:
 
-- **The Copse** — where Lea collapses in cougar form (Ch. 10)   
-- **The Meadow** — where Jack lands as a raven (Ch. 10)   
+- **The Copse** — where Lea collapses in cougar form (Ch. 10)
+- **The Meadow** — where Jack lands as a raven (Ch. 10)
 - **The River** — otter lineage, River Holloway’s symbolic tie  
 - **The Ridge / Overlook** — where guardians often appear  
-- **The Sanctuary Clearing** — hummingbird testing (Ch. 11)   
+- **The Sanctuary Clearing** — hummingbird testing (Ch. 11)
 - **The Memory Sites** — where the Valley stores echoes  
 - **Guardian Territories**  
   - Cougar range  
@@ -54,7 +57,8 @@ This is the heart of your world. It needs sub‑regions:
 ---
 
 ## **II. The Homelands (Ancestral Territory)**  
-This is Gran‑ma‑ma’s domain and the burial site (Ch. 11) 
+
+This is Gran‑ma‑ma’s domain and the burial site (Ch. 11)
 
 Includes:
 
@@ -67,7 +71,8 @@ Includes:
 ---
 
 ## **III. The Estate (British‑Native Hybrid)**  
-Revealed in Chapter 11 (Jack’s explanation) 
+
+Revealed in Chapter 11 (Jack’s explanation)
 
 Includes:
 
@@ -82,6 +87,7 @@ Includes:
 ---
 
 ## **IV. The Holloway Ranches**  
+
 Jack runs these.
 
 Includes:
@@ -97,6 +103,7 @@ Includes:
 ---
 
 ## **V. The Callahan Neighborhood**  
+
 Frank grew up across the street from the brothers.
 
 Includes:
@@ -110,6 +117,7 @@ Includes:
 ---
 
 ## **VI. The Marino Home**  
+
 Frank’s current home.
 
 Includes:
@@ -123,7 +131,8 @@ Includes:
 ---
 
 ## **VII. The Accident Site (2010)**  
-Canon from Chapter 11 (photo + flashback) 
+
+Canon from Chapter 11 (photo + flashback)
 
 Includes:
 
@@ -137,7 +146,8 @@ Includes:
 ---
 
 ## **VIII. The Logging Company Land**  
-Frank unknowingly saved this land (Ch. 11) 
+
+Frank unknowingly saved this land (Ch. 11)
 
 Includes:
 
@@ -150,12 +160,17 @@ Includes:
 ---
 
 # 🌬️ Ready to build it?
-If you want, we can:
 
+If you want, we can:
+<!-- markdownlint-disable-next-line MD001 -->
 ### ✔ Build the Locations Map section‑by‑section  
+
 ### ✔ Start with the Valley (most important)  
+
 ### ✔ Or start with the Homelands (most mythic)  
+
 ### ✔ Or start with the Estate (most complex)  
+
 ### ✔ Or build the whole outline into a clean `.md` file  
 
 Just tell me where you want to begin.
