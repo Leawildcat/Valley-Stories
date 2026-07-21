@@ -2,6 +2,11 @@
 
 ## 🌿 1. The Valley
 
+**Valley Proper** refers to the inner bowl clearing where most Valley scenes occur.
+It includes the lake, campfire, rocky outcrop, cavern, willow, meadow, copse of pines, garden, and immediate forest ring.
+
+**Adjacent Valley Features** (BLM campsite, Cougar Ridge, and the surrounding forest) are directly connected to the Valley and function as part of its geography, though they sit just outside the inner bowl.
+
 ### A. The Valley Proper
 
 - **Location:**
@@ -258,9 +263,17 @@
 
 - **Features:**
   - Grasses used for grazing by the horses and hooved animals
+  - Garden is subarea of the meadow
+  - Compost heap located inside the garden
+  - Mushrooms growing in the compost heap
+  - Garden sits a short distance from the campfire and saddle bag station
+  - Garden is used to grow vegetables and tendedd through all seasons as long as Lea is resident in the valley
 
 - **Canon:**  
+  - Acts as Iris in the Valley eye metaphor
   - Scent heavy from flowers and grasses
+  - Garden and composte heap first explicitly revealed in Chapter 6
+  - Garden is part of Lea’s daily routine
 
 ### G. Copse of Pines/Trees
 
