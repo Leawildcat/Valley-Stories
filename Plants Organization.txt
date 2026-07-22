@@ -1,0 +1,374 @@
+Lea, **yes — exactly.**  
+You don’t need to cultivate dandelion or sorrel or chickweed at the Estate because:
+
+- you already grow **spinach, lettuce, kale, turnips, radishes**  
+- you have **actual salad greens**  
+- you have **Estate berries, fruits, nuts, grains**  
+- you have **Estate herbs**  
+- you have **Estate vegetables**  
+- you have **Estate roots and bulbs**  
+
+So the *wild greens* stay **Valley-only**, because they’re:
+
+- convenient  
+- abundant  
+- free  
+- part of the Valley’s ecology  
+- something Lea grabs when she’s out walking or gathering  
+- NOT something she needs to cultivate intentionally  
+
+And that matches the story perfectly.
+
+Let me lay out the logic cleanly so you can see the whole structure.
+
+---
+
+# 🌱 **1. Garden Crops.md = ONLY food crops grown intentionally**
+
+This file should ONLY contain:
+
+- vegetables  
+- fruits  
+- nuts  
+- grains  
+- seeds  
+- legumes  
+- roots  
+- bulbs  
+- berries (cultivated)  
+
+NOT herbs.  
+NOT flowers.  
+NOT fungi.  
+NOT wild greens.
+
+You’re doing this correctly.
+
+---
+
+# 🌿 **2. Herbs = Their Own Category**
+
+All of these belong in **Herbs.md**, NOT Garden Crops:
+
+- lemon balm  
+- lemongrass  
+- mint  
+- plantain (medicinal)  
+- chamomile  
+- yarrow  
+- sage  
+- thyme  
+- oregano  
+- rosemary  
+- lavender  
+- basil  
+- cilantro  
+- dill  
+- parsley  
+
+These are used for:
+
+- beauty products  
+- medicinals  
+- teas  
+- syrups  
+- jellies  
+- jams  
+- candies  
+- cooking  
+
+So they get their own file.
+
+---
+
+# 🌸 **3. Flowers = Their Own Category**
+
+You’re absolutely right that flowers like:
+
+- roses  
+- marigolds  
+- milkweed  
+- calendula  
+- echinacea  
+- bee balm  
+- borage  
+- sunflowers  
+
+should be in **Flowering Plants.md**, NOT Garden Crops.
+
+Because they are:
+
+- ornamental-adjacent  
+- pollinator plants  
+- beauty-product ingredients  
+- dye plants  
+- medicinal flowers  
+- NOT food crops  
+
+So they get their own file.
+
+---
+
+# 🍄 **4. Fungi = Their Own Category**
+
+You already said this — correct.
+
+---
+
+# 🌾 **5. Wild Greens = Valley-only unless cultivated for medicine**
+
+These include:
+
+- dandelion  
+- sorrel  
+- chickweed  
+- purslane  
+- nettles  
+- plantain (leaf)  
+
+These stay **Valley-only** because:
+
+- Lea doesn’t need them for salads  
+- She grows real greens at the Estate  
+- They’re convenient to gather  
+- They’re part of Valley ecology  
+- They’re not “crops”  
+- They’re not cultivated intentionally  
+
+If she needs them for medicine, she gathers them in the Valley.
+
+So they stay in **Wild Greens and Flowers.txt**.
+
+---
+
+# ⭐ **6. Final Category Structure (Correct)**
+
+### **Garden Crops.md**
+- vegetables  
+- fruits  
+- nuts  
+- grains  
+- seeds  
+- legumes  
+- roots  
+- bulbs  
+- cultivated berries  
+
+### **Herbs.md**
+- culinary herbs  
+- medicinal herbs  
+- aromatic herbs  
+- herbal shrubs  
+- herbal flowers (dual category)
+
+### **Flowering Plants.md**
+- roses  
+- marigolds  
+- milkweed  
+- calendula  
+- echinacea  
+- bee balm  
+- borage  
+- sunflowers  
+- lavender (dual category)  
+- chamomile (dual category)
+
+### **Fungi.md**
+- mushrooms  
+- medicinal fungi  
+- culinary fungi
+
+### **Wild Greens and Flowers.txt**
+- dandelion  
+- sorrel  
+- chickweed  
+- purslane  
+- nettles  
+- plantain  
+- wildflowers  
+- Valley-only ecology plants
+
+### **Estate Herbs & Medicinals.md**
+- cultivated herbs  
+- cultivated medicinals  
+- cultivated aromatics  
+
+---
+
+# ✔ **And yes — Estate Winter and Spring are fully correct.**
+
+You’re ready to move into **Estate Summer** next, and we’ll keep everything clean and contradiction-free.
+
+Just tell me when you want to start Summer.
+
+Lea, okay — let’s slow this down and lock each piece into place so the Estate stays clean, logical, and consistent with your seasonal structure.
+
+You’re doing exactly what you should: **checking each crop against climate, category, and how Lea actually uses it**. That’s why your lists are staying contradiction‑free.
+
+Here’s the full breakdown.
+
+---
+
+## 🌳 7. **Estate Structure (Finalized)**
+
+You now have **three Estate crop zones**, exactly as you described:
+
+### ✔ **1. Orchard Section**
+- Apples  
+- Pears  
+- Plums  
+- Cherries  
+- Peaches  
+- Pecans  
+- Chestnuts  
+
+### ✔ **2. Berry Section**
+- Strawberries  
+- Blueberries  
+- Raspberries  
+- Blackberries  
+- Currants  
+- Gooseberries  
+
+### ✔ **3. Vineyard Section**
+- Mountain Grapes  
+- (Optional) Hardy hybrids later if you want
+
+### ✔ **Plus: Vegetable beds, grain plots, herb beds, and pond/river crops**
+
+Everything fits cleanly.
+
+---
+
+### ✔ Ranch & Estate operations  
+Add:
+
+**Winter Wheat (SEP–OCT)**  
+- fodder  
+- seed  
+- drought reserve  
+- emergency flour source  
+
+---
+
+Lea, **yes — they absolutely *could* let the lima beans grow big enough to become butter beans**, and your instinct is right again. Let me break it down cleanly so you can decide whether butter beans belong in the Estate or Ranch (or neither).
+
+---
+
+# 🌱 **Lima Beans → Butter Beans (Same Plant, Different Stage)**
+
+Here’s the key truth:
+
+### ✔ Butter beans **ARE** just mature lima beans.  
+Same plant.  
+Same species.  
+Same growing requirements.  
+Just harvested later.
+
+So the question becomes:
+
+### *Can the Estate climate grow lima beans long enough to reach the butter‑bean stage?*
+
+And the answer is:
+
+---
+
+# 🌡️ **Estate Climate → YES for small limas, MAYBE for butter beans**
+
+The Estate has:
+
+- lower elevation  
+- warmer microclimates  
+- longer frost‑free season than the Valley  
+- sheltered garden areas  
+- south‑facing walls  
+- heat‑holding stonework  
+- wind protection  
+
+This means:
+
+### ✔ Small lima beans (green stage) → definitely grow  
+### ✔ Medium lima beans → likely grow  
+### ❓ Large butter beans → borderline but possible in sheltered spots
+
+Butter beans need:
+
+- **90–110 frost‑free days**  
+- **warm nights**  
+- **consistent heat**  
+- **late summer maturity**  
+
+The Estate *can* hit that in good years.
+
+The Ranch hits it **every** year.
+
+So the Estate could grow butter beans **in small quantities**, but they would:
+
+- be grown in the warmest garden beds  
+- be a “sometimes crop”  
+- not be reliable every year  
+- not be grown in bulk  
+- not be a staple  
+- not be something Lea depends on  
+
+This matches your lived experience perfectly.
+
+---
+
+# 🫘 **Pintos, Navy, Small Red Beans → NO**
+
+Your instinct was correct:
+
+- These are **dry beans**, not green beans.  
+- They need **long hot summers** and **dry fall weather**.  
+- They need **large acreage** and **drying barns**.  
+- They are **not** historically grown on ranches like yours.  
+- They are **not** part of Lea’s family tradition.  
+- They are **not** part of the Duke’s estate operations.  
+- They are **store‑bought** in your lived experience.
+
+So:
+
+### ❌ Pinto beans → do NOT add  
+### ❌ Navy beans → do NOT add  
+### ❌ Small red beans → do NOT add  
+### ❌ Butter beans (as dry beans) → do NOT add  
+### ✔ Lima beans (green stage) → already added  
+### ✔ Butter beans (mature limas) → optional, small‑scale Estate crop
+
+---
+
+# 🌾 **Where do butter beans belong in your story bible?**
+
+### ✔ Garden Crops.md → Estate → Spring  
+Add ONLY if you want Lea to grow a *small* amount:
+
+```markdown
+  - Lima Beans — can mature into butter beans in warm years (APR–MAY)
+```
+
+### ✔ Estate → Summer → Harvest  
+Add:
+
+```markdown
+  - Lima Beans (JUL–AUG)
+  - Butter Beans — mature limas, warm years only (AUG–SEP)
+```
+
+### ✔ Ranch  
+Do NOT add unless you want the ranch families to grow them for themselves.
+
+---
+
+# ⭐ **Final Answer**
+
+### ✔ YES — the Estate *can* grow butter beans  
+…but only as mature lima beans, in small quantities, in warm years, in sheltered beds.
+
+### ✔ NO — pintos, navy, and small red beans  
+…are NOT grown at the Estate or Ranch. They are store‑bought.
+
+### ✔ Your story bible stays consistent  
+…and matches your lived experience perfectly.
+
+If you want, I can help you insert butter beans into the Estate Spring/Summer/Fall lists in the correct order and phrasing.

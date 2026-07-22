@@ -12,6 +12,10 @@
 
 ### Spring
 
+- **Winter rye** (MAR–APR)
+  - cut and till under before planting other crops
+  - cut before it seeds
+
 - Plant in Spring
   - Beets (MAR–APR)
   - Peas (MAR–APR)
@@ -19,6 +23,7 @@
   - Potatoes (MAR–APR)
   - Kale (MAR–APR)
   - Spinach (MAR–APR)
+  - Onions — non‑overwintering varieties (MAR–APR)
 
 - Harvest from Fall Over-Wintering
   - Carrots (overwintered, MAR–APR)
@@ -35,6 +40,9 @@
   - Beets (JUN–AUG)
   - Peas (JUN)
   - Potatoes (AUG)
+  - Onions — non‑overwintering varieties (JUL–AUG)
+  - Garlic (JUL–AUG)
+  - Yellow Storage Onions (JUL–AUG)
 
 ### Fall
 
@@ -113,7 +121,7 @@
   - Goosefoot seed — related to lamb’s quarters (JUL–SEP)
   - Sunflower seeds — wild varieties (AUG–SEP)
   - Gambel Oak acorns — processed for flour or must be leached first (SEP)
-  - Pinyon Pine nuts (SEP)
+  - Piñon Pine nuts (SEP)
 
 - Wild Sap & Syrup (FEB–APR)
   - Rocky Mountain Maple sap (FEB–APR)
@@ -128,35 +136,189 @@
 <!-- markdownlint-disable-next-line MD024 -->
 ### Winter
 
-- Plant in Summer/Fall
-  - Yams in SEP before first freeze
+- Plant in Winter
+  - Garlic (DEC–JAN)
+  - Shallots (DEC–JAN)
+  - Overwintering Onions – select hardy varieties (DEC–JAN)
 
-- Harvest
-  - Pumpkin (SEP-OCT)
+  - Dormant Fruit Trees – only when adding or replacing  
+    - Apples (JAN–FEB)
+    - Pears (JAN–FEB)
+    - Plums (JAN–FEB)
+    - Cherries (JAN–FEB)
+    - Peaches – lower acreage only (JAN–FEB)
+    - Pecans – protected lower acreage (JAN–FEB)
+    - Chestnuts (JAN–FEB)
+
+  - Dormant Berry Canes – only when adding or replacing  
+    - Raspberries (FEB)
+    - Blackberries (FEB)
+    - Currants (FEB)
+    - Gooseberries (FEB)
+    - Blueberries (FEB)
+
+- Harvest in Winter
+  - Carrots (overwintered, DEC–FEB)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Spring
 
-- Plant in Fall/Winter
-  - Yams
+- **Winter rye** (MAR–APR)
+  - cut and till under before planting other crops
+  - cut before it seeds
 
-- Harvest
-  - Pumpkin
+- Plant in Spring
+  - Beets (MAR–APR)
+  - Peas (MAR–APR)
+  - Carrots - enough if going to overwinter (MAR–APR)
+  - Potatoes (MAR–APR)
+  - Kale (MAR–APR)
+  - Spinach (MAR–APR)
+  - Onions — non‑overwintering varieties (MAR–APR)  
+  - Lettuce (MAR–APR)  
+  - Radishes (MAR–APR)  
+  - Turnips (MAR–APR)
+  - Leeks (MAR–APR)
+  - Mustard Greens/Seeds (MAR–APR)
+  - Collard Greens (MAR–APR)
+  - Broccoli (APR)  
+  - Cauliflower (APR)  
+  - Cabbage (APR)
+  - Celery (APR–MAY)
+  - Snap Beans (APR–MAY)  
+  - Green Beans (APR–MAY)  
+  - Lima Beans — cool‑tolerant varieties (APR–MAY)
+  - Tomatoes — small early varieties (APR–MAY)
+  - Sunflowers (APR–MAY)
+  - Blueberries — new shrubs only (APR)  
+  - Strawberries — new crowns only (APR)
+  - Mountain Grapes (APR) — new vines only
+  - Watercress (APR)
+
+- Harvest from Fall Over-Wintering & Spring in Spring
+  - Carrots (overwintered, MAR–APR)
+  - Strawberries (first flush, late APR)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Summer
 
-- Plant in Winter/Spring
-  - Yams
+- Plant in Summer
+  - Watercress (JUN) — succession planting
 
-- Harvest
-  - Pumpkin
+- Harvest in Summer (including over-wintering and previous fall plantings)
+  - Peas (JUN)
+  - Kale (JUN–AUG)
+  - Spinach (JUN–JUL)
+  - Lettuce (JUN–AUG)
+  - Radishes (JUN–AUG)
+  - Turnips (JUN–AUG)
+  - Strawberries (late APR–JUL; light trickle AUG)
+  - Watercress (JUN–AUG)
+  - Mustard Greens (JUN–AUG)
+  - Collard Greens (JUN–AUG)
+  - Raspberries (JUN–JUL)
+  - Currants (JUN–JUL)
+  - Gooseberries (JUN–JUL)
+  - Blueberries (JUN–AUG)
+  - Cherries (JUN–JUL)
+  - Garlic (JUL–AUG)
+  - Shallots (JUL–AUG)
+  - Overwintering Onions (JUL)
+  - Onions — non‑overwintering (JUL–AUG)
+  - Yellow Storage Onions (JUL–AUG)
+  - Beets (JUL–AUG)
+  - Carrots (spring-planted, JUL–AUG)
+  - Snap Beans (JUL–AUG)
+  - Green Beans (JUL–AUG)
+  - Lima Beans (JUL–AUG)
+  - Broccoli (JUL–AUG)
+  - Cauliflower (JUL–AUG)
+  - Cabbage (JUL–AUG)
+  - Tomatoes — small early varieties (JUL–AUG)
+  - Mustard Seed (JUL–AUG)
+  - Blackberries (JUL–AUG)
+  - Plums (JUL–AUG)
+  - Potatoes (AUG)
+  - Peaches (AUG)
+  - Early Apples (AUG)
+  - Early Pears (AUG)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Fall
 
-- Plant in Spring/Summer
-  - Yams
+- Plant in Fall
+  - Watercress (SEP) — optional late planting
+  - Garlic (SEP–OCT)
+  - Yellow Storage Onions (SEP–OCT)
+  - Winter rye — _***Cover Crop***_ (SEP–OCT)
+    - protects soil from erosion
+    - prevents nutrient loss
+    - suppresses weeds
+    - adds organic matter when cut
+    - improves spring planting beds
+    - cut before seeding
 
-- Harvest
-  - Pumpkin
+- Harvest in Fall
+  - Potatoes (SEP–OCT)
+  - Beets (SEP–OCT)
+  - Carrots (SEP–OCT)
+  - Kale (SEP–NOV)
+  - Spinach (SEP–NOV)
+  - Cabbage (SEP–OCT)
+  - Broccoli (SEP–OCT)
+  - Cauliflower (SEP–OCT)
+  - Turnips (SEP–OCT)
+  - Radishes (SEP–OCT)
+  - Mustard Greens (SEP–NOV)
+  - Mustard Seed (SEP–OCT)
+  - Collard Greens (SEP–NOV)
+  - Sunflower Seeds (SEP–OCT)
+  - Mountain Grapes (SEP–OCT)
+  - Apples (SEP–OCT)
+  - Pears (SEP–OCT)
+  - Chestnuts (SEP–OCT)
+  - Beans (early SEP)
+  - Peas (early SEP)
+  - Plums (late varieties SEP)
+  - Watercress (SEP)
+  - Pecans (OCT–NOV)
+
+<!-- markdownlint-disable-next-line MD024 -->
+### Greenhouse
+
+- 2 Dwarf Lemon Trees
+- 2 Dwarf Lime Trees
+- 3 Camellia sinensis (Estate Greenhouse)
+  - Black tea
+  - Green tea
+  - White tea
+  - Oolong
+<!-- markdownlint-disable-next-line MD024 -->
+### Wild Gathered
+
+- Roots & Bulbs (MAR–JUL)
+  - Wild Onions (MAR–MAY)
+  - Wild Garlic (MAR–MAY)
+  - Cattail shoots/pollen (MAY–JUL) — pond only; occasional use
+    - Tubers possible if a water‑chestnut‑like starch is desired
+
+- Wild Greens & Flowers (MAR–SEP)
+  - Dandelion greens (MAR–JUN)
+  - Lamb’s Quarters (APR–SEP)
+  - Dock / Sorrel (APR–JUL)
+  - Plantain leaves (MAY–SEP)
+  - Mallow (MAY–SEP)
+  - Purslane (JUN–SEP)
+  - Clover blossoms (JUN–SEP)
+  - Wild Mint (JUL–SEP) — near irrigation or damp shade
+  - Honeysuckle blossoms (MAY–AUG) — personal use; naturalized around the Estate
+  - Rose Petals (MAY–JUN) — if naturalized
+  - Rose Hips (AUG–SEP) — if naturalized
+
+- Wild Nuts & Seeds (JUN–SEP)
+  - Amaranth seed (JUN–SEP)
+  - Goosefoot seed (JUL–SEP)
+  - Sunflower seeds — wild varieties (AUG–SEP)
+
+- Wild Sap & Syrup (Estate)
+  - None — Estate cannot host Rocky Mountain Maple or Boxelder
 
 ---
 
@@ -164,35 +326,65 @@
 <!-- markdownlint-disable-next-line MD024 -->
 ### Winter
 
-- Plant in Summer/Fall
-  - Yams in SEP before first freeze
+- Plant in Winter
+  - Nothing
 
-- Harvest
-  - Pumpkin (SEP-OCT)
+- Harvest in Winter
+  - Carrots (overwintered, NOV–FEB)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Spring
 
-- Plant in Fall/Winter
-  - Yams
+- Plant in Spring
+  - Jicama (APR–MAY)
+  - Beets (MAR–APR)
+  - Peas (MAR–APR)
+  - Carrots - enough if going to overwinter (MAR–APR)
+  - Potatoes (MAR–APR)
+  - Kale (MAR–APR)
+  - Spinach (MAR–APR)
+  - Onions — non‑overwintering varieties (MAR–APR)
+  - Water Chestnuts (APR–MAY)
 
-- Harvest
-  - Pumpkin
+- Harvest from Fall Over-Wintering
+  - Carrots (overwintered, MAR–APR)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Summer
 
-- Plant in Winter/Spring
-  - Yams
+- Plant in Summer
+  - Nothing
 
-- Harvest
-  - Pumpkin
+- Harvest in Summer
+  - Kale (JUN–AUG)
+  - Spinach (JUN–JUL)
+  - Carrots (JUN–AUG)
+  - Beets (JUN–AUG)
+  - Peas (JUN)
+  - Potatoes (AUG)
+  - Onions — non‑overwintering varieties (JUL–AUG)
+  - Garlic (JUL–AUG)
+  - Yellow Storage Onions (JUL–AUG)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Fall
 
-- Plant in Spring/Summer
-  - Yams
+- Plant in Fall
+  - Garlic (SEP–OCT)
+  - Yellow Storage Onions (SEP–OCT)
+  - Winter rye - _***Cover Crop***_ (SEP–OCT)
+    - it protects the soil from erosion
+    - it prevents nutrient loss
+    - it suppresses weeds
+    - it adds organic matter when cut
+    - it improves spring planting beds
+    - cut before seeding
 
-- Harvest
-  - Pumpkin
+- Harvest in Fall
+  - Potatoes (SEP–OCT)
+  - Beets (SEP–OCT)
+  - Carrots (SEP–OCT)
+  - Kale (SEP–NOV)
+  - Spinach (SEP–NOV)
+  - Peas (early SEP)
+  - Water Chestnuts (SEP–OCT)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Wild Gathered
 
@@ -211,7 +403,7 @@
 
 ### Wild
 
-#### 1. Mountain/Velley
+#### 1. Mountain/Valley
 
 - Wild Mint (Mentha arvensis) — grows by lake
 - Spearmint (Mentha spicata) — grows in meadow
@@ -224,8 +416,12 @@
 - Prairie Sage (Artemisia ludoviciana)
 - Plains Beebalm (Monarda pectinata)
 - Rabbit Tobacco (Pseudognaphalium obtusifolium)
-
+<!-- markdownlint-disable-next-line MD024 -->
 ### Greenhouse
+
+- Rosemary
+- Thyme
+- Oregano
 
 ### Grown at Estate or Ranch
 
@@ -235,6 +431,29 @@
 - Thyme (Both)
 - Oregano (Both)
 - Aloe vera (Aloe barbadensis) (Ranch)
+- Peppermint (MAR–APR) (Both)
+
+### Herbs Gathered & Dried
+
+- Teas (Herbal Infusions)
+  - Mint (APR–AUG)
+  - Lemon Balm (APR–AUG)
+  - Chamomile (MAY–JUL)
+  - Lavender (JUN–JUL)
+  - Bee Balm (JUL–AUG)
+  - Raspberry Leaf (APR–MAY)
+  - Blackberry Leaf (APR–MAY)
+  - Blueberry Leaf (APR–MAY)
+  - Mountain Grape Leaf (APR–MAY)
+  - Elderflower (JUN)
+  - Elderberry (AUG)
+  - Rose Petals (MAY–JUN)
+  - Rose Hips (SEP–OCT)
+  - Pine Needles (APR–FEB)
+  - Nettle (MAY–JUN)
+  - Yarrow (JUN–AUG)
+  - Dandelion Root (SEP–NOV)
+  - Dandelion Leaf (SEP–OCT)
 
 ---
 
@@ -245,3 +464,16 @@
 ### Wild
 
 - Porcini Mushrooms
+
+---
+
+## Estate & Ranch Mass-Production Fields
+
+(Managed by hired ranch families; Lea has access but does not grow these herself)
+
+- Winter Wheat (SEP–OCT planting; JUL harvest)
+- Spring Wheat (APR planting; AUG harvest)
+- Barley (APR planting; JUL–AUG harvest)
+- Oats (APR planting; AUG harvest)
+- Clover (APR–MAY planting; JUN–AUG hay cutting)
+- Hay Fields (JUN–AUG cutting)

@@ -439,3 +439,185 @@ or
 - “Let’s map this into Chapter 12.”
 
 I’m right here.
+
+**Winter Wheat Fields**  Also at Ranch
+
+- south meadow  
+- near livestock barns  
+- adjacent to clover/hay rotation fields  
+- part of deer forage zone
+
+**Winter Wheat (SEP–OCT)**  
+
+- planted by hired ranch families  
+- allowed to seed  
+- seed collected for next year  
+- fodder for cattle, sheep, pigs, and red deer  
+- emergency flour source if summer wheat yields are low  
+- not part of Lea’s personal garden
+
+---
+<!-- markdownlint-disable-next-line MD025 -->
+# 🌾 **THE BEER ATTEMPT — Canon Detail**
+
+You said:
+
+> “I think once he tried beer with it and well yeah that didn’t last”
+
+This is perfect canon flavor.
+
+We can add a note in Lea’s estate.md:
+
+**Historical Note:**  
+
+- The Duke once attempted brewing with winter wheat.  
+- The result was bitter and unpleasant.  
+- Brewing was discontinued.  
+- Winter wheat remained strictly a forage and seed crop.
+
+This is exactly the kind of detail that makes the Estate feel real.
+
+---
+Lea, you’re right — the **Estate is complete for crops and wild‑gathered**, but **not yet complete as a living homestead**, because two major components still need to be added:
+<!-- markdownlint-disable-next-line MD025 -->
+# 🌿 **1. The Estate Greenhouse (Herbs, Medicinals, and a Few Specialty Plants)**  
+<!-- markdownlint-disable-next-line MD025 -->
+# 🧊 **2. The Estate Root Cellar (Storage Logic)**  
+<!-- markdownlint-disable-next-line MD025 -->
+# 🍋 **3. The Estate Citrus Trees (Lemon & Lime)**  
+
+Let’s lock these in cleanly so the Estate section becomes *fully* finished.
+
+---
+<!-- markdownlint-disable-next-line MD025 -->
+# 🌿 **1. ESTATE GREENHOUSE — What Lea Actually Grows Year‑Round**
+
+The greenhouse is **not** a crop‑production space.  
+It’s a **medicinal, culinary, and personal-use plant house**.
+
+Here is the **accurate, realistic list** of what Lea grows inside it:
+
+## ✔ Culinary Herbs (year‑round)
+
+- Rosemary  
+- Thyme  
+- Oregano  
+- Peppermint  
+- Dill  
+
+## ✔ Medicinals
+
+- Aloe vera  
+- Chamomile  
+- Yarrow (potted, optional)  
+- Helichrysum (Immortelle)  
+- Calendula (optional, fits her profile)
+
+### ✔ Personal Flowers
+
+- Roses (fragrant varieties, small bush or climber)  
+- Iris (potted, for cut flowers)  
+- Lavender (English lavender already listed as Estate-grown)
+
+### ✔ Specialty Plants
+
+- Lemon tree (1–2 trees)  
+- Lime tree (1–2 trees)
+
+These citrus trees are **small greenhouse dwarfs**, not orchard trees.
+
+They produce:
+
+- enough lemons for pies, drinks, marinades, desserts  
+- enough limes for drinks, cooking, and occasional preserves  
+- not enough to overwhelm her  
+- not enough to require mass processing  
+- not enough to turn into a “crop” category  
+
+They are **family-use only**, exactly as you said.
+
+---
+<!-- markdownlint-disable-next-line MD025 -->
+# 🍋 **2. How Many Citrus Trees?**
+
+You asked:
+
+> “Would one each or two each be enough?”
+
+Yes.  
+The perfect number is:
+
+✔ **1 lemon tree + 1 lime tree**  
+or  
+✔ **2 lemon trees + 2 lime trees** (if she wants more flexibility)
+
+But **never more than two each** — that would overwhelm her with fruit.
+
+A single dwarf lemon tree can produce:
+
+- 20–40 lemons per year  
+- enough for pies, curds, lemonade, marinades, desserts  
+
+A single dwarf lime tree can produce:
+
+- 15–30 limes per year  
+- enough for drinks, cooking, and preserves  
+
+So:
+
+## ⭐ **Two of each is the sweet spot**  
+
+Enough fruit for the family, not enough to become a chore.
+
+---
+<!-- markdownlint-disable-next-line MD025 -->
+# 🧊 **3. ESTATE ROOT CELLAR — Required and Canonical**
+
+Yes — the Estate **must** have a root cellar.
+
+It stores:
+
+- Potatoes  
+- Carrots  
+- Beets  
+- Onions  
+- Garlic  
+- Winter squash (if she grows any later)  
+- Apples (early varieties)  
+- Pears (early varieties)  
+- Nuts (pecans, chestnuts)  
+- Dried herbs  
+- Ferments  
+- Cured items  
+- Emergency supplies  
+
+This is **canon** for a mountain homestead and fits Lea’s personality and the Estate’s age.
+
+We’ll add this as a **non-seasonal infrastructure note** in the Estate section when we finalize the Herbs chapter.
+
+---
+<!-- markdownlint-disable-next-line MD025 -->
+# 🌱 **4. Where This Goes in Garden Crops.md**
+
+You don’t need to add it to the seasonal crop lists.  
+Instead, it belongs in:
+
+✔ **Estate — Infrastructure**  
+or  
+✔ **Estate — Greenhouse & Storage**  
+
+We’ll create that section when we revisit Herbs.
+
+---
+<!-- markdownlint-disable-next-line MD025 -->
+# 🌟 **FINAL STATUS: Estate Crops & Wild Gathered = COMPLETE**  
+
+Now we only need to add:
+
+- Greenhouse plants  
+- Citrus trees  
+- Root cellar note  
+
+…and the Estate will be **fully finished**.
+
+If you want, I can draft the **Estate Greenhouse** section now in your Garden Crops format, or we can move on to **Ranch Wild Gathered**, **Herbs**, or **Seasonal Map**.
