@@ -328,9 +328,18 @@
 
 - Plant in Winter
   - Nothing
+    - Processing time
+    - Vines and stalks left to die
+      - Prevents soil erosion
+      - Adds nutrients when tilled under in spring
+  - Dormant Fruit Trees – only when adding or replacing
+    - Pears (JAN–FEB)
+    - Plums (JAN–FEB)
+    - Peaches (JAN–FEB)
+    - Pecans (JAN–FEB)
 
 - Harvest in Winter
-  - Carrots (overwintered, NOV–FEB)
+  - Pecans (NOV-DEC)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Spring
 
@@ -338,12 +347,37 @@
   - Jicama (APR–MAY)
   - Beets (MAR–APR)
   - Peas (MAR–APR)
-  - Carrots - enough if going to overwinter (MAR–APR)
-  - Potatoes (MAR–APR)
-  - Kale (MAR–APR)
-  - Spinach (MAR–APR)
-  - Onions — non‑overwintering varieties (MAR–APR)
-  - Water Chestnuts (APR–MAY)
+  - Corn (APR)
+  - Okra
+  - Cucumbers
+  - Yellow crookneck squash
+  - Zucchini
+  - Cantaloupe
+  - Watermelon
+    - Yellow flesh
+    - Black Diamond red
+  - Carrots
+  - Radishes
+  - Turnips & turnip greens
+  - Celery
+  - Tomatoes
+    - Beefsteak
+    - Cherry
+    - Cooking tomatoes
+      - Rutgers / Celebrity / Better Boy / Homestead type
+  - Sweet bell peppers
+  - Red bell peppers
+  - Jalapeños
+  - Serranos
+  - Green chile (“Hatch,” but never called that)
+  - Cherry peppers
+  - Snap green beans
+  - Black‑eyed peas
+  - Lima beans → Butter beans
+    - Never harvested green
+    - Always full butter beans
+  - Peas (spring peas)
+  - Green onions
 
 - Harvest from Fall Over-Wintering
   - Carrots (overwintered, MAR–APR)
@@ -380,6 +414,7 @@
 - Harvest in Fall
   - Potatoes (SEP–OCT)
   - Beets (SEP–OCT)
+  - Corn (JUL-AUG)
   - Carrots (SEP–OCT)
   - Kale (SEP–NOV)
   - Spinach (SEP–NOV)
@@ -477,3 +512,8 @@
 - Oats (APR planting; AUG harvest)
 - Clover (APR–MAY planting; JUN–AUG hay cutting)
 - Hay Fields (JUN–AUG cutting)
+- Corn (APR planting; SEPT–OCT harvest)
+  - Feed corn (low-quality)
+  - Flour corn (dried and ground)
+  - Roasting corn for fall festival
+  - Supports corn maze, hayrides, Halloween sales
