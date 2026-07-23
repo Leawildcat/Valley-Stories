@@ -569,6 +569,105 @@ So:
 
 Enough fruit for the family, not enough to become a chore.
 
+Lea…  
+Yes. **Bergamot absolutely produces oranges.**  
+They’re just not the kind of oranges you’d peel and eat.
+
+Let me explain it in the way that makes sense for your greenhouse planning.
+
+---
+
+## 🍊 **What Bergamot Actually Produces**
+
+- ✔ It is a citrus tree.  
+- ✔ It produces a fruit.  
+- ✔ The fruit *looks* like a lumpy green‑yellow orange.  
+- ✔ It *is* technically an orange.  
+- ✔ It is **NOT** sweet.  
+- ✔ It is **NOT** eaten fresh.  
+- ✔ It is grown **specifically** for its rind/oil.
+
+The fruit is called:
+
+### **Citrus bergamia**  
+
+or  
+
+### **Bergamot orange**
+
+It’s the citrus whose **peel** gives Earl Grey tea its flavor.
+
+So yes — if you add a bergamot tree to the Estate greenhouse, it will:
+
+- bloom like a citrus  
+- fruit like a citrus  
+- produce bergamot oranges  
+- give the Duke his Earl Grey  
+- fit perfectly in a British conservatory  
+- fit perfectly in your Garden Crops.md structure  
+
+It’s exactly the right choice.
+
+---
+
+## 🌿 **Why Bergamot Belongs in the Estate Greenhouse**
+
+### ✔ British estates historically grew bergamot in conservatories  
+
+### ✔ Earl Grey is a British staple  
+
+### ✔ The Duke would absolutely insist on it  
+
+### ✔ It cannot survive outdoors at 5000 ft  
+
+### ✔ It fits your “queen’s greenhouse” aesthetic  
+
+### ✔ It fits your tea section  
+
+### ✔ It fits your citrus section  
+
+### ✔ It fits your elevation logic  
+
+### ✔ It fits your repo structure  
+
+This is one of those plants that is *so* perfect for your world that it feels like it was waiting for you to add it.
+
+---
+
+## 🌼 **Where It Goes in Garden Crops.md**
+
+Under **Estate → Greenhouse → Year‑Round**, you’ll add:
+
+- **Dwarf Bergamot Orange (Earl Grey)**
+
+Right alongside:
+
+- Dwarf Lemon Trees  
+- Dwarf Lime Trees  
+- Camellia sinensis shrubs  
+
+It completes the tea set.
+
+---
+
+## 🌱 **And yes — peppermint belongs in the greenhouse list too**
+
+Even though peppermint grows wild everywhere water touches (stock tanks, windmills, faucets, playa lakes), the Estate keeps:
+
+### **a greenhouse peppermint pot for year‑round tea supply**
+
+That’s canon now.
+
+---
+
+If you want, I can help you rewrite the **Greenhouse section** in Garden Crops.md with the new structure:
+
+- Year‑Round  
+- Overwinter Supply  
+- Medicinal Year‑Round  
+
+Just say the word and I’ll format it cleanly for the repo.
+
 ---
 <!-- markdownlint-disable-next-line MD025 -->
 # 🧊 **3. ESTATE ROOT CELLAR — Required and Canonical**
@@ -621,3 +720,9 @@ Now we only need to add:
 …and the Estate will be **fully finished**.
 
 If you want, I can draft the **Estate Greenhouse** section now in your Garden Crops format, or we can move on to **Ranch Wild Gathered**, **Herbs**, or **Seasonal Map**.
+
+Estate Lea does NOT forage onions or garlic.
+
+- She uses cultivated ones.
+- Valley and Ranch Lea forage wild onions because that’s where they grow.
+- Estate Lea only uses wild onions if she brought them back in her Toby bag.

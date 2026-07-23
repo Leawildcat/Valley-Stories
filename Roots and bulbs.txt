@@ -103,3 +103,8 @@ If you want, we can now:
 ### ✔ Move on to Estate crops  
 
 Just tell me what you want next.
+
+Estate Lea does NOT forage onions or garlic.
+- She uses cultivated ones.
+- Valley and Ranch Lea forage wild onions because that’s where they grow.
+- Estate Lea only uses wild onions if she brought them back in her Toby bag.

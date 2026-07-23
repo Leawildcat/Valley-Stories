@@ -248,7 +248,7 @@ Just say the word and we’ll build the full planting → harvest cycle.
 - Placed in corners, closets, drawers, and the storm cellar
 - Household utility item, not a crop
 
-### Ranch Onions
+### Ranch Onions & Garlic
 
 - Green onions were grown at the ranch.
   - Used for salads, green chile enchiladas, garnish, and Papaw’s lunch ritual.
@@ -259,6 +259,10 @@ Just say the word and we’ll build the full planting → harvest cycle.
   - Barbara bought them by the bushel from a man in Hobbs.
   - Used for okra gumbo, meatloaf, stuffed bell peppers, pickles, and everyday cooking.
   - Always purchased, never planted.
+
+- Garlic and onions were bought from town
+  - Most of the time used as store bought powder or flakes
+  - Only used in chuckwagon cooking when out on the spread.
 
 ### Family Variants
 

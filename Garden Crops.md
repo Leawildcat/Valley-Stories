@@ -290,12 +290,11 @@
   - Green tea
   - White tea
   - Oolong
+- 1 Dwarf Bergamot Orange (Earl Grey tea)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Wild Gathered
 
 - Roots & Bulbs (MAR–JUL)
-  - Wild Onions (MAR–MAY)
-  - Wild Garlic (MAR–MAY)
   - Cattail shoots/pollen (MAY–JUL) — pond only; occasional use
     - Tubers possible if a water‑chestnut‑like starch is desired
 
@@ -304,13 +303,9 @@
   - Lamb’s Quarters (APR–SEP)
   - Dock / Sorrel (APR–JUL)
   - Plantain leaves (MAY–SEP)
-  - Mallow (MAY–SEP)
   - Purslane (JUN–SEP)
-  - Clover blossoms (JUN–SEP)
   - Wild Mint (JUL–SEP) — near irrigation or damp shade
   - Honeysuckle blossoms (MAY–AUG) — personal use; naturalized around the Estate
-  - Rose Petals (MAY–JUN) — if naturalized
-  - Rose Hips (AUG–SEP) — if naturalized
 
 - Wild Nuts & Seeds (JUN–SEP)
   - Amaranth seed (JUN–SEP)
@@ -465,11 +460,34 @@
 <!-- markdownlint-disable-next-line MD024 -->
 ### Greenhouse
 
-- Rosemary
-- Thyme
-- Oregano
+#### 1. Year‑Round
 
-### Grown at Estate or Ranch
+- Lemongrass
+- Lemon Basil
+- Stevia
+- Jasmine
+- Lemon Verbena
+- Ginger
+- Turmeric
+- Peppermint pot
+
+#### 2. Overwinter Supply
+
+- Basil
+- Cilantro
+- Parsley
+- Chives
+- Lemon Balm
+
+#### 3. Medicinal Year‑Round
+
+- Chamomile
+- Lavender
+
+### Grown at Estate or Ranch*
+
+*Estate herbs grown in dedicated herb garden.  
+*Ranch herbs are grown on porches or window sills.
 
 - Garden Sage (Salvia officinalis) (Both)
 - English Lavender (Lavandula angustifolia) (Estate)
@@ -477,15 +495,15 @@
 - Thyme (Both)
 - Oregano (Both)
 - Aloe vera (Aloe barbadensis) (Ranch)
-- Peppermint (MAR–APR) (Both)
 
-### Herbs Gathered & Dried
+### Herbs Gathered & Dried at the Estate
 
 - Teas (Herbal Infusions)
   - Mint (APR–AUG)
   - Lemon Balm (APR–AUG)
   - Chamomile (MAY–JUL)
   - Lavender (JUN–JUL)
+  - Mallow (MAY–SEP)
   - Bee Balm (JUL–AUG)
   - Raspberry Leaf (APR–MAY)
   - Blackberry Leaf (APR–MAY)
