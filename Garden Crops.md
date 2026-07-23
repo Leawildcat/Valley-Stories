@@ -339,48 +339,49 @@
     - Pecans (JAN–FEB)
 
 - Harvest in Winter
-  - Pecans (NOV-DEC)
+  - Pecans (DEC)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Spring
 
 - Plant in Spring
-  - Jicama (APR–MAY)
   - Beets (MAR–APR)
   - Peas (MAR–APR)
   - Corn (APR)
-  - Okra
-  - Cucumbers
-  - Yellow crookneck squash
-  - Zucchini
-  - Cantaloupe
-  - Watermelon
-    - Yellow flesh
-    - Black Diamond red
-  - Carrots
-  - Radishes
-  - Turnips & turnip greens
-  - Celery
-  - Tomatoes
-    - Beefsteak
-    - Cherry
-    - Cooking tomatoes
-      - Rutgers / Celebrity / Better Boy / Homestead type
-  - Sweet bell peppers
-  - Red bell peppers
-  - Jalapeños
-  - Serranos
-  - Green chile (“Hatch,” but never called that)
-  - Cherry peppers
-  - Snap green beans
-  - Black‑eyed peas
-  - Lima beans → Butter beans
+  - Strawberries (APR)
+  - Radishes (APR)
+  - Turnips & turnip greens (APR)
+  - Carrots (APR)
+  - Celery (APR)
+  - Green onions (APR)
+  - Sweet Potatoes (APR)
+  - Jicama (APR–MAY)
+  - Snap green beans (APR–MAY)
+  - Black‑eyed peas (APR–MAY)
+  - Lima beans → Butter beans (APR–MAY)
     - Never harvested green
     - Always full butter beans
-  - Peas (spring peas)
-  - Green onions
+  - Cucumbers (APR–MAY)
+  - Yellow crookneck squash (APR–MAY)
+  - Zucchini (APR–MAY)
+  - Cantaloupe (APR–MAY)
+  - Watermelon (APR–MAY)
+    - Yellow flesh
+    - Black Diamond red
+  - Tomatoes (APR–MAY)
+    - Beefsteak
+    - Cherry
+    - Cooking tomatoes (Rutgers / Celebrity / Better Boy / Homestead)
+  - Sweet bell peppers (APR–MAY)
+  - Red bell peppers (APR–MAY)
+  - Jalapeños (APR–MAY)
+  - Serranos (APR–MAY)
+  - Green chile (“Hatch,” but never called that) (APR–MAY)
+  - Cherry peppers (APR–MAY)
+  - Okra (MAY)
 
-- Harvest from Fall Over-Wintering
-  - Carrots (overwintered, MAR–APR)
+- Harvest in Spring
+  - Strictly bed prep and planting
+  - Strawberries (late APR-MAY)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Summer
 
@@ -388,38 +389,48 @@
   - Nothing
 
 - Harvest in Summer
-  - Kale (JUN–AUG)
-  - Spinach (JUN–JUL)
-  - Carrots (JUN–AUG)
-  - Beets (JUN–AUG)
-  - Peas (JUN)
-  - Potatoes (AUG)
-  - Onions — non‑overwintering varieties (JUL–AUG)
-  - Garlic (JUL–AUG)
-  - Yellow Storage Onions (JUL–AUG)
+  - Strawberries (MAY–JUN)
+  - Peas (MAY–JUN)
+  - Beets (MAY–JUN)
+  - Green onions (MAY–JUN)
+  - Radishes (MAY)
+  - Turnip greens (MAY)
+  - Snap green beans (JUN–JUL)
+  - Black‑eyed peas (JUN–JUL)
+  - Cucumbers (JUN–JUL)
+  - Yellow crookneck squash (JUN–JUL)
+  - Zucchini (JUN–JUL)
+  - Peaches (JUN–JUL)
+  - Plums (JUN–JUL)
+  - Tomatoes (JUN–AUG)
+  - Bell peppers (JUN–AUG)
+  - Jalapeños (JUN–AUG)
+  - Serranos (JUN–AUG)
+  - Green chile (JUN–AUG)
+  - Cherry peppers (JUN–AUG)
+  - Carrots (JUN)
+  - Celery (JUN)
+  - Corn (JUL–AUG)
+  - Okra (JUL–AUG)
+  - Cantaloupe (JUL–AUG)
+  - Watermelons (JUL–AUG)
+  - Butter beans (JUL)
+  - Pears (AUG)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Fall
 
 - Plant in Fall
-  - Garlic (SEP–OCT)
-  - Yellow Storage Onions (SEP–OCT)
-  - Winter rye - _***Cover Crop***_ (SEP–OCT)
-    - it protects the soil from erosion
-    - it prevents nutrient loss
-    - it suppresses weeds
-    - it adds organic matter when cut
-    - it improves spring planting beds
-    - cut before seeding
+  - Nothing
 
 - Harvest in Fall
-  - Potatoes (SEP–OCT)
-  - Beets (SEP–OCT)
-  - Corn (JUL-AUG)
-  - Carrots (SEP–OCT)
-  - Kale (SEP–NOV)
-  - Spinach (SEP–NOV)
-  - Peas (early SEP)
-  - Water Chestnuts (SEP–OCT)
+  - Okra (SEP)
+  - Pears (SEP)
+  - Late _*Peppers*_ (SEP)
+  - Late _*Tomatoes*_ (SEP)
+  - Late _*Melons*_ (SEP)
+  - Butter beans (SEP)
+  - Sweet Potatoes (SEP–NOV)
+  - Pecans (SEP–NOV)
 <!-- markdownlint-disable-next-line MD024 -->
 ### Wild Gathered
 

@@ -333,3 +333,10 @@ Corn is listed in both Spring Planting and High-Yield Production Crops due to it
   - Flour corn (dried and ground)
   - Roasting corn (shared with neighbors)
 - Corn served both household garden needs and large-scale production purposes.
+
+### Plant in Summer
+
+- None
+- Ranch does not plant in summer.
+- Exception: ONLY if a late frost killed a spring planting
+- Then the ranch may replant corn, beans, squash, or tomatoes in early June.
