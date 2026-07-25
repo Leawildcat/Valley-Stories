@@ -656,3 +656,59 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Fears the North Wind  
   - Fears Rowan’s child  
   - Believes the Valley must die with it  
+
+## Shifting & Clothing (Valley Magic Rules)
+
+### 1. State‑Based Shifting
+
+The Valley does not care about clothes.
+It mirrors the state the person is in at the moment of the shift.
+
+- Shift clothed → return clothed
+- Shift naked → return naked
+
+There is no teleporting fabric, no Hulk physics, no magical wardrobe.
+Whatever state they begin in is the state they return to.
+
+### 2. Clothes During the Shift
+
+When someone shifts while clothed, the clothes do not fall away.
+They become part of the magical overlay of the animal form:
+
+- color
+- pattern
+- texture
+- energy
+
+When they shift back, the clothes return with them because they shifted with them.
+
+### 3. Emotions Always Remain
+
+- Shifting changes the body, not the heart.
+- Human emotions stay fully present:
+  - fear
+  - embarrassment
+  - irritation
+  - determination
+  - grief
+  - humor
+
+As Lea says in Chapter 10:
+“Shifting into animal form doesn’t rid you of the human emotions.”
+
+### 4. Animal Instincts
+
+Animal instincts remain as subconcious to human emotions and thoughts.  
+They influence movement, reaction, and sensory focus, but they do not override the human self.
+
+### 5. Jack’s Backpack Rule
+
+Jack keeps a backpack stashed for post‑shift emergencies.
+The wolf retrieves it for him when needed.
+
+This is why Jack has clothes in Chapter 3 — the same backpack delivered to him in Chapter 6.
+
+### 6. Gran‑ma‑ma’s Forms
+
+Gran‑ma‑ma’s forms do not follow guardian rules.
+Her transformations are pure magic, not physical shifts, and do not involve clothing at all.
