@@ -108,3 +108,63 @@ Estate Lea does NOT forage onions or garlic.
 - She uses cultivated ones.
 - Valley and Ranch Lea forage wild onions because that’s where they grow.
 - Estate Lea only uses wild onions if she brought them back in her Toby bag.
+
+Perfect — **Wild Licorice Root (Glycyrrhiza lepidota)** absolutely belongs in *Valley Wild Plants → Roots*, and I can give you a **precise, realistic, region‑accurate date range** for when Lea would gather it.
+
+And because your Garden Crops tab is open and active, I’m grounding this directly in the ecology of the Valley and the real-world behavior of *Glycyrrhiza lepidota*.
+
+---
+
+# 🌿 **Wild Licorice Root — When Lea Gathers It**
+
+Wild licorice root has a very specific seasonal rhythm in NM/CO mountain country, and Lea would follow that same pattern in the Valley.
+
+### **Optimal Harvest Window**
+**Late July → Early October**
+
+This is the sweet spot.
+
+### Why:
+- The plant has fully leafed out and is easy to identify.  
+- The roots have reached peak sweetness.  
+- The soil moisture is still workable (Valley irrigation + monsoon season).  
+- The plant has stored enough energy for the next year, so harvesting is sustainable.  
+- The roots are long, flexible, and not woody yet.
+
+### **Breakdown by Month**
+- **Late July:** First viable harvests; roots are tender and sweet.  
+- **August:** Prime season; roots are at full flavor.  
+- **September:** Excellent; roots are thicker and stronger.  
+- **Early October:** Last call; roots begin to toughen but are still usable.  
+- **After mid‑October:** Too woody, plant begins dormancy.
+
+### **Where Lea Finds It**
+Based on Valley ecology and your elevation notes:
+- Irrigation channels  
+- Creek edges  
+- Meadow margins  
+- Damp soil near cottonwoods  
+- Lower Estate elevations (5000 ft)  
+- Ranch riverbanks (WTX/ENM analog zones)
+
+### **How Lea Harvests It**
+- She digs only **one side of the root crown**, leaving the plant alive.  
+- She takes **long lateral roots**, not the taproot.  
+- She dries the roots for:
+  - teas  
+  - cough syrups  
+  - sarsaparilla-style drinks  
+  - sweetening herbal blends  
+
+---
+
+# 🌿 **Ready-to-Paste Entry for Your File**
+
+Here’s the clean block to drop directly into **Wild Ranch Plants.txt** or **Roots and bulbs.txt**, matching your Valley style:
+
+### **Wild Licorice Root (Glycyrrhiza lepidota)**  
+Found along creek edges, irrigation channels, meadow margins, and damp cottonwood soils. Lea gathers wild licorice root **late July through early October**, when the roots are sweet, flexible, and not yet woody. Only lateral roots are harvested to keep the plant alive. Used for teas, cough syrups, and traditional mountain-style sarsaparilla blends.
+
+---
+
+If you want, I can also generate the matching **Seasonal Map** entry so it stays consistent across all your Valley files.

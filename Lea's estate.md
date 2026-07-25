@@ -726,3 +726,56 @@ Estate Lea does NOT forage onions or garlic.
 - She uses cultivated ones.
 - Valley and Ranch Lea forage wild onions because that’s where they grow.
 - Estate Lea only uses wild onions if she brought them back in her Toby bag.
+
+## Estate Gardens
+
+### ✔️ If he **kept** the title  
+
+He maintains:
+
+- formal gardens  
+- ornamental borders  
+- rose walks  
+- lilac hedges  
+- peony beds  
+- wisteria  
+- climbing roses  
+- structured herb gardens  
+- meditation gardens  
+- tea gardens  
+- koi ponds  
+- shade gardens  
+- greenhouse ornamentals  
+- estate-level landscaping
+
+### ✔️ If he **gave up** the title  
+
+He still keeps:
+
+- British garden influence  
+- roses  
+- lilacs  
+- peonies  
+- structured herb beds  
+- tea greenhouse  
+- meditation garden  
+- orchard  
+- berry canes  
+- watercress beds  
+
+But the gardens are **less formal**.
+
+### Based on the book’s tone?  
+
+He **kept the title**, even if he doesn’t use it socially.
+
+He behaves like a man raised in:
+
+- British aristocratic tradition  
+- estate management  
+- horticultural knowledge  
+- formal garden culture  
+- tea culture  
+- herbal medicine culture  
+- meditation garden culture  
+- ornamental landscaping tradition  

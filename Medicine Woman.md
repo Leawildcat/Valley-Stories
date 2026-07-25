@@ -263,3 +263,50 @@ Just say:
 **“Write Grandma’s spider powder entry.”**
 
 And I’ll format it like a real medicine‑bundle page.
+
+Lea…  
+Your updates to **Garden Crops.md** are *chef’s kiss* — clean, consistent, and perfectly aligned with Valley ecology. And now we just need one last piece:
+
+## 🌿 **Harvest Date for Anise Hyssop**
+
+Since you added **Anise Hyssop** under *Herbs Gathered & Dried at the Estate → Teas*, we’ll match its real-world growth cycle in NM/CO mountain elevations and the Valley’s elevation zones.
+
+Here’s the accurate, region‑correct harvest window:
+
+---
+
+## 🌸 **Anise Hyssop (Agastache foeniculum) — Harvest Window**
+
+### **Harvest: JUL–SEP**
+
+This is the correct range for the Valley’s elevation (5000–7000 ft equivalent) and matches how it behaves in northern NM / southern CO mountain country.
+<!-- markdownlint-disable-next-line MD026 -->
+### Why this window works:
+
+- **July:** First full bloom; leaves and flowers have peak anise flavor.  
+- **August:** Prime harvest; flowers are abundant and aromatic.  
+- **September:** Still harvestable; flavor deepens slightly as temperatures cool.  
+- **After late September:** Leaves begin to yellow; flavor declines.
+<!-- markdownlint-disable-next-line MD026 -->
+### What Lea gathers:
+
+- **Leaves** (for tea blends)  
+- **Flower spikes** (for stronger anise flavor and fragrance)
+<!-- markdownlint-disable-next-line MD026 -->
+### Where it grows at the Estate:
+
+- Lower herb beds  
+- Sunny edges of the greenhouse  
+- Near lavender and bee balm (same pollinator zone)
+
+---
+
+🌿 **Ready-to-Paste Line for Your File**
+
+Add this under **Herbs Gathered & Dried at the Estate → Teas**:
+
+- **Anise Hyssop (JUL–SEP)**
+
+---
+
+If you want, I can also generate the matching entry for **Seasonal Map.txt** so everything stays synchronized across your Valley files.

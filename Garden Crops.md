@@ -92,6 +92,7 @@
   - Wild Garlic (MAR–MAY)
   - Spring Beauty roots (APR–JUN)
   - Cattail roots (MAY–JUL)
+  - Wild Licorice Root (Glycyrrhiza lepidota) (JUL-OCT)
 
 - Wild Greens & Flowers (MAR–SEP)
   - Dandelion greens (MAR–JUN)
@@ -470,6 +471,8 @@
 - Ginger
 - Turmeric
 - Peppermint pot
+- Cardamom
+- Bay Laurel
 
 #### 2. Overwinter Supply
 
@@ -494,7 +497,21 @@
 - Rosemary (Both)
 - Thyme (Both)
 - Oregano (Both)
+- Dill (Both)
+- Greenhouse herbs grown at Ranch
+  - Lemongrass
+  - Lemon balm
+  - Basil
+  - Cilantro
+  - Parsley
 - Aloe vera (Aloe barbadensis) (Ranch)
+- Mint (Both)
+  - Estate Mint — small controlled patch near watercress beds (but not cultivated; encouraged)
+  - Ranch Mint — grows around water sources (faucets, stock tanks, windmills, playa lakes)
+  - Wild Mint — lake edges, irrigation channels
+  - Spearmint — meadows, naturalized
+  - Winter Mint — overwintering wild variety
+  - Peppermint — greenhouse-only, pot-grown at both Estate & Ranch
 
 ### Herbs Gathered & Dried at the Estate
 
@@ -518,16 +535,38 @@
   - Yarrow (JUN–AUG)
   - Dandelion Root (SEP–NOV)
   - Dandelion Leaf (SEP–OCT)
+  - Anise Hyssop (JUL-SEP)
 
 ---
 
 ## Mushrooms (Edible Only)
 
 ### Compost Heap
+
+- Compost Mushrooms
+  - Valley compost heap (APR–OCT)
+  - Appear in estate compost; used cautiously
+  - Ranch - never used
 <!-- markdownlint-disable-next-line MD024 -->
 ### Wild
 
-- Porcini Mushrooms
+- Porcini (Boletus edulis) — pine duff, cottonwood edges (JUL–SEP)
+- Morels (Morchella spp.) — creek edges, cottonwoods (APR–MAY)
+- Meadow Mushrooms (Agaricus campestris) — open meadows (JUN–SEP)
+- Puffballs (Calvatia spp.) — meadows, forest edges (AUG–OCT)
+- Store‑bought only due to safety concerns for the Ranch
+
+### Estate Mushroom Logs (Outdoor)
+
+- **Oyster mushrooms (Year-round)**
+- **Shiitake mushrooms (APR-NOV)**
+- Grown on hardwood/oak logs
+- Stacked in a shaded area behind or beside the greenhouse
+- Watered occasionally
+
+### Ranch (Store‑Bought + Rare Crate)
+
+- Button Mushrooms (Agaricus bisporus) — occasionally grown in porch crates (OCT–MAR)
 
 ---
 
