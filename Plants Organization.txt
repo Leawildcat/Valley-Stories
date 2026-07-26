@@ -397,10 +397,10 @@ If it is pretty to look at and smells it goes here.
 Otherwise all others follow the rules below.
 
 Rule 2: If a plant is medicinal → it is automatically scent–aesthetic.
-Because all medicinal flowering plants have blossoms.
+Because all medicinal flowering plants have blossoms and are assumed to have a scent.
 
 Rule 3: If a plant is edible → it is automatically scent–aesthetic.
-Because edible blossoms are still blossoms.
+Because edible blossoms are still blossoms and are assumed to have a scent.
 
 Rule 4: Edible ≠ medicinal
 Some edible blossoms have no medicinal use.
@@ -412,7 +412,40 @@ Rule 5: We duplicate entries across categories when appropriate.
 This keeps the file readable and consistent.
 
 Rule 6 — Date sorting is strict:
+Earliest to latest
 Sort by start month first, then end month.
 (MAR–SEP → APR–JUN → MAY–SEP → JUN–SEP → JUL–SEP → AUG–SEP)
+(MAR → MAR–APR → MAR–JUN → MAR–SEP → APR–SEP → MAY–JUN → MAY–SEP → JUN–SEP → AUG–SEP)
+Alphabetical for same dates.
 
-This is exactly how your Meadow section is already structured, so we continue that pattern.
+CATEGORY FLOWCHART
+
+Step 1 — Is it a flowering plant with a scent?
+YES → continue to Step 4
+
+NO → Step 2
+
+Step 2 — Is it a plant with a scent (but not a flowering plant)?
+YES → goes under PLANTS (not Flowers) and go to Step 4 to determine Edible, Medicinal, or Scent–Aesthetic
+
+NO → Step 3
+
+Step 3 — Is it a tree or shrub/bush that produces a flower before fruit/nut/seed?
+YES → Step 3a
+NO → Does not belong in the Flower-Plants.md. Goes in Trees-Shrubs.md and/or Garden Crops.md.
+
+Step 3a  — Is it used for medicinal purposes?
+YES → goes under Edible AND Medicinal as “___ blossoms”
+NO → goes under Edible as “___ blossom”
+
+
+Step 4 — If it IS a flowering plant or scent-bearing plant:
+
+Step 4a — Is it edible?
+
+Step 4b — Is it medicinal?
+
+YES to 4a & 4b → goes under BOTH Medicinal and Edible (as plant name)
+YES to 4a & NO to 4b → goes under Edible ONLY (as plant name)
+NO to 4a & YES to 4b → goes under Medicinal ONLY (as plant name)
+NO to 4a & 4b → goes under Scent–Aesthetic ONLY (as plant name)
