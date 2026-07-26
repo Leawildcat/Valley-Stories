@@ -5,6 +5,9 @@ Mainly used for scent profiles used in cannon.
 
 ## Flowers
 
+These are flowering plants with blossoms.  
+For individual parts (leaves, blossoms, roots) usage see the Sahbobuk.md
+
 ### Valley
 
 #### Meadow (MAR–SEP)
@@ -17,12 +20,6 @@ Mainly used for scent profiles used in cannon.
   - Indian Paintbrush (APR-JUN)
   - Lupine (MAY-JUL)
   - Scarlet Gilia (MAY-JUL)
-  - Honeysuckle blossoms (MAY–AUG)
-    - Not native; introduced long ago by Native inhabitants or birds
-    - The Valley accepted it and protects it
-    - Now naturalized and part of the Valley’s scent signature
-    - Nectar only enjoyed directly; not harvestable in bulk
-    - Near nothern entrance from BLM campsite
   - Prairie Coneflower (JUN-SEP)
   - Blanketflower (Gaillardia — JUN-SEP)
   - Wild Sunflowers (JUN-SEP)
@@ -31,6 +28,10 @@ Mainly used for scent profiles used in cannon.
   - Goldenrod (AUG-SEP)
 - Medicinal (sahbo)
   - Wild Violets (cooling, edible — MAR-MAY)
+  - Dandelion (MAR–SEP)
+  - White Clover (MAR–SEP)
+  - Plantain (MAR–SEP)
+  - Mallow (MAR–SEP)
   - Wild Roses (MAY-JUN)
   - Columbine (very limited traditional use — MAY-JUN)
   - Wild Chamomile (Pineapple Weed — MAY-JUL)
@@ -45,12 +46,23 @@ Mainly used for scent profiles used in cannon.
   - Wild Bergamot (Bee Balm — JUL-AUG)
 - Food / Edible Blossoms
   - Wild Violets (MAR–MAY)
+  - Dandelion (MAR–SEP)
+  - White Clover (MAR–SEP)
+  - Plantain (MAR–SEP)
+  - Mallow (MAR–SEP)
+  - Wild Strawberry (APR–JUN)
+  - Red Clover (APR–SEP)
   - Wild Rose Petals (MAY–JUN)
   - Wild Chamomile (Pineapple Weed — MAY–JUL)
   - Honeysuckle nectar (MAY–AUG)
   - Evening Primrose blossoms (MAY–SEP)
+  - Sage (MAY–SEP)
+  - Wild Mustard (MAY–SEP)
+  - Chicory (MAY–SEP)
   - Sweet Clover blossoms (JUN–SEP)
   - Fireweed blossoms (JUN–SEP)
+  - Wild Onion (JUN–SEP)
+  - Wild Garlic (JUN–SEP)
   - Wild Bergamot (Bee Balm — JUL–AUG)
 
 #### Areas Surrounding Meadow (Forest, River, BLM Campsite)
@@ -181,3 +193,56 @@ Mainly used for scent profiles used in cannon.
 - Cactus flowers  
 - Mesquite blossoms  
 - Wildflowers around tanks
+
+---
+
+## Plants
+
+### Valley
+
+#### Meadow (MAR–SEP)
+
+- Scent–Aesthetic
+  - Wild mint (JUL–SEP)
+- Medicinal (sahbo)
+  - Wild mint (JUL–SEP)
+- Food / Edible Blossoms
+  - Wild mint (JUL–SEP)
+
+#### Areas Surrounding Meadow (Forest, River, BLM Campsite)
+
+- Scent–Aesthetic
+- Medicinal (sahbo)
+- Food / Edible Blossoms
+
+### Estate
+
+#### Ornamental Garden
+
+- Scent–Aesthetic
+- Medicinal (sahbo)
+- Food / Edible Blossoms
+
+#### Meditation Garden
+
+- Scent–Aesthetic
+- Medicinal (sahbo)
+- Food / Edible Blossoms
+
+#### Tea Garden
+
+- Scent–Aesthetic
+- Medicinal (sahbo)
+- Food / Edible Blossoms
+
+#### Greenhouse Ornamentals
+
+- Scent–Aesthetic
+- Medicinal (sahbo)
+- Food / Edible Blossoms
+
+### Ranch
+
+- Scent–Aesthetic
+- Medicinal (sahbo)
+- Food / Edible Blossoms

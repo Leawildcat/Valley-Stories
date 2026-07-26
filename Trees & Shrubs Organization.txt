@@ -1,0 +1,209 @@
+Lea, **yes — Trees‑Shrubs.md needs to exist**, and you’re thinking exactly the right way about categories. But instead of just “conifers, hardwoods, fruits/nuts, other,” we can build a structure that actually matches how your valley works ecologically *and* how you use trees narratively.
+
+Here’s the clean, canon‑consistent structure that will keep your story bible organized, scalable, and continuity‑safe for publication.
+
+---
+
+# 🌳 **Trees‑Shrubs.md — Recommended Category Structure**
+
+## **1. Conifers**
+These are elevation‑dependent and appear in:
+- Forest zones  
+- High ridges  
+- BLM boundary  
+- Ranch windbreaks  
+
+Include:
+- Pines  
+- Spruce  
+- Fir  
+- Juniper  
+- Cedar  
+
+**Sub‑fields to include for each:**
+- Habitat zone  
+- Seasonal behavior  
+- Medicinal uses (sap, needles, resin)  
+- Wood uses  
+- Wildlife interactions  
+
+---
+
+## **2. Hardwoods**
+These dominate:
+- Valley floor  
+- Meadow edges  
+- Lake perimeter  
+- Estate landscaping  
+
+Include:
+- Maple  
+- Oak  
+- Birch  
+- Aspen  
+- Cottonwood  
+- Willow  
+
+**Sub‑fields:**
+- Habitat zone  
+- Seasonal leaf behavior  
+- Medicinal uses (bark, leaves)  
+- Wood uses  
+- Shade/windbreak roles  
+
+---
+
+## **3. Fruit & Nut Trees**
+These appear in:
+- Estate orchard  
+- Ranch orchard  
+- Wild pockets near meadow/lake  
+- Seasonal Map.txt references  
+
+Include:
+- Apple  
+- Plum  
+- Cherry  
+- Pear  
+- Walnut  
+- Pecan  
+- Hazelnut  
+
+**Sub‑fields:**
+- Bloom season  
+- Harvest season  
+- Edible parts  
+- Medicinal uses  
+- Wildlife interactions  
+
+---
+
+## **4. Shrubs & Bushes**
+This is where **berries.txt** integrates cleanly.
+
+Include:
+- Serviceberry  
+- Chokecherry  
+- Elderberry  
+- Hawthorn  
+- Wild rose (hips)  
+- Currants  
+- Gooseberries  
+
+**Sub‑fields:**
+- Habitat zone  
+- Edible parts  
+- Medicinal uses  
+- Seasonal behavior  
+
+---
+
+## **5. Lake & Riparian Trees**
+This is where mint, willow, cottonwood, alder, etc. connect to **Fish & Amphibians.md** and **Garden Crops.md**.
+
+Include:
+- Willow  
+- Cottonwood  
+- Alder  
+- Birch (water‑adjacent)  
+
+**Sub‑fields:**
+- Water interaction  
+- Soil stabilization  
+- Shade for fish habitat  
+- Medicinal uses  
+
+---
+
+## **6. Ranch Trees**
+These are functional:
+- Shade  
+- Windbreak  
+- Livestock shelter  
+- Fencepost wood  
+
+Include:
+- Cottonwood  
+- Elm  
+- Juniper  
+- Cedar  
+- Oak  
+
+**Sub‑fields:**
+- Ranch role  
+- Wood durability  
+- Seasonal behavior  
+
+---
+
+## **7. Estate Ornamental Trees**
+These are aesthetic and narrative:
+- Japanese maple  
+- Flowering cherry  
+- Magnolia  
+- Dogwood  
+
+**Sub‑fields:**
+- Bloom season  
+- Scent profile  
+- Landscaping role  
+
+---
+
+## **8. Medicinal Tree Parts**
+This section ties directly into **Medicine Woman.md** and sahbo lore.
+
+Include:
+- Willow bark  
+- Cottonwood buds  
+- Pine resin  
+- Juniper berries  
+- Birch bark  
+- Maple sap  
+
+---
+
+## **9. Edible Tree Parts**
+This ties into:
+- Garden Crops  
+- Wild Greens  
+- Ranch Notes  
+- Seasonal Map  
+
+Include:
+- Maple sap  
+- Birch sap  
+- Pine nuts  
+- Acorns  
+- Fruit blossoms (if used)  
+
+---
+
+## **10. Seasonal & Elevation Behavior**
+This section ties into:
+- Elevation Zones.txt  
+- Seasonal Map.txt  
+
+Include:
+- Leaf‑drop timing  
+- Bloom timing  
+- Snow load behavior  
+- Tree line elevation  
+- Conifer vs hardwood distribution  
+
+---
+
+# 🌲 **This structure keeps everything clean**
+- Trees get their own file  
+- Shrubs get their own section  
+- Berries integrate naturally  
+- Elevation and seasonal maps tie in  
+- Ranch and estate notes tie in  
+- Medicinal and edible uses are centralized  
+- No clutter in Flowers‑Plants.md  
+
+This is exactly how a professional story bible organizes flora.
+
+---
+
+If you want, I can generate the **starter skeleton** for Trees‑Shrubs.md so you can paste it in immediately.

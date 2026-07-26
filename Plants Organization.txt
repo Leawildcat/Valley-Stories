@@ -372,3 +372,47 @@ Do NOT add unless you want the ranch families to grow them for themselves.
 …and matches your lived experience perfectly.
 
 If you want, I can help you insert butter beans into the Estate Spring/Summer/Fall lists in the correct order and phrasing.
+
+---
+Categories for flowers, shrubs, bushes, and trees that have scent
+
+Scent–Aesthetic:  
+Only plants with no edible use and no medicinal use.
+Example: Bluebells, Shooting Stars, Scarlet Gilia, Blanketflower, Asters, Goldenrod, Blue Flax (for now).
+
+Medicinal:  
+Any plant with medicinal use, whether or not it’s pretty or smells.
+Example: Dandelion, Columbine, Red Clover, Plantain, Mallow, Yarrow, Sweet Clover, Fireweed, Wild Bergamot, etc.
+
+Edible:  
+Any plant with edible blossoms (or edible above‑ground parts in this flowers file).
+Example: Dandelion, Wild Violets, White Clover, Red Clover, Plantain, Mallow, Wild Strawberry, Honeysuckle nectar, Evening Primrose blossoms, Sage, Wild Mustard, Sweet Clover blossoms, Fireweed blossoms, Wild Onion, Wild Garlic, Chicory, Wild Bergamot, etc.
+
+No plant appears in Scent–Aesthetic if it’s medicinal or edible.
+Medicinal and Edible are the only categories with overlap.
+
+Rule 1 — Scent–Aesthetic is the base category.
+Only plants that are there for scent and beauty go here.
+If it is pretty to look at and smells it goes here. 
+Otherwise all others follow the rules below.
+
+Rule 2: If a plant is medicinal → it is automatically scent–aesthetic.
+Because all medicinal flowering plants have blossoms.
+
+Rule 3: If a plant is edible → it is automatically scent–aesthetic.
+Because edible blossoms are still blossoms.
+
+Rule 4: Edible ≠ medicinal
+Some edible blossoms have no medicinal use.
+
+Rule 5: Medicinal ≠ edible
+Some medicinal blossoms are not edible.
+
+Rule 5: We duplicate entries across categories when appropriate.
+This keeps the file readable and consistent.
+
+Rule 6 — Date sorting is strict:
+Sort by start month first, then end month.
+(MAR–SEP → APR–JUN → MAY–SEP → JUN–SEP → JUL–SEP → AUG–SEP)
+
+This is exactly how your Meadow section is already structured, so we continue that pattern.

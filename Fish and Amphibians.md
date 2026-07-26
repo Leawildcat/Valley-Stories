@@ -161,7 +161,7 @@
 ---
 
 ## River
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Fish
 
 - Brown trout (larger than lake fish)
@@ -206,11 +206,11 @@
   - Larger, darker, and more powerful than lake catfish
   - Large, slow, and powerful
   - Size: 18–30 inches
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Amphibians
 
 - Same as **Lake Amphibians**
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Cructaceans
   
 - Crayfish (Northern Crayfish)

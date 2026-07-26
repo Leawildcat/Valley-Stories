@@ -134,7 +134,7 @@
 ---
 
 ## Estate
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Winter
 
 - Plant in Winter
@@ -160,7 +160,7 @@
 
 - Harvest in Winter
   - Carrots (overwintered, DEC–FEB)
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Spring
 
 - **Winter rye** (MAR–APR)
@@ -198,7 +198,7 @@
 - Harvest from Fall Over-Wintering & Spring in Spring
   - Carrots (overwintered, MAR–APR)
   - Strawberries (first flush, late APR)
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Summer
 
 - Plant in Summer
@@ -241,7 +241,7 @@
   - Peaches (AUG)
   - Early Apples (AUG)
   - Early Pears (AUG)
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Fall
 
 - Plant in Fall
@@ -281,7 +281,6 @@
   - Watercress (SEP)
   - Pecans (OCT–NOV)
 
-<!-- markdownlint-disable-next-line MD024 -->
 ### Greenhouse
 
 - 2 Dwarf Lemon Trees
@@ -292,7 +291,7 @@
   - White tea
   - Oolong
 - 1 Dwarf Bergamot Orange (Earl Grey tea)
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Wild Gathered
 
 - Roots & Bulbs (MAR–JUL)
@@ -319,7 +318,7 @@
 ---
 
 ## Ranch
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Winter
 
 - Plant in Winter
@@ -336,7 +335,7 @@
 
 - Harvest in Winter
   - Pecans (DEC)
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Spring
 
 - Plant in Spring
@@ -378,7 +377,7 @@
 - Harvest in Spring
   - Strictly bed prep and planting
   - Strawberries (late APR-MAY)
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Summer
 
 - Plant in Summer
@@ -412,7 +411,7 @@
   - Watermelons (JUL–AUG)
   - Butter beans (JUL)
   - Pears (AUG)
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Fall
 
 - Plant in Fall
@@ -427,7 +426,7 @@
   - Butter beans (SEP)
   - Sweet Potatoes (SEP–NOV)
   - Pecans (SEP–NOV)
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Wild Gathered
 
 - Prickly Pear Cactus (Opuntia spp.)
@@ -458,7 +457,7 @@
 - Prairie Sage (Artemisia ludoviciana)
 - Plains Beebalm (Monarda pectinata)
 - Rabbit Tobacco (Pseudognaphalium obtusifolium)
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Greenhouse
 
 #### 1. Year‑Round
@@ -547,7 +546,7 @@
   - Valley compost heap (APR–OCT)
   - Appear in estate compost; used cautiously
   - Ranch - never used
-<!-- markdownlint-disable-next-line MD024 -->
+
 ### Wild
 
 - Porcini (Boletus edulis) — pine duff, cottonwood edges (JUL–SEP)
