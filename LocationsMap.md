@@ -267,7 +267,7 @@ It includes the lake, campfire, rocky outcrop, cavern, willow, meadow, copse of 
   - Compost heap located inside the garden
   - Mushrooms growing in the compost heap
   - Garden sits a short distance from the campfire and saddle bag station
-  - Garden is used to grow vegetables and tendedd through all seasons as long as Lea is resident in the valley
+  - Garden is used to grow vegetables and tended through all seasons as long as Lea is resident in the valley
 
 - **Canon:**  
   - Acts as Iris in the Valley eye metaphor

@@ -59,7 +59,7 @@ For individual parts (leaves, blossoms, roots) usage see the Sahbobuk.md
   - Wild Chamomile (Pineapple Weed — MAY–JUL)
   - Honeysuckle nectar (MAY–AUG)
   - Evening Primrose (MAY–SEP)
-  - Sage (MAY–SEP)
+  - Mountain Sage (MAY–SEP)
   - Wild Mustard (MAY–SEP)
   - Chicory (MAY–SEP)
   - Sweet Clover (JUN–SEP)
