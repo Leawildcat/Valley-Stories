@@ -78,7 +78,7 @@ For individual parts (leaves, blossoms, roots) usage see the Sahbobuk.md
   - Wild Onion (JUN–SEP)
   - Wild Bergamot (Bee Balm — JUL–AUG)
 
-#### Areas Surrounding Meadow (Forest, River, BLM Campsite)
+#### Areas Surrounding Meadow (Forest, River, Ridge)
 
 - Scent–Aesthetic
 - Medicinal (sahbo)
@@ -86,6 +86,13 @@ For individual parts (leaves, blossoms, roots) usage see the Sahbobuk.md
   - Currant Blossoms (MAY)
   - Wild Plum Blossoms (APR–MAY)
   - Wild Apple Blossoms (APR–MAY)
+
+#### BLM Campsite
+
+- Scent–Aesthetic
+  - Hood’s Phlox (Phlox hoodii — MAR–AUG)
+- Medicinal (sahbo)
+- Food / Edible Blossoms
 
 ### Estate
 
