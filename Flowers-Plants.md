@@ -80,12 +80,48 @@ For individual parts (leaves, blossoms, roots) usage see the Sahbobuk.md
 
 #### Areas Surrounding Meadow (Forest, River, Ridge)
 
+All flowers listed under Meadow are included except those that cannot tolerate partial shade or filtered light.
+This exception does NOT apply to flowers that grow in full sun at Cougar’s Ridge.
+
+- Meadown ONLY (Exceptions)
+  - Prairie Coneflower
+  - Blanketflower (Gaillardia)
+  - Wild Sunflowers
+  - Goldenrod
+  - Asters (tall prairie type)
+  - Blue Flax
+  - Scarlet Gilia
+  - Paintbrush hybrids
+  - Indian Paintbrush (optional)
+  - Harebells (optional)
 - Scent–Aesthetic
+  - Bluebells (APR–MAY)
+  - Woodland Phlox (APR–JUN)
+  - Mountain Lilac (MAY–JUL)
 - Medicinal (sahbo)
+  - Cottonwood Buds (MAR–APR)
+  - Willow Catkins (APR–MAY)
+  - Alder Catkins (APR–MAY)
+  - Oregon Grape Blossoms (APR–MAY)
+  - Wild Licorice Root Blossoms (MAY–JUN)
+  - Skunkbush Sumac Blossoms (MAY–JUL)
+  - Yampa Blossoms (MAY–JUL)
+  - Wild Mint Blossoms (JUL–SEP)
+  - Mountain Sage (JUN–SEP)
+  - Wild Bergamot (JUL–AUG)
+  - Rocky Mountain Bee Plant (JUN–SEP)
 - Food / Edible Blossoms
-  - Currant Blossoms (MAY)
-  - Wild Plum Blossoms (APR–MAY)
+  - Gooseberry Blossoms (APR–MAY)
   - Wild Apple Blossoms (APR–MAY)
+  - Wild Cherry Blossoms (APR–MAY)
+  - Wild Plum Blossoms (APR–MAY)
+  - Serviceberry Blossoms (APR–MAY)
+  - Currant Blossoms (MAY)
+  - Chokecherry Blossoms (MAY–JUN)
+  - Mountain Grape Blossoms (MAY–JUN)
+  - Rocky Mountain Bee Plant (JUN–SEP)
+  - Wild Bergamot (JUL–AUG)
+  - Wild Honeysuckle (MAY–AUG) SPECIAL CASE — nectar only
 
 #### BLM Campsite
 
