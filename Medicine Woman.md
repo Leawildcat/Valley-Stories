@@ -310,3 +310,52 @@ Add this under **Herbs Gathered & Dried at the Estate → Teas**:
 ---
 
 If you want, I can also generate the matching entry for **Seasonal Map.txt** so everything stays synchronized across your Valley files.
+
+---
+
+## 🌿 **WHITE CLOVER — medicinal**  
+
+White clover is used for:
+
+- mild anti‑inflammatory tea  
+- cough relief  
+- fever reduction  
+- digestive soothing  
+- poultices for minor skin irritation  
+
+It is a **traditional medicinal herb** in multiple North American systems.
+
+So it belongs in your **Medicinal (sahbo)** block.
+
+---
+
+## 🌸 **RED CLOVER — medicinal, but in a different category**
+
+Red clover is:
+
+- **stronger**  
+- **hormonal**  
+- **phytoestrogenic**  
+- used for **menopause support**  
+- used for **blood purification**  
+- used for **lymphatic support**  
+- used for **skin conditions**  
+- used for **respiratory support**  
+
+But here’s the key:
+
+### ⭐ Red Clover is NOT typically used in *field medicine*  
+
+It is used in:
+
+- long‑term tonics  
+- slow‑acting infusions  
+- specialized herbalism  
+- women’s medicine  
+- chronic conditions  
+
+NOT in:
+
+- quick meadow remedies  
+- emergency sahbo medicine  
+- everyday Valley healing  

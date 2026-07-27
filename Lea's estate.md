@@ -779,3 +779,10 @@ He behaves like a man raised in:
 - herbal medicine culture  
 - meditation garden culture  
 - ornamental landscaping tradition  
+
+---
+
+## Estate Apothecary
+
+- Basement storage rooom that sits adjacent to Root Cellar and near the Greenhouse.
+- Houses Lea's plants, herbs, etc. in jars and used to dry herbs and flowers for use in medicines, rituals, and other uses.
