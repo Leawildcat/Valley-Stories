@@ -393,14 +393,16 @@ Medicinal and Edible are the only categories with overlap.
 
 Rule 1 — Scent–Aesthetic is the base category.
 Only plants that are there for scent and beauty go here.
-If it is pretty to look at and smells it goes here. 
+If it is pretty to look at and smells and has no other use it goes here. 
 Otherwise all others follow the rules below.
 
 Rule 2: If a plant is medicinal → it is automatically scent–aesthetic.
 Because all medicinal flowering plants have blossoms and are assumed to have a scent.
+All plants under medicinal will be detailed in the Sahbobuk.md.
 
 Rule 3: If a plant is edible → it is automatically scent–aesthetic.
 Because edible blossoms are still blossoms and are assumed to have a scent.
+All edible plants will also be cross-referenced in the appropriate Story Bible.md (Trees, Plants, Fish, etc.)
 
 Rule 4: Edible ≠ medicinal
 Some edible blossoms have no medicinal use.
@@ -412,40 +414,168 @@ Rule 5: We duplicate entries across categories when appropriate.
 This keeps the file readable and consistent.
 
 Rule 6 — Date sorting is strict:
+Date ranges are when blossoms first appear, or leaves and/or roots/bulbs are edible/medicninal if no blossoms, through the last harvest date.
+Date rangers in the Flowers-Plant.md will differ from crops espicially where blossoms turn to fruits, nuts, or seeds.
 Earliest to latest
 Sort by start month first, then end month.
 (MAR–SEP → APR–JUN → MAY–SEP → JUN–SEP → JUL–SEP → AUG–SEP)
 (MAR → MAR–APR → MAR–JUN → MAR–SEP → APR–SEP → MAY–JUN → MAY–SEP → JUN–SEP → AUG–SEP)
 Alphabetical for same dates.
 
-CATEGORY FLOWCHART
-
-Step 1 — Is it a flowering plant with a scent?
-YES → continue to Step 4
-
-NO → Step 2
-
-Step 2 — Is it a plant with a scent (but not a flowering plant)?
-YES → goes under PLANTS (not Flowers) and go to Step 4 to determine Edible, Medicinal, or Scent–Aesthetic
-
-NO → Step 3
-
-Step 3 — Is it a tree or shrub/bush that produces a flower before fruit/nut/seed?
-YES → Step 3a
-NO → Does not belong in the Flower-Plants.md. Goes in Trees-Shrubs.md and/or Garden Crops.md.
-
-Step 3a  — Is it used for medicinal purposes?
-YES → goes under Edible AND Medicinal as “___ blossoms”
-NO → goes under Edible as “___ blossom”
+Rule 7 — Formatting the bullets under the headers:
+For all entries the formatting is this format:
+**Plant Name** (Date Range(s)); where ** are dropped and just designates where to put the plant name and does NOT mean bold it.
+Specific flowchart formats are listed between "__".
+Example: Wild mint (JUL–SEP)
+Keep naming consistent across Story Bible md files.
 
 
-Step 4 — If it IS a flowering plant or scent-bearing plant:
+CATEGORY FLOWCHART for Flower-Plants.md
 
-Step 4a — Is it edible?
+Step 1 — Elevation Check
 
-Step 4b — Is it medicinal?
+Step 1a — Does this plant normally grow at the elevation we are working on (see Elevation Zones.txt and LocationsMap.md)?
 
-YES to 4a & 4b → goes under BOTH Medicinal and Edible (as plant name)
-YES to 4a & NO to 4b → goes under Edible ONLY (as plant name)
-NO to 4a & YES to 4b → goes under Medicinal ONLY (as plant name)
-NO to 4a & 4b → goes under Scent–Aesthetic ONLY (as plant name)
+  YES → It is allowed in the Ranch or Estate. Go to Step 2
+  NO → Continue to Step 1b.
+
+Step 1b — Does the Valley’s bowl‑effect microclimate allow this plant to grow anyway?
+
+  YES → It is allowed in the Valley. Continue to Step 2
+  NO → It is excluded from all locations.
+
+Step 2 — Scent Check — Is it a plant with a scent?
+
+  YES → It is allowed. Go to Step 3
+  NO → Continue to Step 2a.
+
+Step 2a — Scent Check — Is it a fungi with a scent?
+
+  YES → It is allowed. Continue to Step 8
+  NO → Go to Step 5.
+
+Step 3 — Blossom Check — Is it a flowering plant with a scent?
+
+  YES → Go to Step 7
+  NO → Continue to Step 3a
+
+Step 3a — Blossom Check — Is it a flowering Tree, Shrub/Bush, Crop, or Aquatic/Ripirian plant with a scent?
+
+  YES → Go to Step 6
+  NO → Continue to Step 4
+
+Step 4 — Plant Check — Is it a plant with a scent (but not a flowering plant)?
+
+  YES → Goes under PLANTS (not Flowers header) and go to Step 7 to determine Edible, Medicinal, or Scent–Aesthetic
+  NO → Continue to Step 5
+
+Step 5 — Unscented Check — Is it a tree or shrub/bush?
+
+  YES → Goes in Trees-Shrubs.md.
+  NO →  Continue to Step 5a.
+
+Step 5a — Is it a Wild Crop or Herb?
+
+  YES →  Goes in Garden Crops.md.
+  NO → Continue to Step 5b.
+
+Step 5b — Is it Aquatic or Ripirian?
+
+  YES → Goes in Fish and Amphibians.md.
+  NO → Goes under UNSCENTED (not Plants or Flowers header) Continue to Step 5c.
+
+Step 5c — Medicinal Check — Is it used for medicinal purposes?
+
+  YES → goes under Medicinal as: "**plant name** (notes/genus — date range(s))".
+  NO → Goes under Present as: "**plant name** (notes/genus — date range(s)) — Chapter(s)" Chapter(s) where applicable.
+
+Step 6 — Tree/Shrub/Bush/Crop/Aquatic Check — Is it a tree or shrub/bush that produces a flower before fruit, nut, or seed?
+
+  YES → Continue to Step 6a
+  NO →  Go to Step 6c.
+
+Step 6a — Tree/Shrub/Bush Edible Check — Is the fruit, nut, or seed edible?
+
+  YES → Goes under Edible as “**plant name** Blossoms (notes/genus — date range(s))”. Continue to Step 6b for Medicinal check.
+  NO → Continue to Step 6b.
+
+Step 6b — Tree/Shrub/Bush Medicinal Check — Is it used for medicinal purposes?
+
+  YES → Goes under Medicinal as “**plant name** Blossoms (notes/genus — date range(s))”
+  NO → Goes under Scent–Aesthetic ONLY as: "**plant name** Blossoms (notes/genus — date range(s))" AND in Trees-Shrubs.md
+
+Step 6c — Crop Check — Is it a Wild Crop or Herb?
+
+  YES → Continue to Step 6d
+  NO →  Go to Step 6f.
+
+Step 6d — Crop Edible Check — Is any part of it edible?
+
+  YES → Goes under Edible as “**plant name** (notes/genus — date range(s))”. Continue to Step 6e for Medicinal check.
+  NO → Continue to Step 6e.
+
+Step 6e — Crop Medicinal Check — Is it used for medicinal purposes?
+
+  YES → Goes under Medicinal as “**plant name** (notes/genus — date range(s))”
+  NO → Goes under Scent–Aesthetic ONLY as: "**plant name** (notes/genus — date range(s))" AND in Garden Crops.md
+
+Step 6f — Aquatic/Ripirian Check — Is it aquatic or riparian?
+
+  YES → Continue to Step 6g
+  NO →  Goes under Scent–Aesthetic ONLY as: "**plant name** (notes/genus — date range(s))".
+
+Step 6g — Aquatic/Ripirian Edible Check — Is any part of it edible?
+
+  YES → Goes under Edible as “**plant name** (notes/genus — date range(s))”. Continue to Step 6h for Medicinal check.
+  NO → Continue to Step 6h.
+
+Step 6h — Aquatic/Ripirian Medicinal Check — Is it used for medicinal purposes?
+
+  YES → Goes under Medicinal as “**plant name** (notes/genus — date range(s))”
+  NO → Goes under Scent–Aesthetic ONLY as: "**plant name** (notes/genus — date range(s))" AND in Fish and Amphibians.md
+
+Step 7 — Edible Check — Is any part of it edible?
+
+  YES → Goes under Edible as “**plant name** (notes/genus — date range(s))”. Continue to Step 7a for Medicinal check AND in Garden Crops.md.
+  NO → Continue to Step 7a.
+
+Step 7a — Medicinal Check — Is it used for medicinal purposes?
+
+  YES → Goes under Medicinal as “**plant name** (notes/genus — date range(s))”
+  NO → Goes under Scent–Aesthetic ONLY as: "**plant name** (notes/genus — date range(s))"
+
+Step 8 — Fungi Edible Check — Is any part of it edible?
+
+  YES → Goes under Edible as “**plant name** (genus) — scent — location (date range(s))”. Continue to Step 8a for Medicinal check.
+  NO → Continue to Step 8a.
+
+Step 8a — Fungi Medicinal Check — Is it used for medicinal purposes?
+
+  YES → Goes under Medicinal as “**plant name** (genus) — scent — location (date range(s))”
+  NO → Goes under - Scent Only / Poisonous ONLY as: "**plant name** (genus) — scent — location (date range(s))" AND in Sahbobuk.md.
+
+---
+
+## 🌱 **Now the second part of your message: non‑scent plants**  
+You said:
+
+> “When we finish we are going to look at the chapters and decide if we need a non‑scent under plants for things like brambles.”
+
+Yes — and your instinct is correct.
+
+### Brambles do NOT belong in Flowers‑Plants.md  
+They belong in:
+- **Trees‑Shrubs/Bushes.md**  
+- OR a future **Non‑Scent Plants** section under Plants.md  
+- OR both, depending on how you structure the story bible
+
+Because:
+- Brambles have flowers, but they are not scent‑defining  
+- Their scent is negligible or irrelevant in canon  
+- Their importance is structural (thickets, barriers, habitat)  
+- Their importance is fruit‑based (berries), not blossom‑based  
+- Their scent profile is not used in rituals, medicine, or aesthetic descriptions
+
+So yes — brambles should be excluded from Flowers‑Plants.md.
+
+We’ll revisit this once Flowers‑Plants.md is finished.

@@ -1,0 +1,243 @@
+Gotcha, this is a good refinement move, not a side‑rail.
+
+### Where mushrooms go
+
+**Flowers‑Plants.md (scent bible):**
+
+Add a **third, small category**:
+
+- **Scent‑Bearing Fungi**  
+  - Morels  
+  - Chanterelles  
+  - Matsutake (if you decide they grow in any of the three locations)  
+  - **Optionally:** any poisonous mushrooms that:
+    - pass the elevation/microclimate check  
+    - have a strong, recognizable scent  
+    - are used in canon as *scent cues* (e.g., “he smelled the sharp, bitter mushroom and knew he was near the old oak”).
+
+These go here **only** because of scent.
+
+**Sahbobuk.md (medicine/ritual/food):**
+
+- All mushrooms, including:
+  - edible  
+  - poisonous  
+  - medicinal  
+  - “safe only when prepared correctly”
+
+This is where you note:
+
+- toxicity  
+- preparation methods  
+- antidotes  
+- rituals  
+- lineage notes  
+
+### Poisonous but scented mushrooms
+
+Your rule can be:
+
+- If **poisonous + strong scent + used as a scene cue** →  
+  - **Listed in Scent‑Bearing Fungi (Flowers‑Plants.md)**  
+  - Fully detailed in **Sahbobuk.md**
+
+- If **poisonous + weak scent / not used in scenes** →  
+  - **Sahbobuk.md only**, not in the scent bible.
+
+We don’t need a separate “poisonous” category in Flowers‑Plants.md—just note toxicity in Sahbobuk and keep the scent file focused on what characters can smell in Valley, Estate, and Ranch.
+
+Short answer: **yes — some mushrooms absolutely have scent**, but only a *few* of them are strong enough to matter for **Flowers‑Plants.md**, and most of them belong in **Sahbobuk.md** instead because their scent is medicinal, culinary, or environmental rather than “floral.”
+
+And I’m staying right here in **Elevation Zones.txt** with you — no drifting into other tabs unless you tell me.
+
+Here’s the clean breakdown you need for the flowchart.
+
+---
+
+# 🍄 **Do any mushrooms have a scent? (Canon‑accurate answer)**
+
+### ✔ **Yes — but only a few have a scent strong enough to be relevant.**  
+Most mushrooms have **very faint**, **earthy**, **mineral**, or **forest‑floor** smells that are not used as scent cues in scenes.
+
+But some mushrooms have **distinct, recognizable scents**:
+
+### **1. Morels**  
+- Strong earthy, nutty scent  
+- Recognizable even before you see them  
+- Used in cooking  
+- Scent is part of their identity  
+- **Canon‑relevant** if the Valley supports them
+
+### **2. Chanterelles**  
+- Apricot‑like scent  
+- Sweet, fruity, unmistakable  
+- Very strong when fresh  
+- **Canon‑relevant** if they grow in the Valley’s bowl microclimate
+
+### **3. Oyster Mushrooms**  
+- Mild anise scent  
+- Subtle but distinct  
+- More culinary than environmental  
+- **Probably Sahbobuk.md**, not Flowers‑Plants.md
+
+### **4. Matsutake**  
+- Spicy, cinnamon‑pine scent  
+- Extremely strong  
+- Highly distinctive  
+- **Canon‑relevant** if the Valley supports them  
+- Could be used as a scent cue in forest scenes
+
+### **5. Shaggy Mane / Ink Cap**  
+- Slightly inky, earthy scent  
+- Not strong enough for scent cues  
+- **Sahbobuk.md only**
+
+### **6. Puffballs**  
+- Very mild scent  
+- Not scene‑relevant  
+- **Sahbobuk.md only**
+
+### **7. Porcini**  
+- Deep, savory, forest‑floor scent  
+- Strong when dried  
+- **Medicinal/cooking**, not scene scent  
+- **Sahbobuk.md**
+
+---
+
+# 🌿 **Where mushrooms belong in your canon**
+
+### **Flowers‑Plants.md (Scent Bible)**  
+Only mushrooms with **strong, scene‑relevant scents** belong here.
+
+That means:
+
+- **Morels** (earthy, nutty)  
+- **Chanterelles** (apricot)  
+- **Matsutake** (spicy pine)
+
+These could be used in writing like:
+
+> *He smelled the apricot sweetness of chanterelles and knew he was close to the forest pocket.*
+
+or
+
+> *The spicy pine scent of matsutake told him the ridge shelf was just ahead.*
+
+These are **scent cues**.
+
+### **Sahbobuk.md (Medicinal / Culinary / Ritual)**  
+ALL mushrooms belong here for:
+
+- medicinal uses  
+- food uses  
+- drying  
+- preservation  
+- rituals  
+- lineage notes  
+- sketches  
+- toxicity warnings  
+- habitat notes  
+- preparation methods  
+
+This is where the mushroom encyclopedia lives.
+
+### **Trees‑Shrubs/Bushes.md or Plants Organization.txt**  
+Mushrooms do **not** belong here.
+
+---
+
+# 🌄 **Flowchart Integration (your new Step 2)**
+
+### **Step 1: Will it grow at this elevation?**  
+(Using Valley bowl microclimate rules)
+
+### **Step 2: Does it have a scent?**  
+- If **no**, it does NOT belong in Flowers‑Plants.md.  
+- If **yes**, continue.
+
+### **Step 3: Is the scent strong enough to be a scene cue?**  
+This is the new rule mushrooms need.
+
+Because:
+
+- Morels = yes  
+- Chanterelles = yes  
+- Matsutake = yes  
+- Oyster = no  
+- Puffball = no  
+- Shaggy Mane = no  
+- Porcini = borderline → likely no for scent bible
+
+This prevents clutter and keeps Flowers‑Plants.md clean.
+
+---
+
+# 🌟 **You’re doing this exactly right.**  
+You’re refining the flowchart so it works for:
+
+- meadow  
+- surrounding areas  
+- forest  
+- ridge  
+- riparian  
+- outcrop  
+- campsite  
+- ranch  
+- estate garden  
+- greenhouse  
+- tea garden  
+
+And you’re preventing the scent bible from turning into a plant encyclopedia.
+
+Whenever you’re ready, show me the updated flowchart steps and I’ll help you refine them — cleanly, without drifting, and without waking Brent’s newspaper.
+
+---
+
+Gotcha, this is a good refinement move, not a side‑rail.
+
+### Where mushrooms go
+
+**Flowers‑Plants.md (scent bible):**
+
+Add a **third, small category**:
+
+- **Scent‑Bearing Fungi**  
+  - Morels  
+  - Chanterelles  
+  - Matsutake (if you decide they grow in any of the three locations)  
+  - **Optionally:** any poisonous mushrooms that:
+    - pass the elevation/microclimate check  
+    - have a strong, recognizable scent  
+    - are used in canon as *scent cues* (e.g., “he smelled the sharp, bitter mushroom and knew he was near the old oak”).
+
+These go here **only** because of scent.
+
+**Sahbobuk.md (medicine/ritual/food):**
+
+- All mushrooms, including:
+  - edible  
+  - poisonous  
+  - medicinal  
+  - “safe only when prepared correctly”
+
+This is where you note:
+
+- toxicity  
+- preparation methods  
+- antidotes  
+- rituals  
+- lineage notes  
+
+### Poisonous but scented mushrooms
+
+Your rule can be:
+
+- If **poisonous + strong scent + used as a scene cue** →  
+  - **Listed in Scent‑Bearing Fungi (Flowers‑Plants.md)**  
+  - Fully detailed in **Sahbobuk.md**
+
+- If **poisonous + weak scent / not used in scenes** →  
+  - **Sahbobuk.md only**, not in the scent bible.
+
+We don’t need a separate “poisonous” category in Flowers‑Plants.md—just note toxicity in Sahbobuk and keep the scent file focused on what characters can smell in Valley, Estate, and Ranch.

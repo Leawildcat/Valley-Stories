@@ -204,3 +204,53 @@ Thistle (Cirsium) — JUN–SEP
 - Part of the Valley’s scent signature in late summer, blending with clover and mint  
 
 ---
+
+## 🌿 **Wild Sage = Dual‑Category Plant (Scent‑Hybrid)**  
+Here’s the clean rule you just articulated:
+
+### **1. Sage has a scent even when not blooming.**  
+That’s leaf‑based, resin‑based, herbal.  
+This belongs in **Non‑Flowering Scent Plants**.
+
+### **2. But when sage *is* blooming, the blossoms amplify the scent so strongly that the bloom period becomes a distinct scent profile.**  
+That’s blossom‑based, seasonal, floral‑enhanced.  
+This belongs in **Flowering Scent Plants**.
+
+So Wild Sage is a **hybrid** — a plant that legitimately belongs in *both* categories because:
+
+- It has a **baseline scent** (leaves/stems)  
+- It has a **bloom‑enhanced scent** (flowers)  
+- The bloom scent is strong enough to be considered its own profile  
+- The bloom scent is *not* just “baby leaves” like mint  
+- The bloom scent changes how the plant interacts with the environment (you smell sage bloom before you see it)
+
+This is canon‑consistent and matches how you’ve described it in the Valley.
+
+### ✔ This means Wild Sage gets two entries:
+- **Non‑Flowering Scent Plants:** “Wild Sage — leaf/resin scent (year‑round presence)”  
+- **Flowering Scent Plants:** “Wild Sage Blossoms — amplified sage scent (MAY–SEP)”  
+
+This is not duplication — it’s classification by scent source.
+
+Mint does **not** get this dual treatment because its flowers don’t change the scent profile.  
+Sage does.
+
+So we now have our first **special rule** for Flowers‑Plants.md:
+
+---
+
+## 🌼 **Special Rule: Scent‑Hybrid Plants**  
+Some plants produce a scent from leaves/stems *and* a distinct scent from blossoms.  
+These plants appear in **both** categories.
+
+Criteria:
+- Leaf/stem scent is strong enough to classify independently  
+- Blossom scent is strong enough to classify independently  
+- Blossom scent is *not* merely an extension of the leaf scent  
+- Bloom period creates a noticeable environmental scent shift  
+- Bloom scent is used in canon (ritual, aesthetic, or food)
+
+Examples (conceptual only):
+- Wild Sage  
+- Possibly Wild Bergamot (depending on how you classify leaf vs blossom scent)  
+- Possibly Bee Plant (if you decide its bloom scent is distinct)

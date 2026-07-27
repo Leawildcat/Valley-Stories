@@ -257,6 +257,9 @@ This exception does NOT apply to flowers that grow in full sun at Cougar’s Rid
 
 ## Plants
 
+Scented plants that generally do not have flowers where the leaves, stems, bark produce the scent.
+Some exceptions exist where a plant has flowers that either changes the scent profile or makes it stronger; ie. Wild Sage.
+
 ### Valley
 
 #### Meadow (MAR–SEP)
@@ -268,9 +271,16 @@ This exception does NOT apply to flowers that grow in full sun at Cougar’s Rid
 - Food / Edible Blossoms
   - Wild mint (JUL–SEP)
 
-#### Areas Surrounding Meadow (Forest, River, BLM Campsite)
+#### Areas Surrounding Meadow (Forest, River, Ridge)
 
 - Scent–Aesthetic
+- Medicinal (sahbo)
+- Food / Edible Blossoms
+
+#### BLM Campsite
+
+- Scent–Aesthetic
+  - Hood’s Phlox (Phlox hoodii — MAR–AUG)
 - Medicinal (sahbo)
 - Food / Edible Blossoms
 
@@ -305,3 +315,119 @@ This exception does NOT apply to flowers that grow in full sun at Cougar’s Rid
 - Scent–Aesthetic
 - Medicinal (sahbo)
 - Food / Edible Blossoms
+
+---
+
+## Scent‑Bearing Fungi
+
+Edible and Poisonous fungi which have a strong scent and can be used as a scene cue.  
+Detailed information can be found in the Sahbobuk.md; Small notes are allowed.
+Edible fungi are cross-referenced under Mushrooms in the Garden Crops.md.
+
+### Valley
+
+#### Meadow
+
+- Scent Only / Poisonous
+- Medicinal (sahbo)
+- Food / Edible
+
+#### Areas Surrounding Meadow (Forest, River, Ridge)
+
+- Scent Only / Poisonous
+- Medicinal (sahbo)
+- Food / Edible
+  - Morels (Morchella spp.) — earthy, nutty, strong — creek edges, cottonwoods (APR–MAY)
+  - Porcini (Boletus edulis) — Deep, savory, forest‑floor scent, strong when dried — pine duff, cottonwood edges (JUL–SEP)
+
+#### BLM Campsite
+
+- Scent Only / Poisonous
+- Medicinal (sahbo)
+- Food / Edible
+
+### Estate
+
+#### Ornamental Garden
+
+- Scent Only / Poisonous
+- Medicinal (sahbo)
+- Food / Edible
+
+#### Meditation Garden
+
+- Scent Only / Poisonous
+- Medicinal (sahbo)
+- Food / Edible
+
+#### Tea Garden
+
+- Scent Only / Poisonous
+- Medicinal (sahbo)
+- Food / Edible
+
+#### Greenhouse Ornamentals
+
+- Scent Only / Poisonous
+- Medicinal (sahbo)
+- Food / Edible
+
+### Ranch
+
+- Scent Only / Poisonous
+- Medicinal (sahbo)
+- Food / Edible
+
+---
+
+## Unscented Plants
+
+Plants relevant to the cannon that do NOT have a Scent Profile and are NOT already in another Story Bible file such as Garden Crops.md or Trees-Shrubs.md
+Examples: Brambles, Ivy, Poison Oak, etc.
+Detailed information for Medicinal uses can be found in the Sahbobuk.md; Small notes are allowed.
+
+### Valley
+
+#### Meadow (MAR–SEP)
+
+- Medicinal (sahbo)
+- Present
+
+#### Areas Surrounding Meadow (Forest, River, Ridge)
+
+- Medicinal (sahbo)
+- Present
+  - Poison Oak — Chapter 3
+  - Brambles — Chapters 1 & 3
+
+#### BLM Campsite
+
+- Medicinal (sahbo)
+- Present
+
+### Estate
+
+#### Ornamental Garden
+
+- Medicinal (sahbo)
+- Present
+
+#### Meditation Garden
+
+- Medicinal (sahbo)
+- Present
+
+#### Tea Garden
+
+- Medicinal (sahbo)
+- Present
+
+#### Greenhouse Ornamentals
+
+- Medicinal (sahbo)
+- Present
+
+### Ranch
+
+- Medicinal (sahbo)
+- Present
