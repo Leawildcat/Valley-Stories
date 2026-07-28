@@ -6,29 +6,30 @@ Mainly used for scent profiles used in cannon.
 ## Flowers
 
 These are flowering plants with blossoms.  
+🌾 Meadow ONLY flowers that need full sun.  
 For individual parts (leaves, blossoms, roots) usage see the Sahbobuk.md
 
 ### Valley
 
-#### Meadow (MAR–SEP)
+#### Meadow
 
 - Scent–Aesthetic
-  - Blue Flax (MAR-SEP)
+  - 🌾 Blue Flax (MAR-SEP)
   - Bluebells (APR-MAY)
   - Shooting Stars (APR-MAY)
-  - Paintbrush hybrids (APR-JUN)
-  - Indian Paintbrush (APR-JUN)
+  - 🌾 Paintbrush hybrids (APR-JUN)
+  - 🌾 Indian Paintbrush (APR-JUN)
   - Blue-eyed Grass (APR–JUN)
   - Lupine (MAY-JUL)
-  - Scarlet Gilia (MAY-JUL)
+  - 🌾 Scarlet Gilia (MAY-JUL)
   - Wild Phlox (MAY–JUL)
-  - Prairie Coneflower (JUN-SEP)
-  - Blanketflower (Gaillardia — JUN-SEP)
-  - Wild Sunflowers (JUN-SEP)
-  - Harebells (JUN-SEP)
-  - Asters (AUG-OCT)
-  - Goldenrod (AUG-OCT)
-- Medicinal (sahbo)
+  - 🌾 Prairie Coneflower (JUN-SEP)
+  - 🌾 Blanketflower (Gaillardia — JUN-SEP)
+  - 🌾 Wild Sunflowers (JUN-SEP)
+  - 🌾 Harebells (JUN-SEP)
+  - 🌾 Asters (tall prairie type — AUG-OCT)
+  - 🌾 Goldenrod (AUG-OCT)
+- Medicinal (Sahbobuk)
   - Wild Violets (cooling, edible — MAR-MAY)
   - Dandelion (MAR–SEP)
   - Plantain (MAR–SEP)
@@ -78,27 +79,16 @@ For individual parts (leaves, blossoms, roots) usage see the Sahbobuk.md
   - Wild Onion (JUN–SEP)
   - Wild Bergamot (Bee Balm — JUL–AUG)
 
-#### Areas Surrounding Meadow (Forest, River, Ridge)
+#### Areas Surrounding Meadow (Forest, River, Ridgeline)
 
-All flowers listed under Meadow are included except those that cannot tolerate partial shade or filtered light.
-This exception does NOT apply to flowers that grow in full sun at Cougar’s Ridge.
+All flowers listed under Meadow are included except those marked as Meadow ONLY.
+This exception does NOT apply to flowers that grow in full sun at Cougar’s Ridge, because the ridge has a clearing that would support meadow-only plants.
 
-- Meadown ONLY (Exceptions)
-  - Prairie Coneflower
-  - Blanketflower (Gaillardia)
-  - Wild Sunflowers
-  - Goldenrod
-  - Asters (tall prairie type)
-  - Blue Flax
-  - Scarlet Gilia
-  - Paintbrush hybrids
-  - Indian Paintbrush (optional)
-  - Harebells (optional)
 - Scent–Aesthetic
   - Bluebells (APR–MAY)
   - Woodland Phlox (APR–JUN)
   - Mountain Lilac (MAY–JUL)
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
   - Cottonwood Buds (MAR–APR)
   - Willow Catkins (APR–MAY)
   - Alder Catkins (APR–MAY)
@@ -127,7 +117,7 @@ This exception does NOT apply to flowers that grow in full sun at Cougar’s Rid
 
 - Scent–Aesthetic
   - Hood’s Phlox (Phlox hoodii — MAR–AUG)
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 ### Estate
@@ -135,7 +125,7 @@ This exception does NOT apply to flowers that grow in full sun at Cougar’s Rid
 #### Ornamental Garden
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 - Roses (multiple varieties)  
@@ -168,7 +158,7 @@ This exception does NOT apply to flowers that grow in full sun at Cougar’s Rid
 #### Meditation Garden
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 - Moss beds  
@@ -188,7 +178,7 @@ This exception does NOT apply to flowers that grow in full sun at Cougar’s Rid
 #### Tea Garden
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 - Camellia sinensis (already listed)  
@@ -209,7 +199,7 @@ This exception does NOT apply to flowers that grow in full sun at Cougar’s Rid
 #### Greenhouse Ornamentals
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 - Tea plants  
@@ -233,7 +223,7 @@ This exception does NOT apply to flowers that grow in full sun at Cougar’s Rid
 ### Ranch
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 - Marigolds
@@ -266,7 +256,7 @@ Some exceptions exist where a plant has flowers that either changes the scent pr
 
 - Scent–Aesthetic
   - Wild mint (JUL–SEP)
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
   - Wild mint (JUL–SEP)
 - Food / Edible Blossoms
   - Wild mint (JUL–SEP)
@@ -274,14 +264,14 @@ Some exceptions exist where a plant has flowers that either changes the scent pr
 #### Areas Surrounding Meadow (Forest, River, Ridge)
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 #### BLM Campsite
 
 - Scent–Aesthetic
   - Hood’s Phlox (Phlox hoodii — MAR–AUG)
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 ### Estate
@@ -289,31 +279,31 @@ Some exceptions exist where a plant has flowers that either changes the scent pr
 #### Ornamental Garden
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 #### Meditation Garden
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 #### Tea Garden
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 #### Greenhouse Ornamentals
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 ### Ranch
 
 - Scent–Aesthetic
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
 ---
@@ -329,13 +319,13 @@ Edible fungi are cross-referenced under Mushrooms in the Garden Crops.md.
 #### Meadow
 
 - Scent Only / Poisonous
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible
 
 #### Areas Surrounding Meadow (Forest, River, Ridge)
 
 - Scent Only / Poisonous
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible
   - Morels (Morchella spp.) — earthy, nutty, strong — creek edges, cottonwoods (APR–MAY)
   - Porcini (Boletus edulis) — Deep, savory, forest‑floor scent, strong when dried — pine duff, cottonwood edges (JUL–SEP)
@@ -343,7 +333,7 @@ Edible fungi are cross-referenced under Mushrooms in the Garden Crops.md.
 #### BLM Campsite
 
 - Scent Only / Poisonous
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible
 
 ### Estate
@@ -351,31 +341,31 @@ Edible fungi are cross-referenced under Mushrooms in the Garden Crops.md.
 #### Ornamental Garden
 
 - Scent Only / Poisonous
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible
 
 #### Meditation Garden
 
 - Scent Only / Poisonous
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible
 
 #### Tea Garden
 
 - Scent Only / Poisonous
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible
 
 #### Greenhouse Ornamentals
 
 - Scent Only / Poisonous
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible
 
 ### Ranch
 
 - Scent Only / Poisonous
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Food / Edible
 
 ---
@@ -390,44 +380,44 @@ Detailed information for Medicinal uses can be found in the Sahbobuk.md; Small n
 
 #### Meadow (MAR–SEP)
 
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Present
 
 #### Areas Surrounding Meadow (Forest, River, Ridge)
 
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Present
   - Poison Oak — Chapter 3
   - Brambles — Chapters 1 & 3
 
 #### BLM Campsite
 
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Present
 
 ### Estate
 
 #### Ornamental Garden
 
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Present
 
 #### Meditation Garden
 
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Present
 
 #### Tea Garden
 
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Present
 
 #### Greenhouse Ornamentals
 
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Present
 
 ### Ranch
 
-- Medicinal (sahbo)
+- Medicinal (Sahbobuk)
 - Present

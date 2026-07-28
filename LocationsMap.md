@@ -7,6 +7,31 @@ It includes the lake, campfire, rocky outcrop, cavern, willow, meadow, copse of 
 
 **Adjacent Valley Features** (BLM campsite, Cougar Ridge, and the surrounding forest) are directly connected to the Valley and function as part of its geography, though they sit just outside the inner bowl.
 
+**Valley Rings**  
+The concentric shape of the valley from the center outward.
+Rings 1, 2, and inner 1/2 of 3 share the same microclimate pocket.
+Climate begins to shift in Ring 3 and fully changes in the Outer Ring.
+
+1. Center — Lake and Rocky Outcrop with Hidden Cavern
+
+2. Ring 1 — Campsite, Campfire, and Meadow  
+   (the Valley floor and warm microclimate pocket)
+
+3. Ring 2 — Forest Ring  
+   (the forest surrounds the Meadow; its outer edge approaches the BLM campsite but does not include it)
+   (Extends outward until the River. Still part of the Valley microclimate pocket.)
+
+4. River (Boundary Line)  
+   (Not part of Ring 2 or Ring 3.)
+   (Crossing it changes the ring.)
+
+5. Ring 3 — BLM Campsite, outer forest edge, steep slopes, and ridgelines  
+   (transition zone between forest and high-elevation slopes)
+   (Valley microclimate pocket effect ends roughly half-way through the ring.)
+
+6. Outer Ring — Frank’s place on top of Cougar Ridge and the bowl’s cliff walls  
+   (highest elevation, wind-exposed zone, full climate shift)
+
 ### A. The Valley Proper
 
 - **Location:**
