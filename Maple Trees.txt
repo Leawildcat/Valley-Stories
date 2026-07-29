@@ -27,6 +27,62 @@ There are **three** realistic candidates:
 - Sap is weaker than sugar maple but still sweet  
 - Indigenous groups used it
 
+Alright Lea — here’s the clean, no‑drift, no‑professor answer:
+
+## 🌳 **Rocky Mountain Maple Blossoms go in:  
+### → “Areas Surrounding Meadow”  
+### → under the *Food / Edible Blossoms* sub‑header**
+
+And here’s **why**, based strictly on your rules + flowchart + the file structure in Flowers‑Plants.md:
+
+---
+
+# ✔️ **1. It is NOT Meadow‑ONLY**  
+Rocky Mountain Maple grows:
+
+- along the **river**  
+- in the **forest ring**  
+- in the **ridgeline forest**
+
+All of these fall under the **Areas Surrounding Meadow** header.
+
+So it does **not** get the 🌾 emoji.
+
+---
+
+# ✔️ **2. It HAS blossoms**  
+Maple blossoms are:
+
+- small  
+- yellowish  
+- clustered  
+- present in spring
+
+So it qualifies for Flowers‑Plants.md.
+
+---
+
+# ✔️ **3. The blossoms ARE scented**  
+They have a mild sweet scent.
+
+So they belong in the **Scent–Aesthetic** section.
+
+---
+
+# ✔️ **4. The blossoms ARE edible**  
+Maple blossoms are edible raw or cooked.
+
+So they ALSO belong in **Food / Edible Blossoms**.
+
+---
+
+# ✔️ **5. The blossoms ARE medicinal**  
+Traditional use:
+
+- anti‑inflammatory  
+- mild astringent  
+- spring tonic
+
 ### **2. Boxelder (Acer negundo)**  
 - A maple species  
 - Found in riparian areas  
