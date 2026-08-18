@@ -525,6 +525,7 @@
   - Blackberry Leaf (APR–MAY)
   - Blueberry Leaf (APR–MAY)
   - Mountain Grape Leaf (APR–MAY)
+  - Lemon Verbena (Aloysia citrodora - APR–SEP)
   - Elderflower (JUN)
   - Elderberry (AUG)
   - Rose Petals (MAY–JUN)

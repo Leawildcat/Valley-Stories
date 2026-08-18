@@ -786,3 +786,35 @@ He behaves like a man raised in:
 
 - Basement storage rooom that sits adjacent to Root Cellar and near the Greenhouse.
 - Houses Lea's plants, herbs, etc. in jars and used to dry herbs and flowers for use in medicines, rituals, and other uses.
+
+---
+
+### Meditation Garden
+
+A meditation garden is:
+
+- quiet
+- shaded
+- white‑flowered
+- moonlit
+- fragrant at night
+- simple
+- uncluttered
+- built around stillness
+
+It’s not meant to be a “garden full of plants.”
+It’s meant to be a place where Lea can breathe.
+
+- Moss beds
+- Shade trees
+- Stone lanterns
+- Water feature
+- Ferns
+- Hostas
+- White flowers only (moon garden style)
+- Jasmine
+- White roses
+- White lilac
+- White peony
+- Evening primrose
+- Night-blooming flowers
