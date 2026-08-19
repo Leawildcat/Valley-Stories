@@ -22,17 +22,12 @@ This is your fully built aquatic ecosystem — river, lake, bend, marsh, seasona
 
 ### 4. Flowers‑Plants.md
 
-**Our current project as of July 28, 2026**  
+**Our current project as of August 19, 2026**  
 This is the one we’re actively filling out zone by zone:
 
-- Meadow  
-- Surrounding Meadow  
-- Ridge  
-- Forest Ring  
-- River  
-- BLM Campsite  
-- Ranch  
-- Estate  
+- Scented Plants  
+- Scented Fungi
+- Unscented Plants but present in the canon
 
 ### 5. Garden Crops.md
 

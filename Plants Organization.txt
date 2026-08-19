@@ -579,3 +579,16 @@ Because:
 So yes — brambles should be excluded from Flowers‑Plants.md.
 
 We’ll revisit this once Flowers‑Plants.md is finished.
+
+---
+
+Ferns (Maidenhair & Boston)
+- Bloom: N/A
+- Harvest: N/A
+- Scent: None
+- Notes:
+  - Grown as houseplants around the Estate
+  - Shade‑loving greenery
+  - Not classified as flowers
+  - Not part of the ornamental blossom program
+  - May be propagated in the greenhouse but not listed under flower sections

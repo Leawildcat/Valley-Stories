@@ -818,3 +818,130 @@ It’s meant to be a place where Lea can breathe.
 - White peony
 - Evening primrose
 - Night-blooming flowers
+
+---
+
+## **ESTATE → FLOWERS → ORNAMENTAL GREENHOUSE (Corrected Version)**
+
+### **Overview**  
+
+The Estate’s Ornamental Greenhouse maintains year‑round decorative blossoms, ritual flowers, shade ornamentals, and forcing bulbs that cannot survive the Valley’s elevation or seasonal extremes. These plants support:
+
+- Floral arrangements  
+- Ritual blossoms (Sahbobuk)  
+- Scent harvesting  
+- Seasonal décor  
+
+---
+
+## **🌺 Year‑Round Ornamentals**
+
+### **African Violet**  
+
+- **Bloom:** Jan–Dec  
+- **Harvest:** Jan–Dec  
+- **Scent:** Soft, powdery floral; faint sweetness.  
+- **Notes:** Shade‑loving; used for small arrangements.
+
+### **Orchid (Phalaenopsis & Dendrobium)**  
+
+- **Bloom:** Feb–Oct  
+- **Harvest:** Feb–Oct  
+- **Scent:** Clean, airy floral; some varieties mildly sweet.  
+- **Notes:** Ritual blossoms; delicate arrangements.
+
+### **Freesia**  
+
+- **Bloom:** Mar–Jun  
+- **Harvest:** Mar–Jun  
+- **Scent:** Bright citrus‑floral; crisp and sweet.  
+- **Notes:** Used in Estate bouquets.
+
+### **Potted Roses (Miniature & Dwarf)**  
+
+- **Bloom:** Apr–Sep  
+- **Harvest:** Apr–Sep  
+- **Scent:** Classic rose; varies by cultivar.  
+- **Notes:** Used for arrangements and ritual offerings.
+
+### **Peony (Potted Forcing)**  
+
+- **Bloom:** Apr–May  
+- **Harvest:** Apr–May  
+- **Scent:** Rich, sweet floral.  
+- **Notes:** Forced indoors for early spring blossoms.
+
+### **Dwarf Lilac (Potted)**  
+
+- **Bloom:** May–Jun  
+- **Harvest:** May–Jun  
+- **Scent:** Strong sweet lilac.  
+- **Notes:** Grown indoors for controlled bloom timing.
+
+---
+
+## **🌿 Shade Ornamentals**
+
+### **Ferns (Maidenhair & Boston)**  
+
+- **Bloom:** N/A  
+- **Harvest:** N/A  
+- **Scent:** Green, fresh, earthy.  
+- **Notes:** Used for arrangements and greenery.
+
+### **African Violet**  
+
+Already listed above; shade category reaffirmed.
+
+### **Orchid (shade varieties)**  
+
+Already listed above; shade category reaffirmed.
+
+---
+
+## **🌼 Seasonal Forcing Bulbs**
+
+### **Tulip (Forced)**  
+
+- **Bloom:** Feb–Apr  
+- **Harvest:** Feb–Apr  
+- **Scent:** Mild, green floral.  
+- **Notes:** Forced for early spring décor.
+
+### **Daffodil (Forced)**  
+
+- **Bloom:** Feb–Apr  
+- **Harvest:** Feb–Apr  
+- **Scent:** Bright, sweet floral.  
+- **Notes:** Used for spring arrangements.
+
+### **Hyacinth (Forced)**  
+
+- **Bloom:** Feb–Apr  
+- **Harvest:** Feb–Apr  
+- **Scent:** Strong sweet floral; almost sugary.  
+- **Notes:** Grown indoors to control intensity.
+
+---
+
+## **🌸 Ritual Blossoms (Sahbobuk)**
+
+### **Helichrysum (Immortelle)**  
+
+- **Bloom:** Jun–Sep  
+- **Harvest:** Jun–Sep  
+- **Scent:** Warm honey‑herbal; slightly resinous.  
+- **Notes:**  
+  - **Medicinal (Sahbobuk)**  
+  - **Ritual blossom**  
+  - Grown indoors for consistency.
+
+### **Rose Geranium**  
+
+- **Bloom:** Apr–Oct  
+- **Harvest:** Apr–Oct  
+- **Scent:** Bright rose‑mint; clean and uplifting.  
+- **Notes:**  
+  - **Medicinal (Sahbobuk)**  
+  - **Scent harvesting**  
+  - Not used as food.

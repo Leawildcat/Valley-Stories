@@ -246,41 +246,62 @@ White flowers ONLY (moon garden style)
 #### Greenhouse Ornamentals
 
 - Scent–Aesthetic
+  - Potted camellia japonicas (JAN–MAR)
+  - African violets (JAN–DEC)
+  - Seasonal forcing bulbs (FEB–APR)
+    - tulips
+    - daffodils
+    - hyacinths
+  - Orchids (estate‑level greenhouse — FEB–OCT)
+  - Potted peonies (APR–MAY)
+  - Potted roses (APR–SEP)
+  - Potted lilacs (dwarf — MAY–JUN)
 - Medicinal (Sahbobuk)
+  - Rose geranium (APR–OCT)
+  - Helichrysum (Immortelle — JUN–SEP)
 - Food / Edible Blossoms
-
-- Orchids (estate-level greenhouse)  
-- African violets  
-- Ferns  
-- Shade ornamentals  
-- Potted roses  
-- Potted camellias  
-- Potted peonies  
-- Potted lilacs (dwarf)  
-- Seasonal forcing bulbs (tulips, daffodils, hyacinths)
+  - See Garden Crops.md
 
 ### Ranch
 
 - Scent–Aesthetic
+  - Prairie Verbena (MAR–NOV)
+  - Iris (APR–MAY)
+  - Lilacs (APR–JUN)
+  - Four‑wing Saltbush blossoms (APR–JUN)
+  - Snapdragons (APR–JUN)
+  - Winecup (APR–JUN)
+  - Wildflowers around tanks (APR–SEP)
+  - Desert Willow blossoms (MAY–JUL)
+  - Firewheel (Gaillardia pulchella — MAY–SEP)
+  - Morning glories (JUN–SEP)
+  - Four o’clocks (JUN–SEP)
+  - Zinnias (JUN–SEP)
+  - Sunflowers (JUN–SEP)
+  - Hollyhocks (JUN–SEP)
+  - Marigolds (JUN–OCT)
+  - Snakeweed blossoms (AUG–OCT)
+  - Broomweed blossoms (AUG–OCT)
 - Medicinal (Sahbobuk)
+  - Mesquite blossoms (APR–MAY)
+  - Greenthread (APR–SEP)
+  - Yucca blooms (MAY–JUN)
+  - Honeysuckle (MAY–SEP)
+  - Mountain Sage (MAY–SEP)
+  - Texas Thistle (MAY–SEP)
+  - Prairie Sage (JUN–SEP)
+  - Plains Beebalm (Monarda pectinata — JUN–SEP)
+  - Roses (hardy varieties — JUN–NOV)
+  - Rabbit Tobacco (Pseudognaphalium obtusifolium — JUL–OCT)
 - Food / Edible Blossoms
-
-- Marigolds
-- Lilacs
-- Honeysuckle
-- Snapdragons  
-- Zinnias  
-- Sunflowers  
-- Hollyhocks  
-- Morning glories  
-- Four o’clocks  
-- Roses (hardy varieties)  
-- Iris  
-- Daylilies  
-- Yucca blooms  
-- Cactus flowers  
-- Mesquite blossoms  
-- Wildflowers around tanks
+  - Greenthread (APR–SEP)
+  - Yucca blooms (MAY–JUN)
+  - Prickly Pear Blossoms (MAY–JUL)
+  - Daylilies (MAY–SEP)
+  - Honeysuckle (MAY–SEP)
+  - Mountain Sage (MAY–SEP)
+  - Plains Beebalm (Monarda pectinata — JUN–SEP)
+  - Roses (hardy varieties — JUN–NOV)
 
 ---
 
@@ -477,6 +498,9 @@ This exception does NOT apply to plants that grow in full sun at Cougar’s Ridg
 
 - Medicinal (Sahbobuk)
 - Present
+  - Ferns (Grown as houseplants around the Estate)
+    - Maidenhair
+    - Boston
 
 ### Ranch
 
