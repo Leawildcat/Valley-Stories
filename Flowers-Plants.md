@@ -305,23 +305,25 @@ White flowers ONLY (moon garden style)
 
 ---
 
-## Plants
+## Scented Plants
 
 Scented plants that generally do not have flowers where the leaves, stems, bark produce the scent.
 Some exceptions exist where a plant has flowers that either changes the scent profile or makes it stronger; ie. Wild Sage.
 
 ### Valley
 
-#### Meadow (MAR–SEP)
+#### Meadow
 
 - Scent–Aesthetic
-  - Wild mint (JUL–SEP)
 - Medicinal (Sahbobuk)
   - Wild mint (JUL–SEP)
 - Food / Edible Blossoms
   - Wild mint (JUL–SEP)
 
 #### Areas Surrounding Meadow (Forest, River, Ridge)
+
+All plants listed under Meadow are included except those marked as Meadow ONLY.
+This exception does NOT apply to flowers that grow in full sun at Cougar’s Ridge, because the ridge has a clearing that would support meadow-only plants.
 
 - Scent–Aesthetic
 - Medicinal (Sahbobuk)
@@ -395,6 +397,9 @@ Edible fungi are cross-referenced under Mushrooms in the Garden Crops.md.
 
 #### Areas Surrounding Meadow (Forest, River, Ridge)
 
+All fungi listed under Meadow are included except those marked as Meadow ONLY.
+This exception does NOT apply to fungi that grow in full sun at Cougar’s Ridge, because the ridge has a clearing that would support meadow-only fungi.
+
 - Scent Only / Poisonous
 - Medicinal (Sahbobuk)
 - Food / Edible
@@ -424,13 +429,13 @@ Edible fungi are cross-referenced under Mushrooms in the Garden Crops.md.
 - Medicinal (Sahbobuk)
 - Food / Edible
 
-#### Lawn Gaeden
+#### Lawn Garden
 
 - Scent Only / Poisonous
 - Medicinal (Sahbobuk)
 - Food / Edible
 
-#### Greenhouse Ornamentals
+#### Mushroom Logs
 
 - Scent Only / Poisonous
 - Medicinal (Sahbobuk)
@@ -452,7 +457,7 @@ Detailed information for Medicinal uses can be found in the Sahbobuk.md; Small n
 
 ### Valley
 
-#### Meadow (MAR–SEP)
+#### Meadow
 
 - Medicinal (Sahbobuk)
 - Present
@@ -489,7 +494,7 @@ This exception does NOT apply to plants that grow in full sun at Cougar’s Ridg
   - Ferns
   - Moss beds
 
-#### Lawn Gaeden
+#### Lawn Garden
 
 - Medicinal (Sahbobuk)
 - Present
