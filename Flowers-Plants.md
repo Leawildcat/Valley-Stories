@@ -249,14 +249,6 @@ White flowers ONLY (moon garden style)
 - Medicinal (Sahbobuk)
 - Food / Edible Blossoms
 
-- Tea plants  
-- Citrus  
-- Jasmine  
-- Lemon verbena  
-- Stevia  
-- Cardamom  
-- Peppermint  
-- Bay laurel  
 - Orchids (estate-level greenhouse)  
 - African violets  
 - Ferns  

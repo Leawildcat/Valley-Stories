@@ -484,6 +484,7 @@
 #### 3. Medicinal Year‑Round
 
 - Chamomile
+- Hibiscus
 - Lavender
 
 ### Grown at Estate or Ranch*
