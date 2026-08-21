@@ -315,10 +315,30 @@ Some exceptions exist where a plant has flowers that either changes the scent pr
 #### Meadow
 
 - Scent–Aesthetic
+  - Maple Leaves (APR–SEP)
+  - Junegrass (MAY–JUL)
+  - Blue grama grass (MAY–SEP)
+  - Rushes (MAY–SEP)
+  - Sedges (MAY–SEP)
+  - Western wheatgrass (MAY–SEP)
+  - Needle‑and‑thread grass (JUN–SEP)
 - Medicinal (Sahbobuk)
-  - Wild mint (JUL–SEP)
-- Food / Edible Blossoms
-  - Wild mint (JUL–SEP)
+  - Skunk Cabbage (MAR–JUN)
+  - Willow (APR–SEP)
+  - Mountain Sage (MAY–SEP)
+  - Prairie Sage (MAY–SEP)
+  - Wild Sage (MAY–SEP)
+  - Yarrow (MAY–SEP)
+  - Wild Mint (JUL–SEP)
+- Food / Edible Leaves/Roots/Other Parts
+  - Wild Garlic (MAR–MAY)
+  - Wild Onions (MAR–MAY)
+  - Skunk Cabbage (MAR–JUN)
+  - Spruce/Fir Tips (APR–JUN)
+  - Wild Sage (MAY–SEP)
+  - Mountain Sage (MAY–SEP)
+  - Yarrow (MAY–SEP)
+  - Wild Mint (JUL–SEP)
 
 #### Areas Surrounding Meadow (Forest, River, Ridge)
 
@@ -326,8 +346,25 @@ All plants listed under Meadow are included except those marked as Meadow ONLY.
 This exception does NOT apply to flowers that grow in full sun at Cougar’s Ridge, because the ridge has a clearing that would support meadow-only plants.
 
 - Scent–Aesthetic
+  - See Meadow section for Scent–Aesthetic plants
+  - Cottonwood (APR–SEP)
 - Medicinal (Sahbobuk)
-- Food / Edible Blossoms
+  - See Meadow section for Medicinal plants
+  - Juniper Resin (YEAR‑ROUND)
+  - Spruces (APR–JUN)
+  - Firs (APR–JUN)
+  - Pines
+  - Alder (APR–OCT)
+  - Birch (APR–OCT)
+- Food / Edible Leaves/Roots/Other Parts
+  - See Meadow section for Food / Edible Leaves/Roots/Other Parts
+  - Rocky Mountain Maple (FEB–APR)
+  - Boxelder (FEB–APR)
+  - Spruces (APR–JUN)
+  - Firs (APR–JUN)
+  - Pines
+    - Piñon Pine (AUG–OCT)
+  - Juniper (Juniperus communis — SEP–DEC)
 
 #### BLM Campsite
 
@@ -335,15 +372,11 @@ All plantss listed under Meadow are included except those marked as Meadow ONLY.
 This exception does NOT apply to plants that grow in full sun at Cougar’s Ridge, because the ridge has a clearing that would support meadow-only plants.
 
 - Scent–Aesthetic
-  - Blue grama Grass
-  - Western wheatgrass
-  - Junegrass
-  - Needle‑and‑thread grass
+  - See Meadow section for Scent–Aesthetic plants
 - Medicinal (Sahbobuk)
-  - Wild mint (JUL–SEP)
-  - Prairie Sage (MAY–SEP)
-- Food / Edible Blossoms
-  - Wild mint (JUL–SEP)
+  - See Meadow section for Medicinal plants
+- Food / Edible Leaves/Roots/Other Parts
+  - See Meadow section for Food / Edible Leaves/Roots/Other Parts
 
 ### Estate
 
@@ -351,33 +384,33 @@ This exception does NOT apply to plants that grow in full sun at Cougar’s Ridg
 
 - Scent–Aesthetic
 - Medicinal (Sahbobuk)
-- Food / Edible Blossoms
+- Food / Edible Leaves/Roots/Other Parts
 
 #### Meditation Garden
 
 - Scent–Aesthetic
 - Medicinal (Sahbobuk)
-- Food / Edible Blossoms
+- Food / Edible Leaves/Roots/Other Parts
 
 #### Lawn Garden
 
 - Scent–Aesthetic
 - Medicinal (Sahbobuk)
   - Mint (ornamental patch only — APR–SEP)
-- Food / Edible Blossoms
+- Food / Edible Leaves/Roots/Other Parts
   - Mint (ornamental patch only — APR–SEP)
 
 #### Greenhouse Ornamentals
 
 - Scent–Aesthetic
 - Medicinal (Sahbobuk)
-- Food / Edible Blossoms
+- Food / Edible Leaves/Roots/Other Parts
 
 ### Ranch
 
 - Scent–Aesthetic
 - Medicinal (Sahbobuk)
-- Food / Edible Blossoms
+- Food / Edible Leaves/Roots/Other Parts
 
 ---
 
