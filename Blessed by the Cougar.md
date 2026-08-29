@@ -38,7 +38,7 @@ The ranger whispered, “Tammy,” still trying to coax the cat back behind the 
 
 She met the cougar’s eyes again.
 
-She gave her a slow blink. It was the same cat language she used with her grandmother’s cat. The cougar rose. She was slightly taller than the girl. Hoping she had not offended her, she lowered her eyes again and peeked through her lashes.
+She gave her a slow blink. It was the same cat language she used with her grandmother’s cat. The cougar rose. The cougar was slightly taller than her. Hoping she had not offended her, she lowered her eyes again and peeked through her lashes.
 
 The cougar stepped forward and pressed her forehead gently against hers, beginning to purr.
 
@@ -80,7 +80,9 @@ But she knew.
 
 She saw the slackness in the leash and looked to the ranger. The ranger had stood and was frozen. One hand was still wrapped around the leash. The ranger’s eyes were wide with the kind of shock adults tried to hide from children and mixed with wonder at what she was witnessing. The ranger recovered quickly and tugged gently once more on the leash.
 
-The cat leaned her forehead against hers once more, slower this time, as if marking her. Claiming her.
+The cat leaned her forehead against hers once more, slower this time, as if marking her.
+
+Claiming her.
 
 Choosing her.
 
