@@ -35,21 +35,6 @@
     - Often found with Ponderosa and Fir  
     - Light timber use
 
-- Piñon Pine (Pinus edulis)
-  - Location
-    - **Estate**  
-    - **Ranch**
-  - Medicinal  
-    - Resin used in traditional remedies (details in Sahbobuk.md)
-  - Food  
-    - **Pine nuts** (high‑value seasonal food)
-  - Notes & Other Uses  
-    - Dryland pine  
-    - Slow‑growing  
-    - Important wildlife food source  
-    - Used for small timber and firewood  
-    - Appears in Nuts & Seeds.txt
-
 - Japanese Black Pine (Pinus thunbergii)
   - Location
     - **Ranch**  
@@ -252,6 +237,26 @@
     - Durable wood used for pencils and fine woodworking
     - Appears with Fir, Pine, and Spruce in Valley elevations
 
+- White Fir (Abies concolor)
+  - Location
+    - **Valley** (upper slopes)
+    - **Estate** (higher elevation)
+    - **Ranch** (only in shaded, moist pockets)
+  - Medicinal
+    - Resin used in salves
+    - Needles used in respiratory teas
+  - Food
+    - None
+  - Notes & Other Uses
+    - Classic Southern Rockies species
+    - Found heavily in Ruidoso, Chama, Cloudcroft, Taos, Santa Fe mountains
+    - Prefers cool, moist slopes
+    - Shade‑tolerant
+    - Softwood
+    - Used for construction, beams, and framing
+    - Distinctive blue‑green needles
+    - Often mixed with Douglas fir and spruce
+
 ### Deciduous (non-hardwoods)
 
 - Aspen (Populus tremuloides)
@@ -302,11 +307,166 @@
     - Shade
     - One of few trees in the meadow at the end of the lake
 
+- Birch (Betula papyrifera / Betula nigra)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in anti‑inflammatory washes
+    - Leaves used in mild teas
+  - Food
+    - Sap can be reduced into syrup (rarely done)
+  - Notes & Other Uses
+    - Moisture‑dependent
+    - Found near streams, lakes, and cool slopes
+    - Light, papery bark used for fire‑starting
+    - Provides wildlife habitat
+    - Estate birch often planted ornamentally for color contrast
+
+- Alder (Alnus incana / Alnus tenuifolia)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used for anti‑inflammatory washes (details in Sahbobuk.md)
+  - Food
+    - None
+  - Notes & Other Uses
+    - Riparian tree
+    - Moisture‑dependent
+    - Nitrogen‑fixing (improves soil fertility)
+    - Provides shade and bank stabilization
+    - Found near willow and cottonwood
+    - Important for fish habitat (cooling water + root structure)
+
+- Poplar (Populus deltoides / Populus spp.)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used in mild anti‑inflammatory washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Fast‑growing
+    - Softwood deciduous
+    - Common windbreak tree
+    - Moisture‑tolerant but survives dry spells
+    - Often planted near ranch houses and fence lines
+    - Related to cottonwood (same genus)
+
+- Boxelder (Acer negundo)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Inner bark used in mild washes
+  - Food
+    - Sap (thin, rarely used)
+  - Notes & Other Uses
+    - Softwood maple
+    - Extremely drought‑tolerant
+    - Common in ranch windbreaks
+    - Fast‑growing, short‑lived
+    - Appears in disturbed soils and creekbeds
+
+- Siberian Elm (Ulmus pumila)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - None traditionally
+  - Food
+    - None
+  - Notes & Other Uses
+    - Softwood elm
+    - Extremely drought‑tolerant
+    - Common in ranches, fence lines, abandoned homesteads
+    - Brittle wood, not used for lumber
+    - Fast‑growing, invasive
+    - Distinct from Texas Elm (hardwood)
+
+- Silver Leaf Maple (Acer saccharinum)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Sap used in mild tonics (similar to other maples)
+  - Food
+    - Sap (thin; rarely reduced into syrup)
+  - Notes & Other Uses
+    - Softwood maple
+    - Fast‑growing, brittle wood
+    - Extremely common in NM/TX towns and ranches
+    - Tolerates alkaline soils
+    - Provides fast shade
+    - Often planted intentionally near homes, barns, and fence lines
+
 ### Hardwoods
 
-### Fruit
+- Oak (Quercus spp.)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used for astringent washes
+  - Food
+    - Acorns (processed)
+  - Notes & Other Uses
+    - True hardwood
+    - Strong, durable timber
+    - Used for beams, posts, and long‑lasting structures
+    - Appears in mixed hardwood stands
+    - Wildlife food source (acorns)
+
+- Maple (Acer spp.)
+  - Location
+    - **Estate**
+    - **Valley** (cool pockets)
+  - Medicinal
+    - Sap used in mild tonics
+  - Food
+    - Sap (syrup if reduced)
+  - Notes & Other Uses
+    - True hardwood
+    - Ornamental in Estate landscaping
+    - Moisture‑dependent
+
+- Texas Elm (Ulmus crassifolia / Ulmus americana)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Inner bark used in soothing washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - True hardwood
+    - Shade tree
+    - Fast‑growing
+    - Used for furniture and specialty timber
+    - Appears in riparian zones but classified as hardwood
 
 ### Nuts
+
+- Piñon Pine (Pinus edulis)
+  - Location
+    - **Estate**  
+    - **Ranch**
+  - Medicinal  
+    - Resin used in traditional remedies (details in Sahbobuk.md)
+  - Food  
+    - **Pine nuts** (high‑value seasonal food)
+  - Notes & Other Uses  
+    - Dryland pine  
+    - Slow‑growing  
+    - Important wildlife food source  
+    - Used for small timber and firewood
 
 ### Lake & Riparian Trees
 
