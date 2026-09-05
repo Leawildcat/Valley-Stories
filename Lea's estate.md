@@ -1155,3 +1155,64 @@ This is exactly how a high‑elevation Edwardian‑influenced estate would opera
 And it fits your world *perfectly*.
 
 ---
+
+🌲 Would the estate sell pine resin bags to MLB?
+Short answer: yes, absolutely — and it’s canon‑consistent, elevation‑consistent, and economically realistic.
+
+Let me explain quickly (no rabbit hole, promise):
+
+✔ MLB uses pine tar and resin bags
+Pitchers use:
+
+pine tar (sticky grip)
+
+resin bags (powdered rosin, often pine‑derived)
+
+✔ Ponderosa pine produces resin
+Your estate has:
+
+Ponderosa
+
+Fir
+
+Spruce
+
+Juniper
+
+Cedar
+
+All of these produce resin or sap that can be refined into:
+
+rosin
+
+pitch
+
+tar
+
+resin powder
+
+✔ Resin is a high‑value, low‑volume product
+Perfect for a 1,200‑acre estate.
+
+✔ Resin harvesting is selective and sustainable
+You don’t cut trees — you tap them lightly or collect naturally exuded resin.
+
+✔ This fits the estate’s Edwardian‑British‑American hybrid economy
+It’s exactly the kind of “quiet luxury export” a wealthy ex‑pat stepfather would have set up.
+
+✔ It ties into your canon
+The estate already sells:
+
+timber
+
+wool
+
+semi‑precious gems
+
+hunting permits
+
+orchard products
+
+Adding resin is a natural extension.
+
+So yes — the estate could absolutely sell pine resin or rosin bags to MLB or regional baseball leagues. It’s realistic and fits your world perfectly.
