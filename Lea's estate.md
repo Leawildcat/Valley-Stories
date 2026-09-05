@@ -945,3 +945,213 @@ Already listed above; shade category reaffirmed.
   - **Medicinal (Sahbobuk)**  
   - **Scent harvesting**  
   - Not used as food.
+
+---
+
+## 🌲 **1. 1,200 acres is a LOT more than it sounds like**
+
+People hear “1,200 acres” and think “small ranch.”
+
+But in reality:
+
+- 1,200 acres = **1.875 square miles**
+- 1,200 acres = **about 900 football fields**
+- 1,200 acres = **a full valley + two mountain slopes**
+
+And your LocationsMap.md already says:
+
+> “Approximately 1200 acres covering valley plus mountain ranges.”
+
+That means the estate isn’t a flat rectangle — it’s a **vertical estate** with:
+
+- valley floor  
+- meadow  
+- river corridor  
+- forest ring  
+- ridge slopes  
+- mountain shoulders  
+
+This is exactly the kind of land that supports:
+
+- timber  
+- grazing  
+- orchards  
+- hunting  
+- mining  
+- semi‑precious gem extraction  
+- estate grounds  
+- gardens  
+- stables  
+- ranching operations  
+
+You wrote it correctly.
+
+---
+
+## 🌳 **2. How much of the 1,200 acres is actually forest?**
+
+You don’t need all 1,200 acres to be forested.
+
+A realistic breakdown looks like this:
+
+### **Valley floor (meadow + river + estate grounds)**  
+
+≈ 150–250 acres
+
+### **Lower forest ring (mixed conifer + deciduous)**  
+
+≈ 300–400 acres
+
+### **Upper slopes (Ponderosa + fir + spruce)**  
+
+≈ 300–450 acres
+
+### **Ranch pasture + sheep/wool operations**  
+
+≈ 150–250 acres
+
+### **Mining + semi‑precious gem extraction zones**  
+
+≈ 50–100 acres (scattered pockets)
+
+This gives you:
+
+### ⭐ **600–850 acres of forest**  
+
+which is **more than enough** for sustainable timber.
+
+---
+
+## 🌲 **3. How rotational selective logging works on 600–850 forested acres**
+
+You divide the forest into **age blocks**, like we talked about:
+<!-- markdownlint-disable-next-line MD026 -->
+### Example:
+
+- **Block A** — 80 acres  
+- **Block B** — 90 acres  
+- **Block C** — 70 acres  
+- **Block D** — 100 acres  
+- **Block E** — 110 acres  
+- **Block F** — 120 acres  
+- **Block G** — 130 acres  
+
+Each block is logged **once every 20–40 years**.
+
+You only harvest:
+
+- deadfall  
+- diseased trees  
+- overcrowded trees  
+- mature timber trees  
+
+You leave:
+
+- saplings  
+- clonal aspen colonies  
+- riparian stabilizers  
+- wildlife habitat trees  
+
+This gives you:
+
+### ⭐ A sustainable timber yield  
+
+### ⭐ No ecological damage  
+
+### ⭐ No clear‑cutting  
+
+### ⭐ A steady income stream  
+
+### ⭐ A culturally appropriate forestry method  
+
+### ⭐ A canon‑consistent estate economy  
+
+This is exactly how the Navajo, Ute, Apache, Pueblo, Shoshone, and Arapaho manage timber.
+
+It fits your world perfectly.
+
+---
+
+## 🌳 **4. Why the estate can realistically support ALL its industries**
+
+Your LocationsMap.md lists:
+
+- logging  
+- mining  
+- ranching (sheep, red deer, cattle, swine)  
+- orchards  
+- gardens  
+- stables  
+- private hunting reserve  
+
+Here’s how the acreage supports it:
+
+### **Logging**  
+
+600–850 acres of forest = sustainable selective harvest.
+
+### **Mining**  
+
+Semi‑precious gems occur in **pockets**, not giant mines.  
+You only need 20–50 acres of active extraction at any time.
+
+### **Ranching (wool + beef)**  
+
+Sheep need **open pasture + forest edge**.  
+Cattle need **valley pasture + ranch land**.  
+Red deer need **forest + ridge**.  
+Swine need **mixed forest + orchard edge**.
+
+You have all of that.
+
+### **Orchards**  
+
+10–20 acres is enough for apples, plums, cherries, crabapple.
+
+### **Gardens**  
+
+2–5 acres for estate gardens.
+
+### **Stables**  
+
+5–10 acres.
+
+### **Private hunting reserve**  
+
+Forest + ridge = perfect.
+
+Everything fits.
+
+---
+
+## 🌲 **5. Why this solves your estate puzzle**
+
+You’ve been stuck because you were trying to figure out:
+
+> “How does the estate make money from timber without destroying the Valley?”
+
+Now you have the answer:
+
+### ⭐ Rotational selective logging  
+
+### ⭐ 600–850 acres of forest  
+
+### ⭐ 20–40 year regrowth cycles  
+
+### ⭐ Native forestry methods  
+
+### ⭐ No clear‑cutting  
+
+### ⭐ No ecological damage  
+
+### ⭐ Canon‑consistent  
+
+### ⭐ Elevation‑appropriate  
+
+### ⭐ Story‑appropriate  
+
+This is exactly how a high‑elevation Edwardian‑influenced estate would operate.
+
+And it fits your world *perfectly*.
+
+---
