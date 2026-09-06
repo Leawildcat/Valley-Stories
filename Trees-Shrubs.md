@@ -388,6 +388,114 @@
     - Used for furniture and specialty timber
     - Appears in riparian zones but classified as hardwood
 
+- Black Locust (Robinia pseudoacacia)
+  - Location
+    - **Ranch**
+    - **Estate**
+  - Medicinal
+    - Bark and leaves used cautiously in traditional remedies
+  - Food
+    - None
+  - Notes & Other Uses
+    - Extremely rot‑resistant wood
+    - Used for fence posts, beams, and long‑lasting structures
+    - Fast‑growing and drought‑tolerant
+    - Common on ranch edges and older homesteads
+
+- Honey Locust (Gleditsia triacanthos)
+  - Location
+    - **Ranch**
+  - Medicinal
+    - Pods used in mild tonics historically
+  - Food
+    - Sweet pods edible in small amounts
+  - Notes & Other Uses
+    - Thorny, drought‑tolerant hardwood
+    - Used for shade and windbreaks
+    - Wood used for posts and small timber
+    - Common in ENM/WTX ranchlands
+
+- New Mexico Locust (Robinia neomexicana)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Flowers used in mild teas
+  - Food
+    - Flowers edible
+  - Notes & Other Uses
+    - Native mountain locust
+    - Pink flowers
+    - Hard, durable wood used for small posts
+    - Appears along slopes and dry ridges
+
+- Valley Oak (Quercus lobata)
+  - Location
+    - **Estate**
+    - **Valley**
+  - Medicinal
+    - Acorns processed for flour
+  - Food
+    - Acorns (after leaching)
+  - Notes & Other Uses
+    - Large, spreading oak
+    - Used for shade and heavy beams
+    - Deep‑rooted and drought‑tolerant
+    - Appears in lower Valley elevations
+
+- Mesquite (Prosopis glandulosa)
+  - Location
+    - **Ranch**
+  - Medicinal
+    - Gum used in traditional remedies
+  - Food
+    - Pods used for flour
+  - Notes & Other Uses
+    - Extremely hard wood
+    - Used for specialty woodworking and firewood
+    - Common in ENM/WTX ranchlands
+    - Drought‑proof and long‑lived
+
+- Bigtooth Maple (Acer grandidentatum)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Sap used in mild tonics
+  - Food
+    - Sap (limited use)
+  - Notes & Other Uses
+    - Native mountain maple
+    - Hardwood used for furniture and specialty items
+    - Appears in canyons and mid‑elevation slopes
+    - Bright fall color
+
+- American Elm (Ulmus americana)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Inner bark used historically
+  - Food
+    - None
+  - Notes & Other Uses
+    - Large shade tree
+    - Used for furniture and specialty wood
+    - Common in older ranch homesteads and towns
+
+- Chinese Elm (Ulmus parvifolia)
+  - Location
+    - **Ranch**
+    - **Estate**
+  - Medicinal
+    - None
+  - Food
+    - None
+  - Notes & Other Uses
+    - Hard, durable wood
+    - Common ornamental shade tree in ENM/WTX
+    - Used for small timber and ranch shade
+
 ### Fruits & Nuts
 
 - Piñon Pine (Pinus edulis)
@@ -471,6 +579,37 @@
     - Important for fish habitat (cooling water + root structure)
 
 ### Ornamentals
+
+### Ancient & Unknown Trees
+
+- The Great Oak
+  - Location
+    - **Valley Entrance**
+  - Medicinal
+    - None known
+  - Food
+    - None
+  - Notes & Other Uses
+    - Appears in Chapter 1
+    - Marks the threshold from the BLM land into the Valley
+    - Older than surrounding hardwoods
+    - Considered a guardian marker
+    - Not fully identifiable by modern taxonomy
+
+- The Unnamed Hardwoods
+  - Location
+    - **Deep Valley**
+  - Medicinal
+    - Unknown
+  - Food
+    - Unknown
+  - Notes & Other Uses
+    - Mentioned in Chapter 7
+    - Ancient trees the characters cannot identify
+    - Possibly pre‑settlement species
+    - May be part of the Valley’s memory
+    - Not classifiable under known NM/TX ecology
+    - Symbolic, mythic, tied to the Valley’s sentience
 
 ---
 
