@@ -471,6 +471,22 @@
     - Related to cottonwood
     - Important for cooling shallow water zones
 
+- Rocky Mountain Maple (Acer glabrum)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in mild washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Riparian‑adjacent maple
+    - Grows near wet meadow edges and cool streambanks
+    - Drops seeds and insects into the water → fish food
+    - Supports caterpillars and pollinators
+    - Known in canon as the “Landing Branch”
+    - Provides filtered shade along river edges
+
 ### Hardwoods
 
 - Oak (Quercus spp.)
@@ -626,7 +642,157 @@
     - Common ornamental shade tree in ENM/WTX
     - Used for small timber and ranch shade
 
+- Gambel Oak (Quercus gambelii)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used in traditional astringent washes
+  - Food
+    - Acorns (wildlife food; rarely processed by humans)
+  - Notes & Other Uses
+    - True hardwood
+    - Native to NM highlands and foothills
+    - Forms dense thickets and mixed hardwood stands
+    - Provides major wildlife habitat (deer, squirrels, birds)
+    - Seasonal color changes (yellow → rust → brown)
+    - Used for posts, firewood, and small timber
+    - Common on dry slopes and canyon edges
+
+- Hickory (Carya spp.)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in traditional washes
+  - Food
+    - None (nuts not common in NM/TX varieties)
+  - Notes & Other Uses
+    - True hardwood
+    - Dense, shock‑resistant wood
+    - Used for tool handles and specialty timber
+    - Appears in cooler pockets and mixed hardwood stands
+    - Rare but plausible in high‑elevation NM valleys
+
+- Sycamore (Platanus occidentalis / Platanus wrightii)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in mild washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - True hardwood
+    - Large, spreading shade tree
+    - Common near creeks and moist valley pockets
+    - Distinct mottled bark
+    - Provides heavy shade and bank stabilization
+    - Not strictly riparian, so belongs in Hardwoods
+
+- Buckthorn (Rhamnus spp.) — Tree Form
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Bark used cautiously in traditional remedies
+  - Food
+    - None
+  - Notes & Other Uses
+    - True hardwood
+    - Can grow as small tree or large shrub
+    - Dense wood used for small tools
+    - Appears on dry slopes and mixed hardwood stands
+    - Shrub form will appear in Shrubs section later
+
+- Hoptree (Ptelea trifoliata)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in traditional tonics
+  - Food
+    - Seeds historically used as hop substitute
+  - Notes & Other Uses
+    - True hardwood
+    - Small shade tree
+    - Native to NM/TX canyon edges
+    - Tolerates dry soils
+    - Important for butterflies and pollinators
+
+- Catclaw Acacia (Acacia greggii) — Tree Form
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Pods used in mild washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - True hardwood
+    - Thorny, drought‑proof
+    - Used for fence posts and firewood
+    - Appears in dry slopes and ranchlands
+    - Shrub form will appear in Shrubs section later
+
 ### Fruits & Nuts
+
+- Chokecherry (Prunus virginiana)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in traditional cough remedies
+  - Food
+    - Berries used for syrups and jellies (must be cooked)
+  - Notes & Other Uses
+    - Common NM/TX wild fruit
+    - Found along slopes and moist pockets
+    - Important wildlife food
+    - Often planted near homesteads for seasonal harvest
+
+- Wild Plum (Prunus americana / Prunus mexicana)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in mild washes
+  - Food
+    - Plums used for preserves, drying, and fresh eating
+  - Notes & Other Uses
+    - Common in NM/TX wild thickets
+    - Appears along creekbeds and old homestead sites
+    - Early‑season fruit
+    - Supports pollinators and wildlife
+
+- Apple (Malus domestica)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild teas
+  - Food
+    - Apples (fresh, dried, cider)
+  - Notes & Other Uses
+    - Orchard tree
+    - Common in older ranch orchards
+    - Cold‑tolerant varieties thrive in valley elevation
+    - Important seasonal harvest crop
+
+- Apricot (Prunus armeniaca)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild washes
+  - Food
+    - Apricots (fresh, dried, preserves)
+  - Notes & Other Uses
+    - Thrives in NM/TX climates
+    - Early blooming tree
+    - Common in homestead orchards
+    - High‑value fruit for drying and canning
 
 - Piñon Pine (Pinus edulis)
   - Location
@@ -641,6 +807,36 @@
     - Slow‑growing  
     - Important wildlife food source  
     - Used for small timber and firewood
+
+- Pecan (Carya illinoinensis)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Shells used in mild teas
+  - Food
+    - Pecans (major orchard crop)
+  - Notes & Other Uses
+    - True hardwood tree, but categorized here for human food
+    - Common in NM/TX orchards and ranch plantings
+    - High‑value seasonal nut
+    - Deep‑rooted and drought‑tolerant once established
+
+- Arizona Walnut (Juglans major)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Hulls used in traditional cleansing washes
+  - Food
+    - Walnuts (high‑value nut)
+  - Notes & Other Uses
+    - True hardwood tree, but categorized here for human food
+    - Native to NM/TX canyon edges and riparian pockets
+    - Used in baking, oils, and seasonal harvest
+    - Wildlife also feeds on fallen nuts
+    - Appears in older ranch homesteads and orchard edges
 
 ### Ornamentals
 
@@ -696,6 +892,7 @@
     - Strong scent (sharp, ammonia‑like)
     - Found along slopes and meadow edges
     - Important winter berry source
+
 - Dwarf Juniper (Juniperus communis var. depressa)
   - Location
     - **Valley**
@@ -709,6 +906,19 @@
     - Dense berry production
     - Found on rocky ridges and dry slopes
     - Used for winter storage and ceremonial use
+
+- Mesquite Pods (Prosopis glandulosa — shrub form)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Pods used in mild washes
+  - Food
+    - Pods ground into flour
+  - Notes & Other Uses
+    - Shrub form produces the edible pods
+    - Sweet, high‑protein flour used traditionally
+    - Important survival food
 
 ### Flowering Shrubs
 
