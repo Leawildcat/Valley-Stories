@@ -23,6 +23,7 @@ This is your fully built aquatic ecosystem — river, lake, bend, marsh, seasona
 ### 4. Flowers‑Plants.md
 
 **Our current project as of August 19, 2026**  
+**So we ran into an issue once we got to plants after getting the flowers sorthed. We decided the only way to finish it was to work on Trees-shrubs first.**
 This is the one we’re actively filling out zone by zone:
 
 - Scented Plants  
@@ -47,8 +48,26 @@ Once those are done, LocationsMap.md becomes the master reference for every scen
 
 ### 7. Trees‑Shrubs.md
 
-**Next after Flowers‑Plants.**  
-This will anchor shade logic, canopy scent, bark scent, and elevation constraints.
+**Because scented plants heavily relies on the Trees‑Shrubs file, we are currently working on it first as of September 6, 2026, before returning to Flowers‑Plants.**  
+This will anchor shade logic, canopy scent, bark scent, and elevation constraints. Notes from Trees & Shrubs Organization will guide us through most of the details and types.  
+Must include berries for wine making, nuts for culinary use, and coniferous trees & hardwoods for timber and resin.  
+All will be classified as to one of the 3 main locations: Valley, Estate, or Ranch. This is the only item bolded.  '
+All will include, the name, location (in bold), medicinal uses (short version), Food uses (short version), and any notable ecological roles or other notes and uses.  
+Main headings will include:
+
+- Trees
+  - Conifers - Pines, Firs, Spruces and any other cone-bearing/evergreen trees that do not have edible nuts or fruit.
+  - Deciduous (non-hardwoods) - Trees that shed their leaves annually, and do not fit into the other categories nor do they have edible nuts or fruit.
+  - Hardwoods - Trees that have dense, hard wood and typically shed their leaves annually.
+  - Fruits & Nuts - Trees that produce edible fruits or nuts and part of the orchard economy of the estate.
+  - Lake & Riparian Trees - Trees that grow in or near bodies of water, such as lakes, rivers, and marshes, and are adapted to wet conditions. Cross-referenced with the Fish & Amphibians file.
+  - Ornamentals - Trees that are primarily grown for decorative purposes rather than for fruit, nuts, or timber. Mostly native to the region, but can include non-native species that thrive in the local climate.
+  - Ancient & Unknown Trees - Trees that are exceptionally old, rare, or have mysterious origins, often holding cultural or ecological significance. Possibly extinct or prior to recorded history. Already in the cannon.
+- Shrubs
+  - Berry Bushes - Shrubs that produce edible berries, often used in wines, jams, desserts, and other culinary applications.
+  - Flowering Shrubs - Shrubs that are primarily grown for their flowers, which may be used for ornamental purposes, perfumes, or other applications.
+  - Ornamental Shrubs - Shrubs that are primarily grown for decorative purposes rather than for fruit, berries, or other practical uses. Mostly native to the region, but can include non-native species that thrive in the local climate.
+  - Shrubs - General category for shrubs that do not fit into the other specific types.
 
 ### 8. Sahbobuk.md (Not Yet Created)
 
