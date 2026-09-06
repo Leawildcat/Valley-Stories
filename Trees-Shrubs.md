@@ -840,6 +840,105 @@
 
 ### Ornamentals
 
+- Red Oak (Quercus rubra)
+  - Location
+    - **Estate**
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Mild astringent bark used traditionally for topical washes
+  - Food
+    - Acorns edible after leaching tannins
+  - Notes & Other Uses
+    - Brilliant red fall color
+    - Strong shade tree
+    - Symbolic of endurance and legacy
+
+- Mimosa (Albizia julibrissin)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Flowers used in calming teas
+    - Bark used in traditional mood‑support remedies
+  - Food
+    - Not edible
+  - Notes & Other Uses
+    - Feather‑soft pink blooms
+    - Attracts pollinators
+    - Light, airy canopy
+    - Associated with joy and celebration
+
+- Crepe Myrtle (Lagerstroemia indica)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild anti‑inflammatory folk remedies
+  - Food
+    - Not edible
+  - Notes & Other Uses
+    - Long blooming season
+    - Sculptural bark
+    - Iconic Southern ornamental
+    - Excellent for color layering
+
+- Desert Willow (Chilopsis linearis)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Bark and leaves used in traditional cough and fever remedies
+  - Food
+    - Not edible
+  - Notes & Other Uses
+    - Trumpet‑shaped flowers
+    - Drought tolerant
+    - Hummingbird attractor
+    - Elegant branching structure
+
+- Western Redbud (Cercis occidentalis)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Flowers mildly astringent
+    - Bark historically used in small doses for cold remedies
+  - Food
+    - Flowers edible
+    - Young pods edible when tender
+  - Notes & Other Uses
+    - Brilliant magenta spring blooms
+    - Heart‑shaped leaves
+    - Symbolic of renewal and beginnings
+
+- Velvet Ash (Fraxinus velutina)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used in traditional anti‑inflammatory preparations
+  - Food
+    - Not edible
+  - Notes & Other Uses
+    - Soft velvety leaves
+    - Drought tolerant
+    - Graceful canopy
+    - Excellent for structured shade
+
+- Chaste Tree (Vitex agnus‑castus)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Seeds and leaves used in hormonal balance and cycle support
+  - Food
+    - Not edible
+  - Notes & Other Uses
+    - Lavender‑blue flower spikes
+    - Aromatic foliage
+    - Symbolic of clarity and discipline
+
 ### Ancient & Unknown Trees
 
 - The Great Oak
