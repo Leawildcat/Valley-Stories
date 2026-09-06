@@ -207,3 +207,75 @@ This is exactly how a professional story bible organizes flora.
 ---
 
 If you want, I can generate the **starter skeleton** for Trees‑Shrubs.md so you can paste it in immediately.
+
+Deciduous (non‑hardwoods)
+ Poplar
+ Boxelder
+ Siberian Elm
+ Silver Leaf Maple
+ Cottonwood
+ Willow
+ Birch
+ Alder
+ Aspen
+ Arizona Ash
+ Raywood Ash
+
+Hardwoods
+ Oak
+ Maple (hard species)
+ Texas Elm
+ Black Locust
+ Honey Locust
+ American Elm (optional)
+ Chinese Elm (optional)
+ Mesquite
+ New Mexico Locust
+ Valley Oak
+
+Ornamentals
+ Crepe Myrtle
+ Mimosa
+ Desert Willow (optional here)
+
+Shrubs & Bushes
+ Desert Willow (if you prefer it here)
+
+Fruit Trees
+ Chokecherry
+
+Nuts
+ Western Schley Pecan
+
+---
+Most Popular Shade Trees in Chama and Ruidoso, New Mexico:
+
+Blue Spruce (Picea pungens) – Evergreen, provides year-round shade and a striking blue foliage.
+Western Chokecherry (Prunus virginiana) – Deciduous, small to medium size, with ornamental spring flowers and edible fruit.
+Douglas Fir (Pseudotsuga menziesii) – Large, long-lived evergreen with dense shade.
+Quaking Aspen (Populus tremuloides) – Fast-growing deciduous with a wide, open canopy.
+White Fir (Abies concolor) – Evergreen with a graceful, open form.
+Ponderosa Pine (Pinus ponderosa) – Large evergreen with a broad, spreading crown.
+Fremont Cottonwood (Populus fremontii) – Fast-growing deciduous, good for riparian areas.
+Rocky Mountain Juniper (Juniperus scopulorum) – Evergreen, drought-tolerant, and shade-providing.
+Box Elder (Acer negundo) – Fast-growing deciduous with large leaves.
+Limber Pine (Pinus flexilis) – Evergreen, adapted to high elevations.
+Bigtooth Maple (Acer grandidentatum) – Deciduous with large, maple-like leaves.
+Blue Elderberry (Sambucus caerulea) – Deciduous, ornamental and edible.
+Velvet Ash (Fraxinus velutina) – Deciduous, tolerant of poor soils.
+Gambel Oak (Quercus gambelii) – Deciduous, drought-tolerant, and fire-resistant.
+New Mexico Locust (Robinia neomexicana) – Fast-growing deciduous with ornamental flowers.
+Wright’s Silktassel (Garrya wrightii) – Deciduous, drought-tolerant, and ornamental.
+Arizona Walnut (Juglans major) – Large deciduous with ornamental bark and edible nuts.
+Western Redbud (Cercis occidentalis) – Small deciduous with pink spring flowers.
+Catclaw Acacia (Acacia greggii) – Deciduous, drought-tolerant, and ornamental.
+Mimosa (Albizia julibrissin var. rosea) – Fast-growing deciduous with ornamental flowers.
+New Mexico Olive (Forestiera neomexicana) – Deciduous, drought-tolerant.
+Littleleaf Ash (Fraxinus gregii) – Deciduous, tolerant of poor soils.
+Mesquite (Prosopis glandulosa) – Deciduous, drought-tolerant, and shade-providing.
+Chokecherry (Prunus virginiana var. melanocarpa) – Deciduous, ornamental and edible.
+Hoptree (Ptelea trifoliata) – Deciduous, ornamental.
+Buckthorn (Rhamnus cathartica) – Deciduous, ornamental.
+Mescal Bean (Sophora secundiflora) – Deciduous, ornamental.
+Desert Willow (Chilopsis linearis) – Deciduous, ornamental flowers, good shade.
+Chaste Tree (Vitex agnus-castus) – Deciduous, ornamental.
