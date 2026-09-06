@@ -276,7 +276,7 @@
     - Soil stabilization
     - Partial ring denotes entrance The Meadow in the Valley
 
-- Poplar (Populus deltoides / Populus spp.)
+- Poplar (Populus deltoides)
   - Location
     - **Valley**
     - **Estate**
@@ -340,6 +340,136 @@
     - Tolerates alkaline soils
     - Provides fast shade
     - Often planted intentionally near homes, barns, and fence lines
+
+- Arizona Ash (Fraxinus velutina)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild anti‑inflammatory washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Native softwood ash
+    - Extremely drought‑tolerant
+    - Common shade tree in NM/TX towns and ranches
+    - Fast‑growing, provides dense canopy
+    - Often planted near homes and barns for quick shade
+    - Distinct from hardwood ash species
+
+- Raywood Ash (Fraxinus angustifolia ‘Raywood’)
+  - Location
+    - **Estate**
+    - **Valley**
+  - Medicinal
+    - None traditionally
+  - Food
+    - None
+  - Notes & Other Uses
+    - Softwood ash
+    - Known for deep red fall color
+    - Often planted ornamentally but naturalized in NM/TX
+    - Tolerates alkaline soils
+    - Provides fast, filtered shade
+    - More brittle than Arizona Ash
+
+#### Lake & Riparian Trees
+
+- Cottonwood
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Buds used in salves
+  - Food
+    - None
+  - Notes & Other Uses
+    - Fast‑growing
+    - Shade
+    - Windbreak
+
+- Willow
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used for pain relief
+  - Food
+    - None
+  - Notes & Other Uses
+    - Riparian
+    - Moisture‑dependent
+    - Fast‑growing
+    - Soil stabilization
+    - Shade
+    - One of few trees in the meadow at the end of the lake
+
+- Birch (Betula papyrifera / Betula nigra)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in anti‑inflammatory washes
+    - Leaves used in mild teas
+  - Food
+    - Sap can be reduced into syrup (rarely done)
+  - Notes & Other Uses
+    - Moisture‑dependent
+    - Found near streams, lakes, and cool slopes
+    - Light, papery bark used for fire‑starting
+    - Provides wildlife habitat
+    - Estate birch often planted ornamentally for color contrast
+
+- Alder (Alnus incana / Alnus tenuifolia)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used for anti‑inflammatory washes (details in Sahbobuk.md)
+  - Food
+    - None
+  - Notes & Other Uses
+    - Riparian tree
+    - Moisture‑dependent
+    - Nitrogen‑fixing (improves soil fertility)
+    - Provides shade and bank stabilization
+    - Found near willow and cottonwood
+    - Important for fish habitat (cooling water + root structure)
+
+- Riparian Ash (Fraxinus spp.)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild anti‑inflammatory washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Moisture‑dependent ash species
+    - Found near streams, seasonal flows, and lake edges
+    - Provides filtered shade for fish habitat
+    - Helps stabilize banks
+    - Distinct from upland Arizona Ash
+
+- Riparian Poplar (Populus spp.)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Bark used in mild washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Moisture‑dependent poplar species
+    - Found near creeks, marsh edges, and lake inflows
+    - Provides fast shade
+    - Softwood deciduous
+    - Related to cottonwood
+    - Important for cooling shallow water zones
 
 ### Hardwoods
 
@@ -511,72 +641,6 @@
     - Slow‑growing  
     - Important wildlife food source  
     - Used for small timber and firewood
-
-### Lake & Riparian Trees
-
-- Cottonwood
-  - Location
-    - **Valley**
-    - **Estate**
-    - **Ranch**
-  - Medicinal
-    - Buds used in salves
-  - Food
-    - None
-  - Notes & Other Uses
-    - Fast‑growing
-    - Shade
-    - Windbreak
-
-- Willow
-  - Location
-    - **Valley**
-    - **Estate**
-    - **Ranch**
-  - Medicinal
-    - Bark used for pain relief
-  - Food
-    - None
-  - Notes & Other Uses
-    - Riparian
-    - Moisture‑dependent
-    - Fast‑growing
-    - Soil stabilization
-    - Shade
-    - One of few trees in the meadow at the end of the lake
-
-- Birch (Betula papyrifera / Betula nigra)
-  - Location
-    - **Valley**
-    - **Estate**
-  - Medicinal
-    - Bark used in anti‑inflammatory washes
-    - Leaves used in mild teas
-  - Food
-    - Sap can be reduced into syrup (rarely done)
-  - Notes & Other Uses
-    - Moisture‑dependent
-    - Found near streams, lakes, and cool slopes
-    - Light, papery bark used for fire‑starting
-    - Provides wildlife habitat
-    - Estate birch often planted ornamentally for color contrast
-
-- Alder (Alnus incana / Alnus tenuifolia)
-  - Location
-    - **Valley**
-    - **Estate**
-    - **Ranch**
-  - Medicinal
-    - Bark used for anti‑inflammatory washes (details in Sahbobuk.md)
-  - Food
-    - None
-  - Notes & Other Uses
-    - Riparian tree
-    - Moisture‑dependent
-    - Nitrogen‑fixing (improves soil fertility)
-    - Provides shade and bank stabilization
-    - Found near willow and cottonwood
-    - Important for fish habitat (cooling water + root structure)
 
 ### Ornamentals
 
