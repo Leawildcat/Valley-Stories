@@ -23,7 +23,7 @@ This is your fully built aquatic ecosystem — river, lake, bend, marsh, seasona
 ### 4. Flowers‑Plants.md
 
 **Our current project as of August 19, 2026**  
-**So we ran into an issue once we got to plants after getting the flowers sorthed. We decided the only way to finish it was to work on Trees-shrubs first.**
+**So we ran into an issue once we got to plants after getting the flowers sorted. We decided the only way to finish it was to work on Trees-shrubs first.**
 This is the one we’re actively filling out zone by zone:
 
 - Scented Plants  
