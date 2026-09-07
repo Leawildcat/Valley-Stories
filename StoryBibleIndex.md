@@ -48,7 +48,8 @@ Once those are done, LocationsMap.md becomes the master reference for every scen
 
 ### 7. Trees‑Shrubs.md
 
-**Because scented plants heavily relies on the Trees‑Shrubs file, we are currently working on it first as of September 6, 2026, before returning to Flowers‑Plants.**  
+**Trees and Shrubs was split into 2 files (Trees.md and Shrubs.md) due to the size the combined file was becoming after adding all the tress from the trees & shrubs organization.txt file.**
+**Because scented plants heavily relies on the Trees‑Shrubs file, we are currently working on it first as of September 7, 2026, before returning to Flowers‑Plants.**  
 This will anchor shade logic, canopy scent, bark scent, and elevation constraints. Notes from Trees & Shrubs Organization will guide us through most of the details and types.  
 Must include berries for wine making, nuts for culinary use, and coniferous trees & hardwoods for timber and resin.  
 All will be classified as to one of the 3 main locations: Valley, Estate, or Ranch. This is the only item bolded.  '
