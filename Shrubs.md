@@ -1,0 +1,419 @@
+
+# Shrubs & Bushes
+
+## Berry Bushes
+
+- Common Juniper (Juniperus communis)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Berries used in cleansing and smudging
+    - Resin used in protective bundles
+  - Food
+    - Berries used sparingly as seasoning
+  - Notes & Other Uses
+    - Low, spreading shrub
+    - Produces abundant blue berries
+    - Strong scent (sharp, ammonia‑like)
+    - Found along slopes and meadow edges
+    - Important winter berry source
+
+- Dwarf Juniper (Juniperus communis var. depressa)
+  - Location
+    - **Valley**
+  - Medicinal
+    - Berries used in ritual bundles
+    - Smoke used for purification
+  - Food
+    - Berries used sparingly
+  - Notes & Other Uses
+    - Ground‑hugging form
+    - Dense berry production
+    - Found on rocky ridges and dry slopes
+    - Used for winter storage and ceremonial use
+
+- Mesquite Pods (Prosopis glandulosa — shrub form)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Pods used in mild washes
+  - Food
+    - Pods ground into flour
+  - Notes & Other Uses
+    - Shrub form produces the edible pods
+    - Sweet, high‑protein flour used traditionally
+    - Important survival food
+
+- Fourwing Saltbush (Atriplex canescens)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Leaves used in mild digestive teas
+  - Food
+    - Seeds edible in small amounts
+  - Notes & Other Uses
+    - Extremely drought‑tolerant
+    - Plains shrub
+    - Excellent forage
+
+- Skunkbush Sumac (Rhus trilobata)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Berries used in tart teas
+  - Food
+    - Berries edible (tart)
+  - Notes & Other Uses
+    - Red fall color
+    - Grows in thickets
+    - Stabilizes slopes
+    - Wildlife favorite
+
+- Wax Currant (Ribes cereum)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Berries used in mild tonics
+  - Food
+    - Berries edible (bland)
+  - Notes & Other Uses
+    - High‑elevation shrub
+    - Cool pockets
+    - Supports pollinators
+
+- Golden Currant (Ribes aureum)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Berries used in mild teas
+  - Food
+    - Berries edible (sweet)
+  - Notes & Other Uses
+    - Yellow spring blooms
+    - Riparian‑adjacent
+    - Wildlife food source
+
+- Serviceberry (Amelanchier alnifolia — shrub form)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in mild washes
+  - Food
+    - Berries edible (sweet)
+  - Notes & Other Uses
+    - High‑elevation shrub
+    - Wildlife food
+    - Grows along cool slopes
+
+- Chokecherry (Prunus virginiana — shrub form)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used for cough remedies
+  - Food
+    - Berries used for syrups (must be cooked)
+  - Notes & Other Uses
+    - Shrub form grows in thickets
+    - Riparian edges
+    - Wildlife food
+
+- Wild Rose (Rosa woodsii)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Rose hips used for vitamin‑rich teas
+  - Food
+    - Rose hips edible
+  - Notes & Other Uses
+    - Pink blooms
+    - Thorny thickets
+    - Meadow and riparian edges
+
+- Barberry (Berberis spp.)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used in cleansing washes
+  - Food
+    - Berries edible in small amounts
+  - Notes & Other Uses
+    - Thorny
+    - Colorful foliage
+    - Used for borders
+
+- Saltbush (Atriplex spp. — non‑flowering varieties)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Leaves used in mild teas
+  - Food
+    - Seeds edible
+  - Notes & Other Uses
+    - Dryland shrub
+    - Stabilizes soils
+    - Wildlife forage
+
+- New Mexico Olive (Forestiera pubescens)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild washes
+  - Food
+    - Fruits edible (small)
+  - Notes & Other Uses
+    - Dryland shrub
+    - Silver foliage
+    - Common in foothills
+
+## Flowering Shrubs
+
+- Rabbitbrush (Chrysothamnus nauseosus)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Mild respiratory teas
+    - Smoke used in cleansing
+  - Food
+    - None
+  - Notes & Other Uses
+    - Classic NM dryland shrub
+    - Bright yellow fall bloom
+    - Thrives on slopes and ridges
+    - Excellent for pollinators
+
+- Sagebrush (Artemisia tridentata)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in smudging
+    - Mild teas
+  - Food
+    - None
+  - Notes & Other Uses
+    - Iconic high‑desert shrub
+    - Aromatic
+    - Grows on dry slopes and plains
+
+- Mountain Mahogany (Cercocarpus montanus)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in traditional tonics
+  - Food
+    - None
+  - Notes & Other Uses
+    - Hardy foothill shrub
+    - Deep roots stabilize slopes
+    - Important wildlife browse
+
+- Apache Plume (Fallugia paradoxa)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - White flowers with pink plumes
+    - Thrives in dryland soils
+    - Native ornamental
+
+- Lilac (Syringa vulgaris)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Flowers used in mild calming teas
+  - Food
+    - None
+  - Notes & Other Uses
+    - Fragrant blooms
+    - Common ornamental
+    - Planted near homes and garden paths
+
+- Spirea (Spiraea spp.)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - None
+  - Food
+    - None
+  - Notes & Other Uses
+    - Dense clusters of blooms
+    - Common landscaping shrub
+
+- Butterfly Bush (Buddleia davidii)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - None
+  - Food
+    - None
+  - Notes & Other Uses
+    - Purple flower spikes
+    - Attracts pollinators
+    - Drought‑tolerant
+
+- Chamisa (Rabbitbrush variant)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Mild respiratory teas
+  - Food
+    - None
+  - Notes & Other Uses
+    - Bright yellow blooms
+    - Plains shrub
+    - Common in NM/TX drylands
+
+- Wright’s Silktassel (Garrya wrightii)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Leaves used in mild teas
+  - Food
+    - None
+  - Notes & Other Uses
+    - Evergreen shrub
+    - Tassel‑like flowers
+    - Canyon edges
+
+- Mescal Bean (Sophora secundiflora — shrub form)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Seeds used ceremonially (not edible)
+  - Food
+    - None
+  - Notes & Other Uses
+    - Purple blooms
+    - Iconic NM/TX shrub
+    - Drought‑tolerant
+
+- Desert Sage (Salvia dorrii)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Leaves used in smudging and teas
+  - Food
+    - None
+  - Notes & Other Uses
+    - Aromatic
+    - Purple blooms
+    - Dry slopes
+
+## Ornamental Shrubs
+
+- Boxwood (Buxus spp.)
+  - Location
+    - **Estate**
+  - Medicinal
+    - None
+  - Food
+    - None
+  - Notes & Other Uses
+    - Formal hedging shrub
+    - Estate landscaping staple
+
+- Holly (Ilex spp. — dwarf varieties)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild teas
+  - Food
+    - Berries not edible
+  - Notes & Other Uses
+    - Evergreen
+    - Winter color
+    - Planted near homes
+
+- Nandina (Heavenly Bamboo)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - None
+  - Food
+    - Berries not edible
+  - Notes & Other Uses
+    - Red berries
+    - Feathery foliage
+    - Drought‑tolerant ornamental
+
+- Privet (Ligustrum spp. — shrub form)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild washes
+  - Food
+    - Berries not edible
+  - Notes & Other Uses
+    - Fast‑growing hedge
+    - Used for privacy screens
+    - Common in formal gardens
+
+## Shrubs
+
+- Catclaw Acacia (Acacia greggii — shrub form)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Pods used in mild washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Thorny
+    - Drought‑proof
+    - Dry slopes and ranchlands
+
+- Buckthorn (Rhamnus spp. — shrub form)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Bark used cautiously
+  - Food
+    - None
+  - Notes & Other Uses
+    - Dense thickets
+    - Dry slopes
+    - Wildlife cover
+
+- Greasewood (Sarcobatus vermiculatus)
+  - Location
+    - **Ranch**
+  - Medicinal
+    - None
+  - Food
+    - None
+  - Notes & Other Uses
+    - Salt‑tolerant
+    - Alkaline soils
+    - Classic plains shrub

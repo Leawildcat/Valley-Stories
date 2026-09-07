@@ -1,0 +1,972 @@
+# Trees
+
+## Conifers
+
+- Ponderoso Pine
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Used in poultices
+    - Sap used as bandaid
+  - Food
+    - Needles used in teas
+  - Notes & Other Uses
+    - High‑elevation
+    - Drought‑tolerant
+    - Resinous
+    - Used for timber and resin production
+
+- Lodgepole Pine (Pinus contorta)
+  - Location
+    - **Valley**  
+    - **Estate**  
+    - **Ranch**
+  - Medicinal
+    - Resin used in salves (details in Sahbobuk.md)
+  - Food
+    - Needles used for mild teas
+  - Notes & Other Uses
+    - Common in mixed conifer forests  
+    - Straight trunks used for poles and posts  
+    - Fire‑adapted  
+    - Often found with Ponderosa and Fir  
+    - Light timber use
+
+- Japanese Black Pine (Pinus thunbergii)
+  - Location
+    - **Ranch**  
+    - **Estate** (if planted)
+  - Medicinal
+    - None
+  - Food
+    - None
+  - Notes & Other Uses
+    - **Ornamental pine**  
+    - Salt‑tolerant and hardy  
+    - Fast‑growing once established  
+    - Often used in Japanese gardens  
+    - Your “Charlie Brown tree” — rescued, planted, now ~20 ft tall  
+    - Adds cultural and personal flavor to the ranch landscape
+
+- White Pine (Pinus monticola)
+  - Location
+    - **Estate**  
+    - **Valley**
+  - Medicinal
+    - Needles used for vitamin‑rich teas
+  - Food
+    - Needles used in teas
+  - Notes & Other Uses
+    - High‑elevation species  
+    - Softwood  
+    - Used for specialty woodworking  
+    - Appears in mixed conifer stands with fir and spruce
+
+- Limber Pine (Pinus flexilis)
+  - Location
+    - **Estate**  
+    - **Ranch**
+  - Medicinal
+    - Resin used in traditional remedies
+  - Food
+    - Seeds edible but small
+  - Notes & Other Uses
+    - Wind‑resistant  
+    - Found on ridges and rocky slopes  
+    - Important for wildlife  
+    - Slow‑growing, long‑lived
+
+- Afghan Pine (Pinus eldarica)
+  - Location
+    - **Ranch**
+  - Medicinal
+    - None
+  - Food
+    - None
+  - Notes & Other Uses
+    - Ornamental and windbreak pine
+    - Extremely drought‑tolerant
+    - Common in West Texas ranches and neighborhoods
+    - Globe‑shaped canopy when trimmed
+    - Produces large cones
+    - Fast‑growing and hardy
+    - Often planted in rows for wind protection
+    - Fits ranch landscaping and yard trees
+
+- Blue Spruce (Picea pungens)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Resin used in traditional salves
+  - Food
+    - Needles used for mild teas
+  - Notes & Other Uses
+    - Popular Christmas tree species
+    - Dense, symmetrical growth
+    - Used for specialty timber
+    - Resin used for rosin production
+    - Often planted near estates and ranch homes
+    - Can be part of the logging economy
+
+- Engelmann Spruce (Picea engelmannii)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Resin used in poultices
+  - Food
+    - Needles used in teas
+  - Notes & Other Uses
+    - High‑elevation spruce
+    - Common in mixed conifer stands
+    - Part of the copse forming the natural shelter at the meadow edge
+    - Provides dense canopy and wind protection
+    - Used for instrument wood and specialty timber
+
+- Colorado Spruce (regional variant of Blue Spruce)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Resin used in washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Hardy spruce species
+    - Similar to Blue Spruce
+    - Used ornamentally and for windbreaks
+    - Appears in mixed stands with Fir and Pine
+
+- Subalpine Fir (Abies lasiocarpa)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Resin used in poultices
+    - Needles used in aromatic teas
+  - Food
+    - None
+  - Notes & Other Uses
+    - High‑elevation fir
+    - Soft, flexible needles
+    - Common with Spruce and Lodgepole Pine
+    - Part of the copse forming the natural shelter at the meadow edge
+    - Provides thick canopy cover and wind protection
+    - Used for light timber and holiday greenery
+
+- Douglas Fir (Pseudotsuga menziesii)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Resin used in traditional salves
+    - Needles used in mild teas
+  - Food
+    - None
+  - Notes & Other Uses
+    - Not a true fir but common in mixed conifer forests
+    - Strong, durable timber
+    - Used for beams, posts, and construction
+    - Appears with Ponderosa, Spruce, and Lodgepole
+    - Provides excellent windbreak and shade
+    - Found along mid‑elevation slopes and estate edges
+
+- Eastern Redcedar (Juniperus virginiana)
+  - Location
+    - **Ranch**
+  - Medicinal
+    - Leaves used in washes and smudging
+  - Food
+    - None
+  - Notes & Other Uses
+    - Common ranch windbreak tree
+    - Dense, umbrella‑shaped crown
+    - Extremely drought‑tolerant
+    - Used for fence posts and shelterbelts
+    - Provides privacy and wind protection
+    - Often planted in long rows along property lines
+
+- Rocky Mountain Juniper (Juniperus scopulorum)
+  - Location
+    - **Ranch**
+    - **Estate**
+  - Medicinal
+    - Berries used sparingly as seasoning
+    - Smoke used in cleansing
+  - Food
+    - Berries (not eaten in quantity)
+  - Notes & Other Uses
+    - Columnar, umbrella‑like shape
+    - Hardy and drought‑tolerant
+    - Used for windbreaks and ornamental planting
+    - Appears in mixed dryland stands
+    - Provides excellent wind protection for ranch structures
+
+- Western Redcedar (Thuja plicata)
+  - Location
+    - **Estate**
+  - Medicinal
+    - Leaves used in cleansing washes
+    - Wood used in smoke purification
+  - Food
+    - None
+  - Notes & Other Uses
+    - Aromatic, rot‑resistant wood
+    - Used for siding, shingles, and ceremonial items
+    - Prefers moist, shaded Estate areas
+    - Often planted ornamentally near homes
+    - Not common in Ranch drylands
+
+- Incense Cedar (Calocedrus decurrens)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Leaves used in aromatic bundles
+    - Wood used for ritual tools
+  - Food
+    - None
+  - Notes & Other Uses
+    - Tall, columnar cedar
+    - Distinct incense‑like scent
+    - Found in mixed conifer forests
+    - Durable wood used for pencils and fine woodworking
+    - Appears with Fir, Pine, and Spruce in Valley elevations
+
+- White Fir (Abies concolor)
+  - Location
+    - **Valley** (upper slopes)
+    - **Estate** (higher elevation)
+    - **Ranch** (only in shaded, moist pockets)
+  - Medicinal
+    - Resin used in salves
+    - Needles used in respiratory teas
+  - Food
+    - None
+  - Notes & Other Uses
+    - Classic Southern Rockies species
+    - Found heavily in Ruidoso, Chama, Cloudcroft, Taos, Santa Fe mountains
+    - Prefers cool, moist slopes
+    - Shade‑tolerant
+    - Softwood
+    - Used for construction, beams, and framing
+    - Distinctive blue‑green needles
+    - Often mixed with Douglas fir and spruce
+
+## Deciduous (non-hardwoods)
+
+- Aspen (Populus tremuloides)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used for pain relief
+  - Food
+    - None
+  - Notes & Other Uses
+    - Common in clonal colonies
+    - Provides habitat for wildlife
+    - High‑elevation
+    - Moisture‑dependent
+    - Partial shade tolerant
+    - Soil stabilization
+    - Partial ring denotes entrance The Meadow in the Valley
+
+- Poplar (Populus deltoides)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used in mild anti‑inflammatory washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Fast‑growing
+    - Softwood deciduous
+    - Common windbreak tree
+    - Moisture‑tolerant but survives dry spells
+    - Often planted near ranch houses and fence lines
+    - Related to cottonwood (same genus)
+
+- Boxelder (Acer negundo)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Inner bark used in mild washes
+  - Food
+    - Sap (thin, rarely used)
+  - Notes & Other Uses
+    - Softwood maple
+    - Extremely drought‑tolerant
+    - Common in ranch windbreaks
+    - Fast‑growing, short‑lived
+    - Appears in disturbed soils and creekbeds
+
+- Siberian Elm (Ulmus pumila)
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - None traditionally
+  - Food
+    - None
+  - Notes & Other Uses
+    - Softwood elm
+    - Extremely drought‑tolerant
+    - Common in ranches, fence lines, abandoned homesteads
+    - Brittle wood, not used for lumber
+    - Fast‑growing, invasive
+    - Distinct from Texas Elm (hardwood)
+
+- Silver Leaf Maple (Acer saccharinum)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Sap used in mild tonics (similar to other maples)
+  - Food
+    - Sap (thin; rarely reduced into syrup)
+  - Notes & Other Uses
+    - Softwood maple
+    - Fast‑growing, brittle wood
+    - Extremely common in NM/TX towns and ranches
+    - Tolerates alkaline soils
+    - Provides fast shade
+    - Often planted intentionally near homes, barns, and fence lines
+
+- Arizona Ash (Fraxinus velutina)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild anti‑inflammatory washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Native softwood ash
+    - Extremely drought‑tolerant
+    - Common shade tree in NM/TX towns and ranches
+    - Fast‑growing, provides dense canopy
+    - Often planted near homes and barns for quick shade
+    - Distinct from hardwood ash species
+
+- Raywood Ash (Fraxinus angustifolia ‘Raywood’)
+  - Location
+    - **Estate**
+    - **Valley**
+  - Medicinal
+    - None traditionally
+  - Food
+    - None
+  - Notes & Other Uses
+    - Softwood ash
+    - Known for deep red fall color
+    - Often planted ornamentally but naturalized in NM/TX
+    - Tolerates alkaline soils
+    - Provides fast, filtered shade
+    - More brittle than Arizona Ash
+
+### Lake & Riparian Trees
+
+- Cottonwood
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Buds used in salves
+  - Food
+    - None
+  - Notes & Other Uses
+    - Fast‑growing
+    - Shade
+    - Windbreak
+
+- Willow
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used for pain relief
+  - Food
+    - None
+  - Notes & Other Uses
+    - Riparian
+    - Moisture‑dependent
+    - Fast‑growing
+    - Soil stabilization
+    - Shade
+    - One of few trees in the meadow at the end of the lake
+
+- Birch (Betula papyrifera / Betula nigra)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in anti‑inflammatory washes
+    - Leaves used in mild teas
+  - Food
+    - Sap can be reduced into syrup (rarely done)
+  - Notes & Other Uses
+    - Moisture‑dependent
+    - Found near streams, lakes, and cool slopes
+    - Light, papery bark used for fire‑starting
+    - Provides wildlife habitat
+    - Estate birch often planted ornamentally for color contrast
+
+- Alder (Alnus incana / Alnus tenuifolia)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used for anti‑inflammatory washes (details in Sahbobuk.md)
+  - Food
+    - None
+  - Notes & Other Uses
+    - Riparian tree
+    - Moisture‑dependent
+    - Nitrogen‑fixing (improves soil fertility)
+    - Provides shade and bank stabilization
+    - Found near willow and cottonwood
+    - Important for fish habitat (cooling water + root structure)
+
+- Riparian Ash (Fraxinus spp.)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild anti‑inflammatory washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Moisture‑dependent ash species
+    - Found near streams, seasonal flows, and lake edges
+    - Provides filtered shade for fish habitat
+    - Helps stabilize banks
+    - Distinct from upland Arizona Ash
+
+- Riparian Poplar (Populus spp.)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Bark used in mild washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Moisture‑dependent poplar species
+    - Found near creeks, marsh edges, and lake inflows
+    - Provides fast shade
+    - Softwood deciduous
+    - Related to cottonwood
+    - Important for cooling shallow water zones
+
+- Rocky Mountain Maple (Acer glabrum)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in mild washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - Riparian‑adjacent maple
+    - Grows near wet meadow edges and cool streambanks
+    - Drops seeds and insects into the water → fish food
+    - Supports caterpillars and pollinators
+    - Known in canon as the “Landing Branch”
+    - Provides filtered shade along river edges
+
+## Hardwoods
+
+- Oak (Quercus spp.)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used for astringent washes
+  - Food
+    - Acorns (processed)
+  - Notes & Other Uses
+    - True hardwood
+    - Strong, durable timber
+    - Used for beams, posts, and long‑lasting structures
+    - Appears in mixed hardwood stands
+    - Wildlife food source (acorns)
+
+- Maple (Acer spp.)
+  - Location
+    - **Estate**
+    - **Valley** (cool pockets)
+  - Medicinal
+    - Sap used in mild tonics
+  - Food
+    - Sap (syrup if reduced)
+  - Notes & Other Uses
+    - True hardwood
+    - Ornamental in Estate landscaping
+    - Moisture‑dependent
+
+- Texas Elm (Ulmus crassifolia / Ulmus americana)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Inner bark used in soothing washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - True hardwood
+    - Shade tree
+    - Fast‑growing
+    - Used for furniture and specialty timber
+    - Appears in riparian zones but classified as hardwood
+
+- Black Locust (Robinia pseudoacacia)
+  - Location
+    - **Ranch**
+    - **Estate**
+  - Medicinal
+    - Bark and leaves used cautiously in traditional remedies
+  - Food
+    - None
+  - Notes & Other Uses
+    - Extremely rot‑resistant wood
+    - Used for fence posts, beams, and long‑lasting structures
+    - Fast‑growing and drought‑tolerant
+    - Common on ranch edges and older homesteads
+
+- Honey Locust (Gleditsia triacanthos)
+  - Location
+    - **Ranch**
+  - Medicinal
+    - Pods used in mild tonics historically
+  - Food
+    - Sweet pods edible in small amounts
+  - Notes & Other Uses
+    - Thorny, drought‑tolerant hardwood
+    - Used for shade and windbreaks
+    - Wood used for posts and small timber
+    - Common in ENM/WTX ranchlands
+
+- New Mexico Locust (Robinia neomexicana)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Flowers used in mild teas
+  - Food
+    - Flowers edible
+  - Notes & Other Uses
+    - Native mountain locust
+    - Pink flowers
+    - Hard, durable wood used for small posts
+    - Appears along slopes and dry ridges
+
+- Valley Oak (Quercus lobata)
+  - Location
+    - **Estate**
+    - **Valley**
+  - Medicinal
+    - Acorns processed for flour
+  - Food
+    - Acorns (after leaching)
+  - Notes & Other Uses
+    - Large, spreading oak
+    - Used for shade and heavy beams
+    - Deep‑rooted and drought‑tolerant
+    - Appears in lower Valley elevations
+
+- Mesquite (Prosopis glandulosa)
+  - Location
+    - **Ranch**
+  - Medicinal
+    - Gum used in traditional remedies
+  - Food
+    - Pods used for flour
+  - Notes & Other Uses
+    - Extremely hard wood
+    - Used for specialty woodworking and firewood
+    - Common in ENM/WTX ranchlands
+    - Drought‑proof and long‑lived
+
+- Bigtooth Maple (Acer grandidentatum)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Sap used in mild tonics
+  - Food
+    - Sap (limited use)
+  - Notes & Other Uses
+    - Native mountain maple
+    - Hardwood used for furniture and specialty items
+    - Appears in canyons and mid‑elevation slopes
+    - Bright fall color
+
+- American Elm (Ulmus americana)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Inner bark used historically
+  - Food
+    - None
+  - Notes & Other Uses
+    - Large shade tree
+    - Used for furniture and specialty wood
+    - Common in older ranch homesteads and towns
+
+- Chinese Elm (Ulmus parvifolia)
+  - Location
+    - **Ranch**
+    - **Estate**
+  - Medicinal
+    - None
+  - Food
+    - None
+  - Notes & Other Uses
+    - Hard, durable wood
+    - Common ornamental shade tree in ENM/WTX
+    - Used for small timber and ranch shade
+
+- Gambel Oak (Quercus gambelii)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used in traditional astringent washes
+  - Food
+    - Acorns (wildlife food; rarely processed by humans)
+  - Notes & Other Uses
+    - True hardwood
+    - Native to NM highlands and foothills
+    - Forms dense thickets and mixed hardwood stands
+    - Provides major wildlife habitat (deer, squirrels, birds)
+    - Seasonal color changes (yellow → rust → brown)
+    - Used for posts, firewood, and small timber
+    - Common on dry slopes and canyon edges
+
+- Hickory (Carya spp.)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in traditional washes
+  - Food
+    - None (nuts not common in NM/TX varieties)
+  - Notes & Other Uses
+    - True hardwood
+    - Dense, shock‑resistant wood
+    - Used for tool handles and specialty timber
+    - Appears in cooler pockets and mixed hardwood stands
+    - Rare but plausible in high‑elevation NM valleys
+
+- Sycamore (Platanus occidentalis / Platanus wrightii)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in mild washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - True hardwood
+    - Large, spreading shade tree
+    - Common near creeks and moist valley pockets
+    - Distinct mottled bark
+    - Provides heavy shade and bank stabilization
+    - Not strictly riparian, so belongs in Hardwoods
+
+- Buckthorn (Rhamnus spp.) — Tree Form
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Bark used cautiously in traditional remedies
+  - Food
+    - None
+  - Notes & Other Uses
+    - True hardwood
+    - Can grow as small tree or large shrub
+    - Dense wood used for small tools
+    - Appears on dry slopes and mixed hardwood stands
+    - Shrub form will appear in Shrubs section later
+
+- Hoptree (Ptelea trifoliata)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Bark used in traditional tonics
+  - Food
+    - Seeds historically used as hop substitute
+  - Notes & Other Uses
+    - True hardwood
+    - Small shade tree
+    - Native to NM/TX canyon edges
+    - Tolerates dry soils
+    - Important for butterflies and pollinators
+
+- Catclaw Acacia (Acacia greggii) — Tree Form
+  - Location
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Pods used in mild washes
+  - Food
+    - None
+  - Notes & Other Uses
+    - True hardwood
+    - Thorny, drought‑proof
+    - Used for fence posts and firewood
+    - Appears in dry slopes and ranchlands
+    - Shrub form will appear in Shrubs section later
+
+## Fruits & Nuts
+
+- Chokecherry (Prunus virginiana)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used in traditional cough remedies
+  - Food
+    - Berries used for syrups and jellies (must be cooked)
+  - Notes & Other Uses
+    - Common NM/TX wild fruit
+    - Found along slopes and moist pockets
+    - Important wildlife food
+    - Often planted near homesteads for seasonal harvest
+
+- Wild Plum (Prunus americana / Prunus mexicana)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used in mild washes
+  - Food
+    - Plums used for preserves, drying, and fresh eating
+  - Notes & Other Uses
+    - Common in NM/TX wild thickets
+    - Appears along creekbeds and old homestead sites
+    - Early‑season fruit
+    - Supports pollinators and wildlife
+
+- Apple (Malus domestica)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild teas
+  - Food
+    - Apples (fresh, dried, cider)
+  - Notes & Other Uses
+    - Orchard tree
+    - Common in older ranch orchards
+    - Cold‑tolerant varieties thrive in valley elevation
+    - Important seasonal harvest crop
+
+- Apricot (Prunus armeniaca)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild washes
+  - Food
+    - Apricots (fresh, dried, preserves)
+  - Notes & Other Uses
+    - Thrives in NM/TX climates
+    - Early blooming tree
+    - Common in homestead orchards
+    - High‑value fruit for drying and canning
+
+- Piñon Pine (Pinus edulis)
+  - Location
+    - **Estate**  
+    - **Ranch**
+  - Medicinal  
+    - Resin used in traditional remedies (details in Sahbobuk.md)
+  - Food  
+    - **Pine nuts** (high‑value seasonal food)
+  - Notes & Other Uses  
+    - Dryland pine  
+    - Slow‑growing  
+    - Important wildlife food source  
+    - Used for small timber and firewood
+
+- Pecan (Carya illinoinensis)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Shells used in mild teas
+  - Food
+    - Pecans (major orchard crop)
+  - Notes & Other Uses
+    - True hardwood tree, but categorized here for human food
+    - Common in NM/TX orchards and ranch plantings
+    - High‑value seasonal nut
+    - Deep‑rooted and drought‑tolerant once established
+
+- Arizona Walnut (Juglans major)
+  - Location
+    - **Valley**
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Hulls used in traditional cleansing washes
+  - Food
+    - Walnuts (high‑value nut)
+  - Notes & Other Uses
+    - True hardwood tree, but categorized here for human food
+    - Native to NM/TX canyon edges and riparian pockets
+    - Used in baking, oils, and seasonal harvest
+    - Wildlife also feeds on fallen nuts
+    - Appears in older ranch homesteads and orchard edges
+
+## Ornamentals
+
+- Red Oak (Quercus rubra)
+  - Location
+    - **Estate**
+    - **Ranch**
+    - **Valley**
+  - Medicinal
+    - Mild astringent bark used traditionally for topical washes
+  - Food
+    - Acorns edible after leaching tannins
+  - Notes & Other Uses
+    - Brilliant red fall color
+    - Strong shade tree
+    - Symbolic of endurance and legacy
+
+- Mimosa (Albizia julibrissin)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Flowers used in calming teas
+    - Bark used in traditional mood‑support remedies
+  - Food
+    - Not edible
+  - Notes & Other Uses
+    - Feather‑soft pink blooms
+    - Attracts pollinators
+    - Light, airy canopy
+    - Associated with joy and celebration
+
+- Crepe Myrtle (Lagerstroemia indica)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in mild anti‑inflammatory folk remedies
+  - Food
+    - Not edible
+  - Notes & Other Uses
+    - Long blooming season
+    - Sculptural bark
+    - Iconic Southern ornamental
+    - Excellent for color layering
+
+- Desert Willow (Chilopsis linearis)
+  - Location
+    - **Valley**
+    - **Ranch**
+  - Medicinal
+    - Bark and leaves used in traditional cough and fever remedies
+  - Food
+    - Not edible
+  - Notes & Other Uses
+    - Trumpet‑shaped flowers
+    - Drought tolerant
+    - Hummingbird attractor
+    - Elegant branching structure
+
+- Western Redbud (Cercis occidentalis)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Flowers mildly astringent
+    - Bark historically used in small doses for cold remedies
+  - Food
+    - Flowers edible
+    - Young pods edible when tender
+  - Notes & Other Uses
+    - Brilliant magenta spring blooms
+    - Heart‑shaped leaves
+    - Symbolic of renewal and beginnings
+
+- Velvet Ash (Fraxinus velutina)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Bark used in traditional anti‑inflammatory preparations
+  - Food
+    - Not edible
+  - Notes & Other Uses
+    - Soft velvety leaves
+    - Drought tolerant
+    - Graceful canopy
+    - Excellent for structured shade
+
+- Chaste Tree (Vitex agnus‑castus)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Seeds and leaves used in hormonal balance and cycle support
+  - Food
+    - Not edible
+  - Notes & Other Uses
+    - Lavender‑blue flower spikes
+    - Aromatic foliage
+    - Symbolic of clarity and discipline
+
+## Ancient & Unknown Trees
+
+- The Great Oak
+  - Location
+    - **Valley Entrance**
+  - Medicinal
+    - None known
+  - Food
+    - None
+  - Notes & Other Uses
+    - Appears in Chapter 1
+    - Marks the threshold from the BLM land into the Valley
+    - Older than surrounding hardwoods
+    - Considered a guardian marker
+    - Not fully identifiable by modern taxonomy
+
+- The Unnamed Hardwoods
+  - Location
+    - **Deep Valley**
+  - Medicinal
+    - Unknown
+  - Food
+    - Unknown
+  - Notes & Other Uses
+    - Mentioned in Chapter 7
+    - Ancient trees the characters cannot identify
+    - Possibly pre‑settlement species
+    - May be part of the Valley’s memory
+    - Not classifiable under known NM/TX ecology
+    - Symbolic, mythic, tied to the Valley’s sentience
