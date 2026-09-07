@@ -52,7 +52,14 @@ Once those are done, LocationsMap.md becomes the master reference for every scen
 This will anchor shade logic, canopy scent, bark scent, and elevation constraints. Notes from Trees & Shrubs Organization will guide us through most of the details and types.  
 Must include berries for wine making, nuts for culinary use, and coniferous trees & hardwoods for timber and resin.  
 All will be classified as to one of the 3 main locations: Valley, Estate, or Ranch. This is the only item bolded.  '
-All will include, the name, location (in bold), medicinal uses (short version), Food uses (short version), and any notable ecological roles or other notes and uses.  
+All will include, the name, location (in bold), medicinal uses (short version), Food uses (short version), and any notable ecological roles or other notes and uses.
+
+- Name
+  - Location
+  - Medicinal
+  - Food
+  - Notes & Other Uses
+
 Main headings will include:
 
 - Trees
