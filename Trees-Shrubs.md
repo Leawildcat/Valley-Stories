@@ -742,6 +742,7 @@
   - Location
     - **Valley**
     - **Estate**
+    - **Ranch**
   - Medicinal
     - Bark used in traditional cough remedies
   - Food
@@ -756,6 +757,7 @@
   - Location
     - **Valley**
     - **Estate**
+    - **Ranch**
   - Medicinal
     - Bark used in mild washes
   - Food
@@ -768,6 +770,7 @@
 
 - Apple (Malus domestica)
   - Location
+    - **Valley**
     - **Estate**
     - **Ranch**
   - Medicinal
