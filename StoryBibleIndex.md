@@ -46,7 +46,7 @@ Pending completion of:
 
 Once those are done, LocationsMap.md becomes the master reference for every scene in the Valley.
 
-### 7. Trees‑Shrubs.md
+### 7. Trees.md & Shrubs.md
 
 **Trees and Shrubs was split into 2 files (Trees.md and Shrubs.md) due to the size the combined file was becoming after adding all the tress from the trees & shrubs organization.txt file.**
 **Because scented plants heavily relies on the Trees‑Shrubs file, we are currently working on it first as of September 7, 2026, before returning to Flowers‑Plants.**  
@@ -63,7 +63,7 @@ All will include, the name, location (in bold), medicinal uses (short version), 
 
 Main headings will include:
 
-- Trees
+- Trees **Complete**
   - Conifers - Pines, Firs, Spruces and any other cone-bearing/evergreen trees that do not have edible nuts or fruit.
   - Deciduous (non-hardwoods) - Trees that shed their leaves annually, and do not fit into the other categories nor do they have edible nuts or fruit.
   - Hardwoods - Trees that have dense, hard wood and typically shed their leaves annually.
