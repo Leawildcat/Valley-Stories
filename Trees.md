@@ -743,13 +743,45 @@
     - **Ranch**
   - Medicinal
     - Bark used in traditional cough remedies
+    - Fruit used in astringent syrups
   - Food
     - Berries used for syrups and jellies (must be cooked)
+    - Occasional use in ceremonial foods
   - Notes & Other Uses
     - Common NM/TX wild fruit
     - Found along slopes and moist pockets
     - Important wildlife food
     - Often planted near homesteads for seasonal harvest
+
+- Sweet Cherry (Prunus avium)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Fruit used in mild digestive tonics
+    - Stems sometimes used in traditional teas
+  - Food
+    - Sweet cherries (fresh eating)
+    - Used for preserves, drying, and seasonal festival dishes
+  - Notes & Other Uses
+    - True orchard cherry; grown in high‑elevation NM (Cloudcroft, San de Cristos)
+    - Cultivars include Bing, Lapins, Stella, Rainier
+    - High‑value seasonal crop for the Estate
+
+- Sour Cherry (Prunus cerasus)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Tart cherry juice used for inflammation relief
+    - Fruit used in sleep‑supporting tonics
+  - Food
+    - Pies, preserves, drying, winter storage
+    - Used for tart cherry juice and baking
+  - Notes & Other Uses
+    - Cold‑hardy and reliable fruiter at elevation
+    - Cultivars include Montmorency and North Star
+    - Backbone of the Estate’s preserve and winter pantry economy
 
 - Wild Plum (Prunus americana / Prunus mexicana)
   - Location
@@ -766,6 +798,23 @@
     - Early‑season fruit
     - Supports pollinators and wildlife
 
+- Plum (Prunus domestica)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Fruit used for gentle laxative effect
+    - Bark occasionally used in traditional remedies
+  - Food
+    - Early plums (JUL–AUG)
+    - Late varieties (SEP)
+    - Fresh eating, preserves, drying, sauces
+  - Notes & Other Uses
+    - Estate grows European and hybrid plums
+    - Ranch orchards maintain older American plum varieties
+    - Important bridge crop between summer and fall harvests
+    - Used heavily in preserves and wine
+
 - Apple (Malus domestica)
   - Location
     - **Valley**
@@ -773,6 +822,7 @@
     - **Ranch**
   - Medicinal
     - Leaves used in mild teas
+    - Apple cider vinegar used for digestion and tonic remedies
   - Food
     - Apples (fresh, dried, cider)
   - Notes & Other Uses
@@ -780,20 +830,104 @@
     - Common in older ranch orchards
     - Cold‑tolerant varieties thrive in valley elevation
     - Important seasonal harvest crop
+    - Largest orchard crop on the Estate
+    - Multiple cultivars: early, mid‑season, and storage apples
+    - Wild/naturalized apples found in Valley homestead remnants
+    - Supports cider production and vinegar economy
+    - Cold‑tolerant varieties thrive at Valley elevation
+
+- Crabapple (Malus spp.)
+  - Location
+    - **Valley**
+    - **Estate** (legacy trees only)
+  - Medicinal
+    - Fruit used for high‑pectin syrups and jellies
+    - Bark used in traditional tonics
+  - Food
+    - Crabapples (JUL–SEP)
+    - Jellies, cider blends, vinegar
+  - Notes & Other Uses
+    - Common around old homesteads
+    - High pectin content makes it valuable for preserves
+    - Valley trees are naturalized and variable
+    - Not a major orchard crop but important for heritage uses
 
 - Apricot (Prunus armeniaca)
   - Location
     - **Estate**
     - **Ranch**
   - Medicinal
-    - Leaves used in mild washes
+    - Dried fruit used in mild digestive remedies
+    - Leaves used in mild washes and teas
   - Food
     - Apricots (fresh, dried, preserves)
   - Notes & Other Uses
     - Thrives in NM/TX climates
-    - Early blooming tree
+    - Early blooming tree prone to early frosts
+    - Estate cultivars chosen for cold tolerance
     - Common in homestead orchards
-    - High‑value fruit for drying and canning
+    - High‑sugar fruit for drying and canning
+
+- Pear (Pyrus communis)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Fruit used in gentle digestive remedies
+    - Leaves occasionally used in mild teas
+  - Food
+    - Early pears (AUG)
+    - Main harvest pears (SEP)
+    - Fresh eating, preserves, drying, and winter storage
+  - Notes & Other Uses
+    - Reliable mid‑season orchard crop
+    - Common in older ranch orchards
+    - Estate cultivars include Bartlett‑type and cold‑hardy European pears
+    - Supports canning and winter pantry economy
+
+- Peach (Prunus persica)
+  - Location
+    - **Estate**
+    - **Ranch**
+  - Medicinal
+    - Leaves used in traditional calming teas
+    - Fruit used in gentle digestive tonics
+  - Food
+    - Peaches (AUG)
+    - Fresh eating, preserves, cobblers, drying
+  - Notes & Other Uses
+    - Sensitive to late frosts; thrives in protected Estate orchard rows
+    - Major summer fruit crop for ranch gardens
+    - Not found wild in the Valley
+    - Important for seasonal preserves and festival foods
+
+- Mulberry (Morus spp.)
+  - Location
+    - **Ranch**
+  - Medicinal
+    - Mild digestive teas from leaves
+  - Food
+    - Mulberries (fresh, dried, preserves)
+  - Notes & Other Uses
+    - Bird‑attracting tree
+    - Heavy seasonal fruit drop
+    - Common around ranch houses and fence lines
+    - Drought‑tolerant once established
+    - Shade tree in lower elevations
+
+- Hawthorn (Crataegus spp.)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Heart‑supporting berry teas
+  - Food
+    - Berries used in jams and syrups
+  - Notes & Other Uses
+    - Shrub‑tree hybrid depending on elevation
+    - Thorny; used as natural barrier plant
+    - Important wildlife forage
+    - Not present at the ranch due to soil and moisture limits
 
 - Piñon Pine (Pinus edulis)
   - Location
@@ -838,6 +972,18 @@
     - Used in baking, oils, and seasonal harvest
     - Wildlife also feeds on fallen nuts
     - Appears in older ranch homesteads and orchard edges
+
+- Chestnut (Castanea spp.)
+  - Location
+    - **Estate**
+  - Medicinal
+    - None known in canon
+  - Food
+    - Edible nut used in Valley cooking
+  - Notes & Other Uses
+    - Used exclusively as a spider repellant
+    - Placed in corners, closets, drawers, and storm cellar
+    - Not grown at the ranch, but used at the ranch.
 
 ## Ornamentals
 
