@@ -83,9 +83,11 @@
   - Food
     - Berries edible (bland)
   - Notes & Other Uses
+    - Gooseberry
     - High‑elevation shrub
     - Cool pockets
     - Supports pollinators
+    - Orchard economy
 
 - Golden Currant (Ribes aureum)
   - Location
@@ -96,9 +98,11 @@
   - Food
     - Berries edible (sweet)
   - Notes & Other Uses
+    -Gooseberry
     - Yellow spring blooms
     - Riparian‑adjacent
     - Wildlife food source
+    - Orchard economy
 
 - Serviceberry (Amelanchier alnifolia — shrub form)
   - Location
@@ -108,10 +112,109 @@
     - Bark used in mild washes
   - Food
     - Berries edible (sweet)
+    - Wine
   - Notes & Other Uses
+    - Juneberry
     - High‑elevation shrub
     - Wildlife food
     - Grows along cool slopes
+
+- Raspberry (Rubus idaeus)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Leaves used for teas and tonics
+    - Astringent, calming, supportive
+  - Food
+    - Fresh eating, jams, syrups, desserts
+    - Wine
+  - Notes & Other Uses
+    - Thorny bramble shrub
+    - Produces bright red berries in midsummer
+    - Found along forest edges and moist slopes
+    - Important wildlife food source
+    - Orchard economy
+
+- Blackberry (Rubus fruticosus)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Leaves used for digestive teas
+    - Roots used for astringent tonics
+  - Food
+    - Fresh eating, pies, preserves
+    - Wine
+  - Notes & Other Uses
+    - Dense, thorny bramble
+    - Produces large dark berries in late summer
+    - Thrives in disturbed soils and sunny edges
+    - Strong wildlife attractant
+    - Orchard economy
+
+- Buffaloberry (Shepherdia argentea)
+  - Location
+    - **Valley**
+  - Medicinal
+    - Berries used for cleansing blends
+    - Astringent, tonic properties
+  - Food
+    - Berries used for jams, sauces, and drying
+    - Wine
+  - Notes & Other Uses
+    - Silvery‑leafed shrub
+    - Produces tart red berries
+    - Grows in dry, open prairie and foothills
+    - Nitrogen‑fixing plant that enriches soil
+
+- Thimbleberry (Rubus parviflorus)
+  - Location
+    - **Valley**
+  - Medicinal
+    - Leaves used for poultices
+    - Mild astringent properties
+  - Food
+    - Soft berries eaten fresh or dried
+    - Wine
+  - Notes & Other Uses
+    - Tall, soft‑stemmed shrub
+    - Large maple‑like leaves
+    - Produces delicate red berries
+    - Found in moist forest understory
+    - Lea's most famous and sought after wine
+
+- Huckleberry (Vaccinium membranaceum)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Berries used for immune‑supporting teas
+    - Leaves used sparingly
+  - Food
+    - Fresh eating, pies, syrups, drying
+    - Wine
+  - Notes & Other Uses
+    - Small, woody shrub
+    - Produces dark purple berries
+    - Thrives in high‑elevation forests
+    - Important wildlife forage
+    - Valley has rare white berries
+
+- Elderberry (Sambucus nigra / cerulea)
+  - Location
+    - **Valley**
+    - **Estate**
+  - Medicinal
+    - Berries used for syrups and immune blends
+    - Flowers used for teas
+  - Food
+    - Berries cooked for syrups, jams, wine (never eaten raw)
+  - Notes & Other Uses
+    - Tall, multi‑stem shrub
+    - Large clusters of white flowers
+    - Dark berries in late summer
+    - Found along streams and moist forest edges
 
 - Chokecherry (Prunus virginiana — shrub form)
   - Location
