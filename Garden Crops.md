@@ -84,6 +84,7 @@
   - Wild Plums (American Plum) (APR–JUN)
   - Wild Cherries (bird-scattered, naturalized) (MAY–JUL)
   - Crabapples (JUL–SEP)
+  - New Mexico Olive (Forestiera pubescens) (AUG–SEP)
   - Wild Apples (naturalized varieties) (AUG–SEP)
   - Hawthorn fruit (SEP)
 
@@ -395,6 +396,7 @@
   - Cucumbers (JUN–JUL)
   - Yellow crookneck squash (JUN–JUL)
   - Zucchini (JUN–JUL)
+  - Mulberries (JUN–JUL)
   - Peaches (JUN–JUL)
   - Plums (JUN–JUL)
   - Tomatoes (JUN–AUG)
@@ -437,6 +439,7 @@
 - mesquite pods ( beans ground for flour, medicine, and sweetner)
 - yucca root (Plains medicinal + food)
 - soapweed yucca (traditional cleansing plant)
+- New Mexico Olive (Forestiera pubescens) (AUG–SEP)
 
 ---
 
