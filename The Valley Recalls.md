@@ -1618,7 +1618,7 @@ Davey studies his friend, knowing something is still off but plays along. “Oka
 
 Lynn studies her husband for a minute, but finds nothing wrong other than his quietness this morning. She leans down kissing his cheek. “Okay, but we are about to head into town to do some grocery shopping and I guess we’ll take the kids with us now. Try not to get stuck or stranded.”
 
-Jack very unconvincingly offers, “We’ll try. Have fun and see you later. Davey just grab the pot and a hat. We have mugs in the studio.”
+Frank very unconvincingly offers, “We’ll try. Have fun and see you later. Davey just grab the pot and a hat. We have mugs in the studio.”
 
 He turns and motions for Jack to follow him and goes around to the side of the house where it looks like a detached double-car garage sits. They enter through a side door, and Jack is amazed as he was expecting cars and a workshop, not a studio complete with office space, sound booths and what looks to be a dark room with pictures hanging to dry. He stops and pauses at the picture of the tree with the lightning strike tattoo. He remembers the retelling of the bedtime story, but dismisses it as the trigger.
 

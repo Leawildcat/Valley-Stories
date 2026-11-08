@@ -5,6 +5,7 @@
 *.bak
 *.backup
 *~$
+*.wbk
 
 # Ignore temporary editor files
 *.tmp
