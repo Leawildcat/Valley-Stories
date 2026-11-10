@@ -6,7 +6,7 @@ These are the official files that make up the Story Bible.
 
 Still needs to be filled out.
 
-### 2. CharacterMap.md
+## 2. CharacterMap.md
 
 Complete through the current chapter and the next one.  
 We added/changed:
@@ -15,12 +15,12 @@ We added/changed:
 - The Duke and the Hawthorne family tree
 - Moved Lea's Daughter into Extended family
 
-### 3. Fish and Amphibians.md
+## 3. Fish and Amphibians.md
 
 **Complete.**  
 This is your fully built aquatic ecosystem — river, lake, bend, marsh, seasonal flow, scent cues, and edible vs non‑edible species.
 
-### 4. Flowers‑Plants.md
+## 4. Flowers‑Plants.md
 
 **Our current project as of September 8, 2026**
 This is the one we’re actively filling out zone by zone:
@@ -29,12 +29,12 @@ This is the one we’re actively filling out zone by zone:
 - Scented Fungi
 - Unscented Plants but present in the canon
 
-### 5. Garden Crops.md
+## 5. Garden Crops.md
 
 **Complete** unless we add new cultivated plants.  
 This file is stable.
 
-### 6. LocationsMap.md
+## 6. LocationsMap.md
 
 Pending completion of:
 
@@ -45,7 +45,11 @@ Pending completion of:
 
 Once those are done, LocationsMap.md becomes the master reference for every scene in the Valley.
 
-### 7. Trees.md & Shrubs.md
+### Travel Notes
+- Currently as TravelTimes.md will be referenced here.
+- Notes on travel routes and key locations.
+
+## 7. Trees.md & Shrubs.md
 
 **Completed**  
 This will anchor shade logic, canopy scent, bark scent, and elevation constraints. Notes from Trees & Shrubs Organization will guide us through most of the details and types.  
@@ -77,7 +81,7 @@ Main headings will include:
 
  > Trees and Shrubs was split into 2 files (Trees.md and Shrubs.md) due to the size the combined file was becoming after adding all the tress from the trees & shrubs organization.txt file. **Because scented plants heavily relies on the Trees‑Shrubs file, we completed working on them as of September 8, 2026, now returning to Flowers‑Plants.
 
-### 8. Sahbobuk.md (Not Yet Created)
+## 8. Sahbobuk.md (Not Yet Created)
 
 This is the **living medicine book** — the one passed down through the Medicine Woman line.
 
@@ -92,6 +96,12 @@ It will include:
 
 And yes — we promised Brent we wouldn’t start this one until LocationsMap.md is finished.  
 We’re keeping that promise.
+
+## 9. ContinuityBible.md
+
+This is where we track story continuity and rules.
+- Born out of the need to track story rules and continuity where summaries were failing.
+- Tracks character knowledge, reader knowledge, and story rules, questions, and foreshadowing.
 
 ---
 

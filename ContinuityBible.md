@@ -1,0 +1,570 @@
+# The Valley Recalls - Continuity Bible
+
+## Purpose
+
+This document tracks established canon, continuity details, mythology, character knowledge, timeline anchors, foreshadowing, and unresolved questions appearing in the manuscript of *The Valley Recalls*.
+
+Rules:  
+- Record only information established in the manuscript.
+- Record observations, not explanations.
+- Separate reader knowledge from character knowledge.
+- Record chapter-specific reveals.
+- Track unresolved questions.
+- Track Valley rules and mythology.
+  - Shapeshifting and clothing rules currently in CharacterMap.md until Sahbobuk.md is added.
+- Track timeline anchors
+  - Including ages of characters if given or can be inferred
+  - Travel times between locations
+  - Seasonal changes and/or times of day
+  - Approximate time of flashbacks or recalled events (like 14 years before current timeline, or a month ago, etc.)
+- Track physical world changes.
+- Do not record author-only information.
+- Use LocationMap.md for referencing location names.
+
+---
+
+## Chapter Numbers and Titles
+
+### Global Continuity Categories
+
+### Timeline Anchors
+Events with known sequence placement.
+### POV Characters
+### Characters Appearing
+### New Characters Introduced
+### Reader Knowledge
+What the reader has been told.
+### Character Knowledge
+What each character knows at this point in the story.
+#### Character Name
+Before:
+After:
+### Relationships
+Character relationship changes.
+#### Characters' relationship established including with animals
+Before:
+After:
+### Locations
+Important physical locations.
+#### Location name form LocationsMap.md
+- Populated what the location is used for
+- Populated with sites at that location
+### Mythology Reveals
+### Valley Rules Established
+Confirmed rules governing the Valley.
+### Transformation Rules Established
+Confirmed rules concerning animal and human forms.
+### Spirit World Information
+Confirmed information about death, spirits, and return.
+### Important Objects
+Any objects of significance to the Valley or its inhabitants.
+### Physical Changes
+### Foreshadowing
+Setups, unusual events, symbolism, recurring imagery, or suspicious details that lack explanation at the current point in the story.
+### Open Questions
+Mysteries not yet answered.
+### End of Chapter Status
+#### Listed by each character present in the chapter
+
+---
+
+## Chapter 1 - The Valley That Remembers
+
+### Timeline Anchors
+- Present-day opening of the story.
+- Aaron, Kevin, and Davey are on a fishing trip in the Rockies.
+- The brothers pursue a painted dog that steals Davey's trout.
+- The brothers enter the Valley for the first time.
+- The brothers spend one night in the Valley.
+
+### POV Characters
+- Aaron
+- Kevin
+- Davey
+
+### Characters Appearing
+- The Valley
+- Aaron
+- Kevin
+- Davey
+- Lea
+- Painted Dog (unnamed)
+- Red-tailed Hawk (unnamed)
+- Wolf (unnamed)
+- Bear (unnamed)
+- Cougar (unnamed)
+
+### New Characters Introduced
+- Same as Characters Appearing due to being first chapter.
+- Aaron, Kevin, and Davey are introduced as brothers.
+- Painted Dog (unnamed), Red-tailed Hawk (unnamed), Wolf (unnamed), & Bear (unnamed) collectively named as 'Guardians'
+
+### Reader Knowledge Gained
+- A hidden valley exists.
+- Lea lives in the Valley.
+- Animals within the Valley appear unusually connected to Lea.
+- The Valley evokes strong feelings of peace, comfort, familiarity, and belonging.
+- Visitors experience memories and emotions connected to childhood and home.
+- Lea can take cougar form.
+- The Valley seems to respond to her presence.
+- The Valley feels different from the outside world.
+- The brothers quickly develop trust in Lea.
+
+### Character Knowledge Changes
+
+#### Aaron
+Before:
+- On a fishing trip with his brothers.
+- Oldest of the brothers.
+- Same age as when his mother passeed away.
+
+After:
+- Knows the Valley exists.
+- Meets Lea.
+- Experiences feelings of familiarity and nostalgia.
+- Experiences a sense of connection to the Valley.
+
+#### Kevin
+Before:
+- On a fishing trip with his brothers.
+- Middle brother.
+
+After:
+- Knows the Valley exists.
+- Meets Lea.
+- Experiences feelings of comfort and belonging.
+- Notices the ease between Aaron and Lea.
+
+#### Davey
+Before:
+- Attempting to recover a stolen trout.
+- Youngest of the brothers.
+
+After:
+- Meets Lea.
+- Recovers the trout.
+- Experiences the Valley's effects.
+- Develops an attachment to the Valley.
+
+### Relationships
+
+#### Lea and the Brothers
+Before:
+- Strangers.
+
+After:
+- Lea welcomes them into the Valley.
+- Trust develops quickly.
+- Aaron appears unusually comfortable around Lea.
+
+#### Lea and the Animals
+- The painted dog responds to Lea.
+- The hawk watches events involving Lea.
+- The wolf accompanies Lea.
+- The bear appears comfortable in Lea's presence.
+- The cougar is revealed to be Lea.
+
+### Locations Introduced
+
+#### BLM Campsite (Lightning Strike Campsite)
+- Starting location of the story.
+- Used by the brothers for camping and fishing.
+
+#### The Valley
+- Hidden location.
+- Contains a lake.
+- Contains a campsite.
+- Feels peaceful, safe, and welcoming.
+
+#### Ring of Aspens
+- Location where the brothers first encounter Lea.
+
+### Mythology Reveals
+- Humans and animals appear connected in unusual ways.
+- Lea has a 'glow' about her at night.
+- Lea can assume cougar form.
+- The animals surrounding Lea appear to have significance beyond ordinary wildlife.
+- The Valley influences memory and emotion.
+
+### Valley Rules Established
+- The Valley is difficult to find.
+- The Valley appears to welcome certain visitors.
+- Time in the Valley feels different from the outside world.
+- Exposure to the Valley affects emotions and memories.
+
+### Transformation Rules Established
+- Lea can shift between human and cougar form.
+
+### Spirit World Information
+- None established.
+
+### Important Objects
+- Davey's trout.
+- Mesh fish bag.
+- Campfire.
+- Saddle bags.
+
+### Physical Changes
+- None established.
+
+### Foreshadowing
+- Aaron experiences a sense of familiarity around Lea.
+- Aaron experiences deja vu.
+- Lea appears unusually comfortable with Aaron.
+- The Valley influences memory and emotion.
+- The animals surrounding Lea appear to have deeper significance.
+- The guardians sleep beside the brothers.
+- "Welcome to my Valley."
+
+### Open Questions
+- What is the Valley?
+- Who exactly is Lea?
+- Why can Lea become a cougar?
+- What are the wolf, dog, hawk, and bear?
+- Why does the Valley affect memory and emotion?
+- Why were the brothers brought to the Valley?
+- Why do Aaron and Lea seem familiar with one another?
+- What was the deja vu feeling Aaron experienced?
+- Why do the animals respond to Lea?
+
+### End of Chapter Status
+
+#### Aaron
+- Safe.
+- Sleeping in the Valley.
+- Protected by a guardian, cougar.
+
+#### Kevin
+- Safe.
+- Sleeping in the Valley.
+- Protected by a guardian, wolf.
+
+#### Davey
+- Safe.
+- Sleeping in the Valley.
+- Protected by a guardian, painted dogs.
+
+#### Lea
+- Revealed to be the cougar.
+- Remains in the Valley.
+
+#### The Valley
+- Has accepted the brothers as guests.
+
+#### Guardians
+- Form a protective circle around the sleeping brothers.
+
+---
+
+## Chapter 2 - The Trickster and the Cougar
+
+### Timeline Anchors
+- Takes place shortly after the brothers leave the Valley.
+- Lea remains in the Valley following their visit.
+- Lea continues reflecting on her encounter with Aaron.
+- Aeyren warns Lea of an approaching raven before Jack arrives.
+- Jack arrives at the Valley in crow form.
+
+### POV Characters
+- Lea
+- Jack
+
+### Characters Appearing
+- The Valley
+- Lea
+- Jack
+- Red-tailed Hawk (unnamed)
+
+### New Characters Introduced
+- Jack
+
+### Reader Knowledge Gained
+- Lea lives alone in the Valley.
+- Lea continues dreaming about the oldest brother she met during the previous chapter.
+- Lea recognizes a bond with the oldest brother but does not know its source.
+- The red-tailed hawk and Lea can communicate without spoken words.
+- Jack is Lea's older brother.
+- Jack can take both human and corvid forms.
+- Lea is hiding from people, not herself.
+
+### Relationships
+
+#### Lea and Jack
+Before:
+- Separated by distance.
+
+After:
+- Revealed to be siblings.
+- Share a close relationship built on teasing and affection.
+- Disagree about Lea's continued isolation.
+
+#### Lea and the Hawk
+Before:
+- Established companionship.
+
+After:
+- The hawk acts as a messenger.
+- The hawk delivers warnings to Lea.
+- Lea understands the hawk without spoken language.
+
+#### Jack and the Hawk
+Before:
+- Existing history implied.
+
+After:
+- Display mutual irritation.
+- Have a familiar antagonistic dynamic.
+
+### Mythology Reveals
+- A midnight feather is Jack's calling card.
+- Humans and animals can communicate without spoken language through body language.
+- Jack can shift between human and corvid forms.
+- Lea can recognize approaching individuals through signs delivered by the hawk.
+
+### Valley Rules Established
+- The Valley provides refuge from the outside world.
+- Activities occurring outside the Valley can influence events within it.
+
+### Foreshadowing
+- Lea dreams of a bond with the oldest brother.
+- Aaron continues occupying Lea's thoughts after leaving the Valley.
+- The midnight feather appears before Jack arrives.
+- Jack insists Lea cannot avoid who she is.
+- Jack believes Lea is needed outside the Valley.
+
+### Open Questions
+- What is the source of Lea's bond with Aaron?
+- Why does Lea continue dreaming about Aaron?
+- Why does the midnight feather serve as a warning?
+- What is Lea hiding from?
+- Why does Jack believe Lea is needed outside the Valley?
+- What does Jack mean by: My presence means ‘change and transition is coming.’?
+
+---
+
+## Chapter 3 - The Valley That Laughs
+
+### Timeline Anchors
+- Takes place after Jack leaves the Valley at the end of Chapter 2.
+- Fifteen years earlier, Davey brought Frank to the area following Frank's overdose and recovery.
+- Frank returns to the area searching for the Valley described by Davey and his brothers.
+- Frank discovers the lightning-struck tree near the former campsite.
+- Frank first encounters Jack in crow form.
+- Jack steals Frank's gold watch.
+- Frank follows Jack into the forest while attempting to recover the watch.
+- Frank enters the Valley for the first time.
+- Frank meets Lea for the first time.
+- Frank learns Jack and the raven are the same individual.
+- Frank invites Lea and Jack to dinner with his family.
+- Lea agrees to visit Frank's home the following evening.
+
+### POV Characters
+- Frank
+- Jack
+- Lea
+
+### Characters Appearing
+- The Valley
+  - The Outer Forest
+- Frank
+- Lea
+  - Cougar
+- Jack
+  - Crow
+  - Raven
+- Red-tailed Hawk (unnamed)
+
+### New Characters Introduced
+- Frank
+- The Outer Forest as responsive to events occurring within it.
+
+### Reader Knowledge Gained
+- Frank owns property adjacent to the Valley.
+- Davey introduced Frank to the area fifteen years earlier following an overdose.
+- Frank finds peace and healing in the land surrounding the Valley.
+- Frank is married.
+- Frank has a daughter.
+- Frank is a photographer.
+- Frank first sees Jack in crow form.
+- The crow reveals itself to be a raven.
+- Jack uses the watch theft to lure Frank into the forest.
+- The Outer Forest appears responsive to participants within it.
+- Frank enters the Valley for the first time.
+- Frank meets Lea for the first time.
+- Frank learns Jack and the raven are the same individual.
+- Frank's watch is returned to him by Lea.
+- Trout fry nibble at visitors in the lake.
+- Lea and Frank quickly establish a rapport through humor and banter.
+- Frank invites Lea and Jack to dinner with his family.
+- Lea accepts the invitation.
+- Frank receives both a hawk feather and a raven feather.
+
+### Character Knowledge
+
+#### Frank
+Before:
+- Knows the area surrounding the Valley.
+- Knows Davey believes the Valley is real.
+- Is searching for evidence of the Valley.
+- Knows about the brothers' fishing trip.
+
+After:
+- Knows the Valley exists.
+- Meets Lea.
+- Learns Jack and the raven are the same individual.
+- Learns Lea and Jack are siblings.
+- Knows Lea lives in the Valley.
+- Knows the Valley is adjacent to his property.
+
+#### Lea
+Before:
+- Knows Jack intends to interfere in her isolation.
+- Knows Frank exists as a neighbor.
+
+After:
+- Meets Frank.
+- Knows Frank is married.
+- Knows Frank has a daughter.
+- Knows Frank owns the neighboring property.
+- Knows Frank wishes to continue their acquaintance.
+
+#### Jack
+Before:
+- Intends to introduce Frank and Lea.
+
+After:
+- Knows Frank successfully entered the Valley.
+- Knows Frank and Lea established a rapport.
+- Knows Lea accepted Frank's dinner invitation.
+
+### Locations Introduced
+
+#### The Outer Forest
+- Connects the Valley Proper to the surrounding wilderness.
+- Contains game trails, brambles, ancient trees, and forest openings.
+- Appears responsive to activity occurring within it.
+
+#### Ancient Oak
+- Located along the route into the Valley.
+- Serves as a waypoint during Frank's pursuit of Jack.
+
+#### Lightning Strike Tree
+- Located near the old campsite.
+- Marked by a permanent burn scar from a lightning strike.
+
+#### Valley Campsite
+- Contains saddle bags.
+- Contains a campfire.
+- Serves as Lea's primary living area.
+
+### Relationships
+
+#### Frank and Jack
+Before:
+- Strangers.
+
+After:
+- Establish a playful rivalry.
+- Exchange humor and challenges.
+- Frank recognizes Jack as a troublemaker.
+- Jack recognizes Frank as a potential person of interest.
+
+#### Frank and Lea
+Before:
+- Strangers.
+
+After:
+- Meet for the first time.
+- Share humor and banter.
+- Develop mutual respect.
+- Continue conversation easily.
+- Agree to meet again.
+
+#### Jack and Lea
+Before:
+- Established siblings.
+
+After:
+- Jack continues pushing Lea toward engagement with the outside world.
+- Lea recognizes Jack's interference but tolerates it.
+
+### Mythology Reveals
+- A midnight feather is Jack's calling card.
+- Jack can alter his appearance between crow and raven forms.
+- The Valley extends beyond the Valley Proper through the Outer Forest.
+- Humans and animals can communicate without spoken language through body language.
+- The forest appears capable of responding to events occurring within it.
+- Lea's glow is visible enough to illuminate a trail.
+
+### Valley Rules Established
+- The Valley can conceal itself from those searching for it.
+- Entry into the Valley may require guidance.
+- The Outer Forest is influenced by the Valley.
+- Certain visitors are able to find the Valley while others cannot.
+
+### Transformation Rules Established
+- Jack can appear as both a crow and a raven.
+- Jack can transform between human and corvid forms.
+
+### Spirit World Information
+- None established.
+
+### Important Objects
+- Frank's gold watch.
+- Frank's camera.
+- Hawk feather.
+- Raven feather.
+- Basket of cherries.
+- Saddle bags.
+
+### Physical Changes
+- Frank twists his ankle entering the Valley.
+- Frank injures his hand during the pursuit of Jack.
+- Frank's watch is taken by Jack and later returned.
+
+### Foreshadowing
+- Jack believes Frank is the correct change for Lea.
+- The forest deliberately assists or reacts to events.
+- Lea's glow influences the darkness around her.
+- Frank immediately notices Lea's intelligence and wit.
+- Frank feels his creative spark returning.
+- Jack closely monitors Lea's interactions with Frank.
+- Frank receives both a hawk feather and a raven feather.
+
+### Open Questions
+- Why was Frank able to find the Valley?
+- Why did Jack choose Frank?
+- Why does the Valley appear to hide itself?
+- Why is the forest responsive?
+- Why does Lea glow?
+- Why does Jack believe Frank is important for Lea?
+- What is the significance of receiving both a hawk feather and a raven feather?
+
+### End of Chapter Status
+
+#### Frank
+- Has entered the Valley.
+- Has met Lea and Jack.
+- Has recovered his watch.
+- Invites Lea and Jack to dinner.
+- Possesses a hawk feather and a raven feather.
+
+#### Lea
+- Returns safely to the Valley.
+- Agrees to dinner with Frank.
+- Continues engaging with the outside world.
+
+#### Jack
+- Successfully introduces Frank and Lea.
+- Remains pleased with the outcome.
+- Continues observing from a distance.
+
+#### The Valley
+- Allows Frank entry.
+- Reveals itself to Frank for the first time.
+
+#### Red-tailed Hawk (unnamed)
+- Wins possession of the watch during the aerial chase.
+- Leaves a feather with Frank.
+
+---
