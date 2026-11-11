@@ -1,30 +1,25 @@
-# 🌲 VALLEY CYCLE — MASTER CHARACTER MAP (Unified Canon, June 2026)
+# 🌲 VALLEY CYCLE — MASTER CHARACTER MAP (Unified Canon, November 2026)
 
 Ages, traits, lore, guardians, animal forms, and book‑derived physical descriptions.
 
 ## **CORE SIBLINGS - Holloway Clan**
 
 ### **_JACK HOLLOWAY_**
-
 - Age: 65  
 - Born: December 1961  
 - Flashback Age: 17–18  
-
 - Physical Traits:  
   - Long black hair with green, midnight blue, and deep violet highlights  
   - Eyes: Dark amber‑brown eyes with gold flecks  
   - Height: 6'1"  
   - Lean, rangy, Native American warrior raven‑energy build  
   - Moves like a trickster even in human form
-
 - Role: Oldest sibling; emotional anchor; chaos agent; catalyst for change; runs father's ranches
-
 - Traits:  
   - Mischievous, theatrical, clever  
   - Deep loyalty to Lea  
   - Carries the heaviest emotional history  
   - Gremlin mode = default setting
-
 - Family:  
   - Wife: Jillanna (d. 1998)
     - Nicknamed him Outlaw after Indian Outlaw came out
@@ -33,9 +28,7 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
       - Born in 1994 (32–33)  
     - William "Billy" Bonny
       - Born in 1997 (29–30)
-
 - Animal Form: Raven
-
 - Guardian: None (his own form guides him), shares Wolf (mother) with Lea
   - Guardian Lore Clarification:  
     Jack is not guardian‑bonded the way Lea is. His raven form is self‑generated, not Valley‑assigned. This is important because it explains why the Valley tolerates him but does not “claim” him.
@@ -43,7 +36,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     The Valley respects him but does not “hold” him. He is a liminal creature, always half‑in, half‑out.
   - Guardian Conflict:  
     Lea’s guardians dislike him because raven energy disrupts cougar/wolf/bear stability. This is not personal — it’s metaphysical.
-
 - Mythic Identitty — The Zenith Wind
   - Herald of Change
     - Ravens in Valley lore are the ones who announce transitions, deaths, rebirths, and awakenings.
@@ -54,29 +46,24 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - His raven form is the physical expression of the Zenith Wind
 
 ### **_LEA HOLLOWAY ALDRIDGE_**
-
 - Age: 55
 - Born: March 1971
 - Flashback Age: 7–8
-
 - Physical Traits:  
   - Height: 5'10–5'11  
   - Build: Tall, statuesque, strong shoulders, large chest tapering to hips, powerful legs (mirrors CT the bear)  
   - Hair: Long wavy copper–silver–gold, “Black Hills gold” shimmer; silver streaks widening with age at temples  
   - Eyes: Ice blue (warm, not cold)
   - Ticklish
-
 - Presence:
   - Ethereal glow in darkness
   - calming
   - grounding
-
 - Role:
   - Youngest sibling
   - emotional narrator
   - central arc
   - The Valley’s chosen memory‑keeper
-
 - Traits:  
   - Intuitive, steady, deeply empathetic  
   - Withdrawn from the outside world  
@@ -85,7 +72,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Skilled campcraft, cooking, tending, guiding, crochet, canning, winemaking, beauty products  
   - Chemist/Chemical Engineer Masters
   - Medicine woman (herbalist) and University trained
-
 - Mythic Identity — The North Wind
   - Embodiment of the North Wind, the original Soul Rider
   - Carries the North Wind’s soul
@@ -97,7 +83,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Bearer of the Valley’s memory mantle
   - Opposes the Nadir Wind
   - Her lineage is the only one capable of rebinding the Winds
-
 - Family:  
   - Daughter:  
     - Rowan Dawn Alridge (Married Name TBD)  
@@ -114,11 +99,8 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     - Corporate / Industrial Sales Director  
     - Legacy‑driven, image‑focused, emotionally absent  
   - Niece, Kyrie (through River raised by Clay)
-
 - Animal Form: Cougar
-
 - Guardian: Cougar (primary lineage guardian)
-
 - Other Guardian Ties:
   - Bear (CT)
   - Wolf (mother)
@@ -130,19 +112,15 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
 ## **THE THREE BROTHERS - Callahan Clan**
 
 ### **_AARON CALLAHAN_**
-
 - Age: 54  
 - Born: May 1972  
 - Flashback Age: 6–7  
-
 - Physical Traits (from book):  
   - Build: Solid, steady  
   - Moves quietly, in sync with Lea  
   - Hair/Eyes: Not yet described
   - Height: 6'3"
-
 - Role: Emotional parallel to Lea; Eldest sibling; Book 2 Arc;
-
 - Traits:  
   - Quiet strength
   - Enforces manners / family etiquette
@@ -151,25 +129,19 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Has déjà vu moments around Lea
   - former baseball player, now hs teacher & coach; lost his career due to shoulder and knee injury
   - has talent for music, art, and acting
-
 - Family: None listed
-
 - Guardian: Cougar (chooses him as “Josey”)
 
 ### **_KEVIN CALLAHAN_**
-
 - Age: 48–49  
 - Born: January 1978  
 - Flashback Age: 0–1
-
 - Physical Traits (from book):
   - Build: Gentle, soft‑hearted
   - Dog‑lover energy
   - Hair/Eyes: Not yet described
   - Height: 6'2"
-
 - Role: Sensitive, intuitive; often overshadowed but foundational; Middle child and calm sibling between Aaron and Davey; Irish Twin to Davey Book 2 Arc
-
 - Traits:
   - Quick to laugh
   - Childhood joy resurfaces strongly in the Valley
@@ -177,26 +149,20 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Made his money in the Hotel/Tourism Business
   - Has talent for understanding people's needs in tourism and vacations (Customer‑intuition talent / hospitality savant)
   - Wants to retire to own a modest BnB or Castle-like estate hotel
-
 - Family: None
-
 - Guardian: Wolf (their mother)
 
 ### **_DAVID "DAVEY" CALLAHAN_**
-
 - Age: 47–48
 - Born: November 1978
 - Flashback Age: Unborn
-
 - Physical Traits (from book):
   - Wild, loose-curly hair, light to pale blonde (explicitly described)
   - Wiry, energetic, stocky build
   - Height: 5'7-8"
   - Easily embarrassed
   - Scruffy beard
-
 - Role: Youngest sibling; Irish twin dynamic with Kevin confirmed in‑story; emotional heart; Frank's best friend; instant soul‑recognition with Lea
-
 - Traits:
   - Childlike enthusiasm
   - Loves challenges
@@ -205,14 +171,12 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Likes starting choas but panics when it gets out control becoming the victim
   - Slow pattern seer
   - Intuitive planner
-
 - Family:
   - Wife: Lisa Smith Callahan (~47–48)
   - Children:
     - Alonzo (9)
     - Lonnie (9)
     - Rose Ester (7)
-
 - Guardian: Painted Dog (Kaya)
 
 --------------------------------------------------------------------------------------
@@ -220,11 +184,9 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
 ## **THE LAST PILLAR - Marino Clan**
 
 ### **_FRANK MARINO_**
-
 - Age: 50–51
 - Born: December 1974–75
 - Flashback Age: 20's-30's
-
 - Physical Traits:
   - Sam Elliot in Roadhouse adjacent
   - Build: Solid, grounded
@@ -235,9 +197,7 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Sometimes sports beard
   - Eyes: Tawny brown
   - Height: 6'3"
-
 - Role: Neighbor; recovering addict 15 years sober; Creative Engine; Book 1 Arc; Grew up across the street from the 3 brothers; promotions / advertising / production company
-
 - Traits:
   - Witty, sharp, clever
   - Spark faded, returning through Lea
@@ -252,11 +212,9 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Easily embarrassed when Lynn or Lisa tease him
   - In the middle somewhere in a family of 6 kids
   - Italian heritage
-
 - Family:
   - Wife: Lynn (45–48)
   - Daughter: Samantha "Sam" (10)
-
 - Guardian: Raven / Crow from Jack choosing him for Lea
 
 --------------------------------------------------------------------------------------
@@ -264,7 +222,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
 ## EXTENDED FAMILY
 
 ### Holloway Clan
-
 - Twin Brothers
 - Age: 60 Born 1966
 - Personal Traits:
@@ -272,20 +229,17 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Height: 5'7"
   - Short stature of mother with prominent Native American Traits, but stocky build of father. Think Scott Cann or Sean Astin
   - Hazel eyes
-
-- River Holloway:
+- **River Holloway**:
   - Died 2010 at 44 in accident with Lea's Son
   - Father of Lea’s niece
   - Guardian / Animal Form: Otter/River Otter
-
-- Clay Holloway:
+- **Clay Holloway**:
   - Baptist preacher
   - Rejects Native heritage
   - Thinks Jack and Lea are Devil's spawn
   - Guardian / Animal Form: Wild boar
   - Never developed ability to shift to animal form and part of the denouncement
-
-- Rowan Dawn Alridge (Married Name TBD)
+- **Rowan Dawn Alridge** (Married Name TBD)
   - Expecting in December
   - Her children inherit the Winds
     - Son = East Wind (next shaman)  
@@ -293,15 +247,11 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Should inherit the Valley and mother's things (Valley skips her)
   - Rowan herself is the bridge between Winds and modern world
   - Guardian/Animal Form - Kestrel
-
-- Lea’s niece Holloway
-  - Kyrie
+- Lea’s niece **Kyrie Holloway**
   - Age (20) Born in 2006
   - Guardian / Animal Form: Hummingbird
   - Raised by Clay
-
-- Father Holloway
-  - James
+- Father **James Holloway**
   - Scottish/German decent
   - Red, curly hair
   - Blue Eyes
@@ -310,22 +260,20 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Rancher
   - Breeds Horses and bulls for rodeos as well as dairy, meat, and riding/racing
   - Called is wife Squaw
-
-- Mother Holloway
-  - Winona
+- Mother **Winona Holloway**
   - 3/4 Native American
   - Short stature 5'5" to 5'6"
   - Brown Eyes
   - Long Straight black hair
   - Guardian / Animal Form: Wolf
-  - Choose to become her animal form after death to protect and guide her 3 children and grandchildren
+  - Chose to become her animal form after death to protect and guide her 3 children and grandchildren
   - Not a permanent valley resident
   - Adopted by British step‑father Hawthorne
   - Raised between Homelands + Estate
   - Mixed Native + British upbringing
   - Wolf guardian lineage
   - Bridge between the two worlds
-
+  - Discovers Hawthorne lineage and ties to West Wind Covenant
 - Gran-ma-ma Blackwater
   - Lea & Jack's maternal great-grandmother
   - Grandpa Blackwater's mother
@@ -343,7 +291,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Keeper of forest + fire + dream + animal lore
   - **West Wind (ancestral tie)**  
   - Keeper of transitions
-
 - Grandpa Blackwater
   - Lea's maternal grandfather
   - Gran-ma-ma's Son
@@ -355,22 +302,19 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Tribal Elder of the Homelands
   - Taught Holloway kids stewardship and plant lore
   - Hired by Duke Hawthorne to help maintain the estate.
-
 - Duke Hawthorne
   - Winona's Step-father
   - British ex-pat
   - Married Winona's mother
   - Sterile
-
 - Winona's Mother Duchess Hawthorne
-  - Her mother assaulted when on trip with family to America by Native American, making her 1/2 British 1/2 NA
+  - Her mother assaulted when on trip with family to America by Native American (West Wind lineage), making her 1/2 British 1/2 NA
   - Did not find out about her real father until moved to America with Duke
   - Has love affair the Grandpa Blackwater and produces Winona
   - Marries Grandpa Blackwater after Duke's passing.
 
 ### Callahan Clan
-
-- Lisa Smith Callahan (Davey’s wife)
+- **Lisa Smith Callahan** (Davey’s wife)
   - Age: ~47–48
   - Traits:
     - Almost Emerald green Eyes
@@ -390,24 +334,21 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     - Only one sister
     - Knows Lea is not a threat
     - Sister is Mandy and owns and Honda Odyssey
-
 - Davey's Children:
-  - Alonzo Callahan
+  - **Alonzo Callahan**
     - Age: 9
     - Twin to Lonnie
     - Traits:
       - Energetic
       - Loud laugh
       - Loves challenges like his dad
-
-  - Lonnie Callahan
+  - **Lonnie Callahan**
     - Age: 9
     - Traits:
       - More cautious twin
       - Doesn't ask permission for personal comfort
       - Observant
-
-  - Rose Ester Callahan
+  - **Rose Ester Callahan**
     - Age: 7
     - Traits:
       - Sweet, soft‑spoken
@@ -415,8 +356,7 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
       - Loves animals
 
 ### Marino Clan
-
-- Lynn Marino (Frank’s wife)
+- **Lynn Marino** (Frank’s wife)
   - Age: 45–48
   - Traits:
     - Willowy blonde
@@ -432,8 +372,7 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     - Former waitress
     - Has crush on Jack
     - First to adopt Lea as a sister
-
-- Samantha "Sam" Marino (Frank's Daughter)
+- **Samantha "Sam" Marino** (Frank's Daughter)
   - Age: 10
   - Traits:
     - Bright, curious
@@ -447,7 +386,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
 ## GUARDIANS (Valley Lore)
 
 ### Cougar — Guardian of Intuition
-
 - Chooses Aaron
 - Lea's core animal totem and animal form
 - Chosen by Lea when she was just 5 when one bonked heads with her
@@ -460,7 +398,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Quiet observer
 
 ### Redtailed Hawk — Overseer
-
 - Name: Aeyren (AYE‑ren)
 - Chose Lea and was present at her birth
 - Traits:
@@ -471,7 +408,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Pattern guide and overall pattern seer
 
 ### Bear — Parenting & Friendships
-
 - Cinnamon Toast (CT) or sometime MamaBear (MB)
 - Choses Lea as a cub and later as and adult when Lea has her daughter
 - Lea named her due to her coat looking like cinnamon toast
@@ -484,7 +420,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Recognizer of human bonds
 
 ### Painted Dog — Guide in happiness and reminding to take time out from the mundane to play
-
 - Name: Kaya
 - Chooses Davey
 - Chose Lea at her work place and Lea relocated to her to the Valley
@@ -506,7 +441,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Easily distracted (SQUIRREL!)
 
 ### Wolf — The Mother
-
 - Chooses Kevin
 - Identity: Jack & Lea’s mother orignal core animal totem and form
 - Only core guardian not a permanent resident and didn't choose Lea as a permanent guide
@@ -521,7 +455,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Watches over her children even if not in the Valley
 
 ### Raven - Jack
-
 - Can morph into a crow when appropriate; both share similar traits
 - Protective of Lea, but in a sideways, chaotic way
 - Disliked by Lea’s guardians (bear, cougar, hawk, Kaya) because he meddles
@@ -549,7 +482,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Humor → healing
 
 ### Other Animal Totems Not Guardian Core but Represented
-
 - Otter/River Otter
   - Traits:
     - Joy
@@ -558,7 +490,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     - Family protection
     - Healing through play
     - River lineage
-
 - Wild Boar
   - Traits:
     - Earthbound
@@ -567,7 +498,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     - Rigid
     - Resentful
     - Symbol of denial
-
 - Hummingbird
   - Traits:
     - Joy
@@ -575,7 +505,6 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
     - Healing
     - Attraction
     - Sky‑Joy lineage
-
 - Kestrel
   - Traits:
     - Skyfire
@@ -587,64 +516,152 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
 --------------------------------------------------------------------------------------
 
 ## PETS & OTHER ANIMALS
-
 - Selby: Frank’s golden retriever
-
 - Snowball: Sam’s long-haired white cat
-
 - Ceril: Lea’s mustang (burnt umber)
-
 - Corvin: Jack’s quarter horse (black w/ white star)
+
+--------------------------------------------------------------------------------------
+
+## The Valley
+- Identity: The Living Witness
+- Nature: Neither place nor spirit, but both
+- Created By: The First Winds
+- Purpose:
+  - Remember what others forget
+  - Preserve covenants
+  - Record promises
+  - Serve as witness to history
+- Alignment:
+  - Opposes Oblivion
+  - Opposes Severance
+  - Resists Nadir's influence
+- Known Traits:
+  - Selects guardians
+  - Summons spirits when needed
+  - Allows temporary forms
+  - Retains memory across generations
+  - Can influence dreams
+  - Can call the Winds together
+  - Can refuse explanations when it decides another story must be told first
+- Personality Notes:
+  - Protective
+  - Patient
+  - Occasionally stubborn
+  - Possesses a sense of humor
+  - Tends to answer questions through stories rather than direct explanations
+- Current State:
+  - Wounded
+  - Partially silenced
+  - Memory fragmented
+  - Fighting to remember itself
 
 --------------------------------------------------------------------------------------
 
 ## **THE SIX WINDS (Cosmology of the Valley)**
 
 ### **1. North Wind — Clarity, Truth, Memory**  
-
-- Mantle: **Lea**  
+- Mantle: **Lea**
+- First Name: **Yedin**
 - Season: Winter  
 - Domain: Dream, Pattern, Record‑keeping  
 - Function: The breath that sees  
 - Notes: The original Soul Rider; the Valley’s memory‑keeper; the one who can survive soul‑fracture.
+- Wolf or Cougar
+  - Territorial
+  - Observant
+  - Remembers paths
+  - Apex predator
+  - Patient
 
 ### **2. South Wind — Warmth, Growth, Healing**  
-
 - Mantle: _*Unassigned (future reveal)*_
+- First Name: **Shona**
 - Season: Summer  
 - Domain: Life, Roots, Recovery  
 - Function: The breath that nurtures  
 - Notes: Likely connected to Rowan’s daughter (twin girl).
+- Painted Dog (African Wild Dog)
+  - Extremely social and family-oriented.
+  - Packs care for injured members.
+  - Sick or wounded dogs are fed by the group.
+  - Cooperative rather than dominant.
+  - Their strength comes from community.
+  - North Winds says we do it alone. South wind says we do it together.
+- Alternative: Bear
+  - healing
+  - medicine
+  - protection
+  - motherhood
+  - endurance
+  - renewal (hibernation cycles)
+  - A bear can be nurturing and absolutely terrifying.
 
 ### **3. East Wind — Dawn, Beginnings, Awakening**  
-
 - Mantle: _*Unassigned (future reveal)*_
+- First Name: **Waban**
 - Season: Spring  
-- Domain: Birth, First Breath  
+- Domain: Birth, First Breath
 - Function: The breath that opens  
 - Notes: Likely connected to Rowan’s son (next shaman).
+- Fox
+  - Dawn companion
+  - Clever and quick
+  - Finds hidden paths
+  - Quick learner
+  - Dawn explorer
+  - Curious
+  - "Every road begins with the Fox."
+- East feels like the sibling who discovers things.
+- Alternative: Hummingbird
+  - Brings messages of new beginnings
+  - Joy
+  - Renewal
+  - Pollination
+  - First signs of spring
 
 ### **4. West Wind — Dusk, Endings, Release**  
-
 - Mantle: _*Unassigned (ancestral)*_
+- First Name: **Payet**
 - Season: Autumn  
 - Domain: Death, Transition  
 - Function: The breath that carries souls  
 - Notes: Historically tied to Gran‑ma‑ma’s ghost form.
+- Elk
+  - West isn't death.
+  - It's about change and cycles. West is transition.
+  - Elk already have that seasonal symbolism:
+    - Shed antlers
+    - Regrow antlers
+    - Yearly cycle of loss and renewal
+    - Strong but not predatory
+    - An elk shedding antlers and growing them again is almost a visual metaphor for West's covenant being lost and restored.
+  - Alternative: Owl
+    - Wisdom
+    - Night vision
+    - Silent flight
+    - Seeing what others cannot
+    - Guardian of thresholds
+    - Guide for souls crossing from one state to another
 
 ## **THE TWO HIDDEN WINDS (Forgotten by humans, remembered by the Valley)**
 
 ### **5. Zenith Wind — The Wind Above**  
-
 - Mantle: **Jack**  
+- First Name: **Korvath**
 - Season: Storm  
 - Domain: Lightning, Thunder, Revelation  
 - Function: Guardian‑caller, messenger, herald of change  
 - Notes: Explains raven energy, trickster role, why guardians dislike him, why the Valley tolerates him but does not claim him.
+- Raven
+  - Messenger
+  - Intelligent
+  - Associated with storms and omens
+  - Travels between worlds
 
 ### **6. Nadir Wind — The Wind Below (Forgotten Wind)**  
-
-- Mantle: **Antagonist**  
+- Mantle: **Antagonist**
+- First Name: **Nahl**
 - Season: Silence  
 - Domain: Forgetting, Unmaking, Severance  
 - Function: The breath that fell; the wind that lost its name  
@@ -656,14 +673,15 @@ Ages, traits, lore, guardians, animal forms, and book‑derived physical descrip
   - Fears the North Wind  
   - Fears Rowan’s child  
   - Believes the Valley must die with it  
+  - If he had an animal form, no one remembers it because he didn't form a covenant with humans.
+
+--------------------------------------------------------------------------------------
 
 ## Shifting & Clothing (Valley Magic Rules)
 
 ### 1. State‑Based Shifting
-
 The Valley does not care about clothes.
 It mirrors the state the person is in at the moment of the shift.
-
 - Shift clothed → return clothed
 - Shift naked → return naked
 
@@ -671,19 +689,15 @@ There is no teleporting fabric, no Hulk physics, no magical wardrobe.
 Whatever state they begin in is the state they return to.
 
 ### 2. Clothes During the Shift
-
 When someone shifts while clothed, the clothes do not fall away.
 They become part of the magical overlay of the animal form:
-
 - color
 - pattern
 - texture
 - energy
-
 When they shift back, the clothes return with them because they shifted with them.
 
 ### 3. Emotions Always Remain
-
 - Shifting changes the body, not the heart.
 - Human emotions stay fully present:
   - fear
@@ -692,7 +706,6 @@ When they shift back, the clothes return with them because they shifted with the
   - determination
   - grief
   - humor
-
 As Lea says in Chapter 10:
 “Shifting into animal form doesn’t rid you of the human emotions.”
 
@@ -705,10 +718,14 @@ They influence movement, reaction, and sensory focus, but they do not override t
 
 Jack keeps a backpack stashed for post‑shift emergencies.
 The wolf retrieves it for him when needed.
-
 This is why Jack has clothes in Chapter 3 — the same backpack delivered to him in Chapter 6.
 
 ### 6. Gran‑ma‑ma’s Forms
 
 Gran‑ma‑ma’s forms do not follow guardian rules.
 Her transformations are pure magic, not physical shifts, and do not involve clothing at all.
+
+### 7. Shifting Age
+Shifting usually begins in prepubescence, when the body and mind are changing rapidly.
+Those that inherit a mantle may shift earlier, guided by its power.
+Shifting age can vary with the individual.

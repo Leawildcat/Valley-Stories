@@ -150,3 +150,111 @@ This is why the Valley collapses when Lea collapses.
 This is why Rowan’s child is the heir.  
 This is why the Valley chose the five.  
 This is why the trilogy works.
+
+---
+
+Honestly, for your Valley mythology, I'd be careful about directly lifting Indigenous deities. Borrowing the structure and cosmological ideas is one thing. Naming your actual wind spirits after sacred beings from living traditions is where things can get messy.
+
+What I would steal shamelessly is the concept.
+
+Many Indigenous traditions view the Winds as ancient persons, guardians, teachers, or powers associated with directions rather than mere weather. The six-direction model (north, south, east, west, above, below) is also found in various forms across North America, which is one reason your system already feels mythologically authentic.
+
+Looking at what you've built, I actually think the Winds should be older than names.
+
+## The First Breath Myth
+
+Before there was the Valley, there was only the Great Silence.
+Then the Silence exhaled.
+The breath broke into six winds.
+The first drifted north and became Memory.
+The second flowed south and became Life.
+The third rose with the dawn and became Beginning.
+The fourth followed the setting sun and became Passing.
+The fifth climbed beyond the clouds and became Revelation.
+The sixth fell into the deep places and became Forgetting.
+Together they circled the world and carved the Valley between them.
+
+For names, I'd make them ancient enough that no one remembers their original meaning.
+
+## North Wind
+Yedin (inspired by your remembered "Yedi")
+The Keeper of Tracks.
+ The Witness.
+ The Wind Who Remembers.
+
+## South Wind
+Shona
+The Warm Breath.
+ The Grower of Roots.
+ The Wind Who Heals.
+
+East Wind
+Waban
+The First Light.
+ The Opener of Doors.
+ The Wind Who Awakens.
+(This one is loosely inspired by "Waban/Wabun," a dawn-related Algonquian concept without directly using a sacred figure.)
+
+## West Wind
+Payet
+The Twilight Walker.
+ The Ferryman's Wind.
+ The Wind Who Releases.
+
+## Zenith Wind
+Korvath
+Thunder. Lightning. The Raven's Road.
+This absolutely feels like Jack's Wind.
+
+## Nadir Wind
+Nahl
+The Nameless Wind.
+The Wind-below.
+The Lost Breath.
+The one people refuse to speak of.
+
+---
+
+What I really love is this:
+
+The other five Winds still have names.
+The Sixth does not.
+Or rather, it did.
+Something happened.
+The Valley forgot it.
+Every culture remembers a different fragment:
+"Nahl."
+"Nai."
+"The Hollow Wind."
+"The Deep Breath."
+"The Wind Under Stone."
+
+None are correct.
+
+The true name was lost.
+And names have power in the Valley.
+That immediately makes the Nadir Wind feel dangerous, ancient, and central to the mystery without turning it into a simple evil force.
+For the Valley specifically, I'd make the opening line of the creation story something like:
+Before there were People, before there were Guardians, before there was even the Valley itself, there were Six Winds.
+Five are remembered.
+One is missing.
+That feels very much in line with the tone you've been building around forgotten history, memory, records, and the idea that the Valley itself remembers things humans do not.
+No one remembers Nahl's animal form.
+Some claim he never had one.
+Others insist he abandoned it when he rejected the covenant.
+The Valley keeps its answer.
+
+---
+
+A possible mythic title for the Winds
+You might consider giving each an ancient epithet.
+Not something everyone uses, just something found in old stories.
+For example:
+- Yedin, The Witness
+- Shona, The Hearthkeeper
+- Waban, The Pathfinder
+- Payet, The Guide
+- Korvath, The Storm Crow
+- Nahl, The Lost Breath
+
+Not necessary, but it gives old legends something to call them besides directional names.
