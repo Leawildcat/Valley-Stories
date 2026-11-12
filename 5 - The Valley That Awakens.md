@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line MD041 -->
 ## The Valley That Awakens
 
 The golden retriever Selby, bored and awake, wanders into the bedroom and spots Frank’s feet dangling off the end of the bed. They look like a midnight snack.
@@ -12,7 +13,7 @@ He looks back at the bed and resigns himself to the fact he has been evicted aga
 
 Frank walks into the bathroom and closes the door. He squints as he flicks on the lights, adjusting to the sudden brightness. He does his business, then stands at the sink washing his hands before deciding to splash some water on his face. He looks in the mirror and studies himself. He slicks his almost black hair back, trying to cover the sides he foolishly shaved for that throwback eighties photo. His brown eyes carry two sets of bags under each, puffy and dark from lack of sleep. The wrinkles are getting deeper. His eyebrows and mustache have hit the bushy stage, stray hairs going every which way. He feels his age.
 
-He examines the back of his hand where the hawk had collided with it. It’s starting to turn from the red of the initial contact to the deep purple, almost blue-black, of a bad bruise. It’s tender but no longer painful. He looks down at his dad’s gold watch in the valet box his wife got him for his last birthday. The time reads 1:44. Earlier than he thought. Too late to be awake, too early to start the day. He thinks to himself, *What the hell is happening to me? Am I starting the dementia that took my father? Did I imagine the whole thing today or just dream it?* He sighs and rubs his face again, feeling the weight of something he cannot name settling in his chest.
+He examines the back of his hand where the raven had collided with it. It’s starting to turn from the red of the initial contact to the deep purple, almost blue-black, of a bad bruise. It’s tender but no longer painful. He looks down at his dad’s gold watch in the valet box his wife got him for his last birthday. The time reads 1:44. Earlier than he thought. Too late to be awake, too early to start the day. He thinks to himself, *What the hell is happening to me? Am I starting the dementia that took my father? Did I imagine the whole thing today or just dream it?* He sighs and rubs his face again, feeling the weight of something he cannot name settling in his chest.
 
 He flicks the switch off and opens the door, only to have the squeaky ball dropped on his foot. He allows his eyes to adjust to the darkness and sees his wife hasn’t moved. He reaches down, grabs the ball, and goes down the hallway to check on his daughter, Sam. He cracks the door open and she is still sound asleep with her cat, Snowball, curled beside her. He gently closes the door before heading down the stairs. Selby, jumping at his ball, nearly trips him twice before he reaches the bottom.
 
@@ -49,7 +50,7 @@ Hot water already steaming up the glass and mirrors, Frank braces his palms agai
 *But you find her attractive and not just by looks.*
 
 *I do, but people can’t help what they dream, can they?*
-
+<!-- markdownlint-disable-next-line MD036 -->
 *No, but, like it says in Cinderella ‘dreams are a wish your heart makes.’*
 
 *So…what? I wish to fall on my ass because I fail at catching fish by hand?*
