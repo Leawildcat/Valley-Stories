@@ -1,29 +1,66 @@
-## Chapter # - Title
+Rules:  
+- Record only information established in the manuscript.
+- Record observations, not explanations.
+- Separate reader knowledge from character knowledge.
+- Record chapter-specific reveals.
+- Track unresolved questions.
+- Track Valley rules and mythology.
+  - Shapeshifting and clothing rules currently in CharacterMap.md until Sahbobuk.md is added.
+- Track timeline anchors
+  - Including ages of characters if given or can be inferred
+  - Travel times between locations
+  - Seasonal changes and/or times of day
+  - Approximate time of flashbacks or recalled events (like 14 years before current timeline, or a month ago, etc.)
+- Track physical world changes.
+- Do not record author-only information.
+- Use LocationMap.md for referencing location names.
+
+---
+
+## Chapter Numbers and Titles
+
+### Global Continuity Categories
 
 ### Timeline Anchors
+Events with known sequence placement.
 ### POV Characters
 ### Characters Appearing
 ### New Characters Introduced
-### Reader Knowledge Gained
-### Character Knowledge Changes
+### Reader Knowledge
+What the reader has been told.
+### Character Knowledge
+What each character knows at this point in the story.
 #### Character Name
 Before:
 After:
 ### Relationships
+Character relationship changes.
 #### Characters' relationship established including with animals
 Before:
 After:
-### Locations Introduced
+### Locations
+Important physical locations.
 #### Location name form LocationsMap.md
 - Populated what the location is used for
 - Populated with sites at that location
 ### Mythology Reveals
 ### Valley Rules Established
+Confirmed rules governing the Valley.
 ### Transformation Rules Established
+Confirmed rules concerning animal and human forms.
 ### Spirit World Information
+Confirmed information about death, spirits, and return.
 ### Important Objects
+Any objects of significance to the Valley or its inhabitants.
 ### Physical Changes
+Temporary or permanent changes to bodies, physical condition, appearance (including seasonal changes), age, injuries, healing, transformations, or other tangible physical states.
 ### Foreshadowing
+Setups, unusual events, symbolism, recurring imagery, or suspicious details that lack explanation at the current point in the story.
+### Open Questions Resolved
+Open Questions from previous chapters resolved in this chapter.
+#### Chapter #
+List of question(s) resolved.
 ### Open Questions
+Mysteries not yet answered.
 ### End of Chapter Status
 #### Listed by each character present in the chapter
