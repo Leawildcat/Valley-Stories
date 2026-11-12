@@ -62,6 +62,10 @@ Any objects of significance to the Valley or its inhabitants.
 Temporary or permanent changes to bodies, physical condition, appearance (including seasonal changes), age, injuries, healing, transformations, or other tangible physical states.
 ### Foreshadowing
 Setups, unusual events, symbolism, recurring imagery, or suspicious details that lack explanation at the current point in the story.
+### Open Questions Resolved
+Open Questions from previous chapters resolved in this chapter.
+#### Chapter No
+List of question(s) resolved.
 ### Open Questions
 Mysteries not yet answered.
 ### End of Chapter Status
@@ -247,6 +251,12 @@ After:
 - Kevin perceives a mirrored relationship between Lea and the bear.
 - The painted dog appears to intentionally lure the brothers deeper into the forest.
 - Lea refers to the Valley as "my Valley."
+
+### Open Questions Resolved
+
+#### Chapter 1
+- Why do Aaron and Lea seem familiar with one another? Partially answered.
+- What was the deja vu feeling Aaron experienced? Partially answered.
 
 ### Open Questions
 - What is the Valley?
@@ -651,6 +661,11 @@ After:
 - Jack closely monitors Lea's interactions with Frank.
 - Frank receives both a hawk feather and a raven feather.
 
+### Open Questions Resolved
+
+#### Chapter 1
+- Who exactly is Lea? Partial answer.
+
 ### Open Questions
 - Why was Frank able to find the Valley?
 - Why does the Valley appear to hide itself?
@@ -658,7 +673,7 @@ After:
 - Why does Lea glow?
 - Why did Jack choose Frank as Lea's change?
 - What is the significance of receiving both a hawk feather and a raven feather?
-- Why can Lea live in the Valley when no other humans do?
+- Why is Lea the only human living in the Valley?
 - What will happen at dinner?
 - Why does the Valley laugh?
 
@@ -690,3 +705,197 @@ After:
 - Leaves a feather with Frank.
 
 ---
+## Chapter 4 - The Dog and the Cougar
+
+### Timeline Anchors
+- Takes place the same evening as Frank's first visit to the Valley in Chapter 3.
+- A storm approaches and reaches the Valley during the chapter.
+- Contains an extended recollection from Lea's life before permanently returning to the Valley.
+- Timeline anchors in flashbacks:
+  - Gran-ma-ma has been dead for approximately fifteen years.
+  - Kaya is pregnant.
+  - Lea secures approval for a two-week trip to the Valley.
+  - Lea plans to leave for the Valley approximately two weeks after the recollected events begin.
+  - Lea is married and raising a young daughter.
+  - The recollected events span multiple days as Kaya grows accustomed to following Lea at work.
+
+### POV Characters
+- Lea
+- Kaya
+
+### Characters Appearing
+- The Valley
+- Lea
+- Wolf (unnamed)
+- Painted Dog - Kaya
+- Lea's bosses and coworkers
+- Lea's Husband
+- Lea's Daughter (unnamed)
+- Becky (friend of Lea from HS)
+
+### New Characters Introduced
+- Lea's Husband (unnamed)
+
+### Reader Knowledge Gained
+- Lea lost Gran-ma-ma approximately fifteen years earlier at the time of the flashback.
+- Lea was married.
+- Lea had a school-aged daughter.
+- Lea worked long hours and frequently covered additional shifts.
+- Lea worked at some type of industrial/chemical plant.
+- Lea is deeply lonely and afraid to trust people.
+- The Valley actively called to Lea through dreams and whispers to "come home."
+- Kaya first appeared to Lea as a painted dog near her workplace.
+- Kaya repeatedly followed Lea over multiple days.
+- Kaya was pregnant.
+- Kaya willingly interacts with Lea and expects food from her.
+- Kaya helps Lea remember joy, companionship, anticipation, purpose, and hope.
+- The wolf watches over Lea.
+- The wolf tolerates Kaya's presence.
+- Lea named the painted dog Kaya.
+- Lea's coworkers are NOT aware of the painted dog following her.
+- Lea planned to visit the Valley alone to take Kaya there.
+- Lea owns the Valley.
+- Lea remembers why connection matters and feels a small sense of hope.
+- Lea is unusually aware of physical cues in her environment.
+- Lea grew up on a ranch.
+- Lea spent time on a reservation with her grandfather.
+
+### Character Knowledge
+
+#### Lea
+Before:
+- Focused on Frank and uncomfortable with how much she enjoyed spending time with him.
+- Fearful of trusting people and forming emotional attachments.
+- Retreating into emotional isolation.
+
+After:
+- Remembers how much Kaya meant to her when she was lonely.
+- Remembers the importance of companionship and connection.
+- Recognizes that meaningful relationships can bring joy, purpose, and hope.
+- Becomes slightly more open to the possibility that Frank may be a positive presence in her life.
+
+### Relationships
+
+#### Lea and Kaya
+Before:
+- Strong bond already exists between them.
+- Kaya, who chose her, is considered a guardian for Lea.
+
+After:
+- No significant change.
+- The origin of their relationship is revealed to the reader.
+- Lea understands Kaya turns to her for comfort and protection during thunderstorms.
+
+#### Lea and Frank
+Before:
+- Recently met.
+- Lea is wary of becoming emotionally attached.
+- Lea doesn't trust herself to judge Frank's intentions.
+
+After:
+- Frank remains in Lea's thoughts.
+- Lea becomes more open to the possibility of a friendship with Frank.
+- Lea considers that Frank may be a positive presence in her life.
+
+#### Lea and the Wolf (unnamed)
+Before:
+- Established companionship.
+- The wolf is protective of Lea.
+- Considered a guardian for Lea.
+
+After:
+- The wolf continues watching over Lea.
+
+#### Kaya and the Wolf (unnamed)
+Before:
+- Kaya and the wolf are frequently seen together around Lea.
+
+After:
+- The wolf tolerates Kaya's presence around Lea.
+- The wolf is easily aggravated by Kaya's playful behavior.
+
+#### Lea and Her Husband (unnamed)
+Before:
+- Married.
+
+After:
+- Lea's husband discourages her Native heritage.
+- Lea does not feel emotionally connected to her husband.
+- Lea experiences loneliness despite being married.
+- Lea's husband does not share Lea's connection to the Valley.
+
+### Locations Introduced
+
+#### Rocky Outcrop and Hidden Cavern
+- Used by Lea as shelter during storms and bad weather.
+- Used for food storage, cooking, and sleeping.
+- Contains the hidden cavern entrance.
+- Contains a bubbling limestone spring.
+- Contains a firepit with natural chimney flue.
+- Contains saddle bag storage.
+- Contains waterproof storage for supplies.
+
+### Mythology Reveals
+- The Valley can communicate with Lea through dreams.
+- The Valley can communicate with Lea through whispers.
+- The Valley actively calls Lea to return home.
+- The forest appears capable of responding to Lea's emotional state.
+- The Wolf and Kaya respond to Lea's emotional state.
+
+### Valley Rules Established
+- The Valley can call specific individuals through dreams and whispers.
+- The Valley seems aware of Lea's emotional state.
+
+### Transformation Rules Established
+- Lea can choose between human and cougar form at will. (supersedes sunlight rule from Chapter 2)
+
+### Spirit World Information
+- None.
+
+### Important Objects
+- Hidden cavern entrance.
+- Bubbling limestone spring.
+- Firepit with natural chimney flue.
+
+### Physical Changes
+- A storm approaches and reaches the Valley.
+- Valley conditions change from calm summer weather to a thunderstorm.
+
+### Foreshadowing
+- None.
+
+### Open Questions Resolved
+
+#### Chapter 1
+- What are the wolf, dog, hawk, and bear? Partially answered for dog.
+- Why does the painted dog appear in a region where it should not naturally exist?
+
+#### Chapter 3
+- Why is Lea the only human living in the Valley? Partially answered.
+
+### Open Questions
+- Is there a connection between Lea's emotional state and the approaching storm?
+- Why are the wolf and Kaya so responsive to Lea's emotional state?
+- Why does the forest appear capable of responding to Lea's emotional state?
+- Why does the Valley repeatedly whisper "come home" to Lea?
+- Who is Billy?
+- Why does Lea not know where Jack is in the flashback?
+- What did Lea do at the industrial/chemical plant?
+
+### End of Chapter Status
+
+#### Lea
+- Sheltered in the Hidden Cavern during a storm.
+- Providing comfort to Kaya.
+- Remains in the Valley.
+- Feels a small sense of hope.
+- Begins considering that Frank may be a positive presence in her life.
+
+#### Kaya
+- Sheltered in the Hidden Cavern during a storm.
+- Seeks comfort and protection from Lea.
+- Remains closely bonded to Lea.
+
+#### Wolf (unnamed)
+- Continues watching over Lea.
+- Leaves for her den after confirming Lea is safe.
