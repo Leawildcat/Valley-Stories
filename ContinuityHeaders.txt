@@ -14,6 +14,32 @@ Rules:
 - Track physical world changes.
 - Do not record author-only information.
 - Use LocationMap.md for referencing location names.
+- Flashback / Memory / Dream Sequence Rule
+  - Because The Valley Recalls is heavily built around memories, flashbacks, and dreamlike recollections, continuity entries must distinguish between information learned in the present timeline and information revealed through remembered events.
+  - Timeline Anchors
+    - Events occurring in flashbacks, memories, dreams, or recollections are recorded in past tense.
+    - Events occurring in the chapter's present timeline are recorded in present tense.
+    - The tense difference serves as an indicator of timeline location and should be preserved consistently.
+  - Reader Knowledge Gained
+    - Information revealed through a memory sequence is still listed because the reader has learned it.
+    - Facts from memories should be written in a way that reflects they occurred in the past.
+      - Example:
+        Lea was married.
+        Lea had a school-age daughter.
+    - Present-day discoveries remain in present tense.
+  - Character Knowledge Changes
+    - Information a character already knew because they experienced it in the past belongs in Before.
+    - Information remembered, rediscovered, reinterpreted, or newly learned during the chapter belongs in After only if the character's understanding changes.
+    - A flashback itself is not automatically a knowledge change.
+  - Relationships
+    - Relationship states revealed through memories are recorded as historical relationship information.
+    - Present-day relationship changes are documented separately.
+  - Physical Changes
+    - Historical injuries, transformations, pregnancies, aging states, deaths, or environmental conditions shown in memories can be recorded when first revealed to the reader.
+    - The entry should clearly indicate the event occurred in the past.
+  - Open Questions and Resolutions
+    - A flashback can answer an existing question.
+    - The answer should be documented regardless of timeline.
 
 ---
 
